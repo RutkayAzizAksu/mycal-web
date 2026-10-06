@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MyCal Uzman Paneli</title>
+<meta name="description" content="MyCal uzmanları için danışan takip paneli.">
+<meta name="robots" content="noindex">
+<meta name="theme-color" content="#006d2f">
+<link rel="icon" href="../favicon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../style.css">
+<style>
+  .panel { display: grid; grid-template-columns: 320px 1fr; gap: 16px; align-items: start; }
+  @media (max-width: 860px) { .panel { grid-template-columns: 1fr; } }
+  .stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin: 8px 0 16px; }
+  .stat { background: var(--card); border: 1px solid var(--border); border-radius: 16px; padding: 14px; }
+  .stat b { display: block; font-size: 26px; letter-spacing: -.5px; }
+  .stat span { font-size: 13px; color: var(--muted); }
+  .tabs { display: flex; gap: 8px; flex-wrap: wrap; margin: 0 0 12px; }
+  .chip { height: 36px; padding: 0 14px; border-radius: 999px; border: 1px solid var(--border); background: var(--card); color: var(--text); font: inherit; font-weight: 600; font-size: 14px; cursor: pointer; }
+  .chip.on { background: var(--primary); border-color: var(--primary); color: #fff; }
+  .row { display: flex; align-items: center; gap: 12px; padding: 12px 14px; border-radius: 16px; background: var(--card); border: 1px solid var(--border); margin-bottom: 8px; cursor: pointer; width: 100%; text-align: left; font: inherit; color: var(--text); }
+  .row.sel { border-color: var(--primary); box-shadow: 0 0 0 2px color-mix(in srgb, var(--primary) 25%, transparent); }
+  .avatar { width: 40px; height: 40px; border-radius: 50%; background: var(--surface); object-fit: cover; flex: none; display: grid; place-items: center; font-weight: 800; color: var(--primary); }
+  .grow { flex: 1; min-width: 0; }
+  .name { font-weight: 700; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .sub { font-size: 13px; color: var(--muted); }
+  .pill { font-size: 12px; font-weight: 700; padding: 4px 10px; border-radius: 999px; white-space: nowrap; }
+  .s-on_track { color: #13803e; background: #2eb85c22; } .s-over, .s-low { color: var(--danger); background: #c0392b1c; }
+  .s-no_logs { color: #a8650c; background: #e5a52b26; } .s-in_progress { color: var(--muted); background: var(--surface); }
+  table { width: 100%; border-collapse: collapse; font-size: 14px; }
+  td, th { text-align: left; padding: 10px 8px; border-bottom: 1px solid var(--border); }
+  th { color: var(--muted); font-weight: 600; font-size: 12px; }
+  .num { text-align: right; font-variant-numeric: tabular-nums; }
+  .actions { display: flex; gap: 8px; flex-wrap: wrap; }
+  .form { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; }
+  @media (max-width: 560px) { .form { grid-template-columns: repeat(2, 1fr); } }
+  .form label { font-size: 12px; color: var(--muted); font-weight: 600; display: grid; gap: 4px; }
+  .form input, textarea { height: 44px; border-radius: 12px; border: 1px solid var(--border); background: var(--surface); color: var(--text); font: inherit; padding: 0 12px; width: 100%; }
+  textarea { height: 80px; padding: 10px 12px; resize: vertical; }
+  .code { font-size: clamp(36px, 8vw, 56px); font-weight: 800; letter-spacing: 6px; font-variant-numeric: tabular-nums; color: var(--text); }
+  .steps { color: var(--muted); padding-left: 20px; }
+  .steps li { margin: 6px 0; }
+  .toast { position: fixed; left: 50%; bottom: 24px; transform: translateX(-50%); background: var(--text); color: var(--bg); padding: 12px 18px; border-radius: 999px; font-weight: 600; font-size: 14px; z-index: 9; }
+  .thumb { width: 64px; height: 64px; border-radius: 12px; object-fit: cover; background: var(--surface); flex: none; }
+  .empty { color: var(--muted); padding: 24px 4px; }
+  h3 { margin: 18px 0 8px; font-size: 16px; }
+</style>
+</head>
+<body>
+<header class="top"><div class="wrap top-in">
+  <a class="brand" href="../"><img src="../icon.png" alt="" width="32" height="32">MyCal <span class="muted" style="font-weight:600">Uzman</span></a>
+  <nav><span id="who" class="muted"></span><button id="signout" class="btn tonal sm" hidden>Çıkış yap</button></nav>
+</div></header>
+<main class="wrap" id="app"><p class="muted">Yükleniyor…</p></main>
+<script type="module" src="./app.js"></script>
+</body>
+</html>
