@@ -81,3 +81,9 @@ h2 { font-weight: 800; letter-spacing: -.4px; line-height: 1.2; margin: 0 0 8px;
 .faq { padding: 16px 20px; margin: 10px 0; }
 .faq summary { cursor: pointer; font-weight: 700; }
 .faq p { margin: 10px 0 0; color: var(--muted); }
+/* food page: nutrition table */
+.nutri { width: 100%; border-collapse: collapse; margin: 6px 0 12px; font-size: 15px; }
+.nutri th, .nutri td { text-align: left; padding: 9px 4px; border-bottom: 1px solid var(--border); }
+.nutri thead th { color: var(--muted); font-size: 13px; font-weight: 700; }
+.nutri tbody th { font-weight: 600; }
+.nutri td { font-variant-numeric: tabular-nums; }
