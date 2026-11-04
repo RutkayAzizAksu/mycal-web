@@ -71,3 +71,13 @@ h2 { font-weight: 800; letter-spacing: -.4px; line-height: 1.2; margin: 0 0 8px;
 .tile[hidden], .group[hidden] { display: none; }
 .foot { padding: 32px 16px 48px; font-size: 13px; color: var(--muted); }
 .foot a { color: var(--muted); text-decoration: underline; }
+/* home: screenshots, features, FAQ */
+.shots { display: flex; gap: 14px; overflow-x: auto; padding: 24px 0 8px; scroll-snap-type: x proximity; -webkit-overflow-scrolling: touch; }
+.shots img { height: 460px; width: auto; border-radius: 22px; flex: none; scroll-snap-align: start; box-shadow: 0 14px 34px -18px rgba(0,0,0,.45); }
+.features { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 14px; }
+.features .card { margin: 0; }
+.feat h3 { margin: 0 0 6px; font-size: 18px; letter-spacing: -.2px; }
+.feat p { margin: 0; color: var(--muted); }
+.faq { padding: 16px 20px; margin: 10px 0; }
+.faq summary { cursor: pointer; font-weight: 700; }
+.faq p { margin: 10px 0 0; color: var(--muted); }

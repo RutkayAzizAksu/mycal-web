@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /uzman/
+
+Sitemap: https://rutkayazizaksu.github.io/mycal-web/sitemap.xml

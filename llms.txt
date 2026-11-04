@@ -1,0 +1,13 @@
+# MyCal
+
+> MyCal, Türk mutfağına özel kalori takip uygulamasıdır (iPhone). Fotoğraftan ve sesten kalori ve makro hesaplar.
+
+## Sayfalar
+
+- [Ana sayfa ve kalori tablosu](https://rutkayazizaksu.github.io/mycal-web/): 485 Türk yemeği ve besinin doğrulanmış kalori ve makro değerleri
+- [Uygulama (App Store)](https://apps.apple.com/tr/app/mycal/id6806923395)
+- [Gizlilik ve KVKK](https://rutkayazizaksu.github.io/mycal-legal/privacy-policy.html)
+
+## Besin sayfaları
+
+Her besinin sayfası "https://rutkayazizaksu.github.io/mycal-web/<besin>-kac-kalori/" biçimindedir ve porsiyon başına kalori, protein, karbonhidrat ve yağ değerini içerir. Tam liste: https://rutkayazizaksu.github.io/mycal-web/sitemap.xml
