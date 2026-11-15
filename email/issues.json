@@ -1,0 +1,988 @@
+{
+ "issues": [
+  {
+   "id": "fiber-basics-1",
+   "article": {
+    "id": "fiber-basics",
+    "minutes": 3,
+    "title": {
+     "tr": "Lif: Gözden Kaçan Tokluk Aracı",
+     "en": "Fiber: The Overlooked Satiety Tool",
+     "de": "Ballaststoffe: der unterschätzte Sattmacher",
+     "fr": "Les fibres : l’alliée satiété qu’on oublie",
+     "ja": "食物繊維：見落とされがちな満腹の味方",
+     "ko": "식이섬유: 놓치기 쉬운 포만감 도우미"
+    },
+    "summary": {
+     "tr": "Yeterli lif alımı tokluk hissini artırır, kan şekeri dalgalanmasını yumuşatır ve sindirim sağlığını destekler.",
+     "en": "Enough fiber boosts fullness, smooths out blood sugar swings, and supports digestive health.",
+     "de": "Genug Ballaststoffe machen länger satt, glätten Blutzuckerschwankungen und unterstützen die Verdauung.",
+     "fr": "Assez de fibres renforce la satiété, atténue les variations de glycémie et soutient la digestion.",
+     "ja": "十分な食物繊維は満腹感を高め、血糖値の変動をゆるやかにし、消化の健康を支えます。",
+     "ko": "식이섬유를 충분히 먹으면 포만감이 커지고 혈당 변동이 완만해지며 소화 건강에도 도움이 돼요."
+    },
+    "body": {
+     "tr": "Lif, sebze, meyve, tam tahıl ve baklagillerde bol bulunan, sindirilmeyen bir karbonhidrat türüdür. Mide boşalmasını yavaşlatarak tokluk süresini uzatır, bu da kalori açığında iştah kontrolünü kolaylaştırabilir. Genel öneri günde 25-35g civarıdır, ama çoğu insan bunun oldukça altında kalır. Lif alımını aniden artırmak şişkinlik yapabilir; su tüketimini artırarak ve kademeli ilerleyerek bu etkiyi azaltabilirsin.",
+     "en": "Fiber is an indigestible type of carbohydrate found abundantly in vegetables, fruit, whole grains and legumes. It slows stomach emptying, which extends fullness and can make appetite control easier while in a calorie deficit. A common guideline is around 25-35g per day, though most people fall well short of it. Increasing fiber intake too quickly can cause bloating; raising water intake and progressing gradually helps avoid that.",
+     "de": "Ballaststoffe sind unverdauliche Kohlenhydrate, die reichlich in Gemüse, Obst, Vollkorn und Hülsenfrüchten stecken. Sie verlangsamen die Magenentleerung, verlängern so das Sättigungsgefühl und können die Appetitkontrolle im Kaloriendefizit erleichtern. Als Richtwert gelten etwa 25-35 g pro Tag, die meisten Menschen liegen deutlich darunter. Wer die Menge zu schnell steigert, bekommt leicht Blähungen; mehr trinken und langsam steigern hilft.",
+     "fr": "Les fibres sont des glucides non digestibles, abondants dans les légumes, les fruits, les céréales complètes et les légumineuses. Elles ralentissent la vidange de l’estomac, ce qui prolonge la satiété et peut faciliter le contrôle de l’appétit en déficit calorique. On recommande souvent autour de 25-35 g par jour, mais la plupart des gens en sont loin. Augmenter les fibres trop vite peut provoquer des ballonnements ; boire davantage et y aller progressivement aide à les éviter.",
+     "ja": "食物繊維は消化されない炭水化物の一種で、野菜、果物、全粒穀物、豆類に豊富に含まれます。胃からの排出を遅らせるため満腹感が長く続き、カロリー不足のときの食欲コントロールを助けます。一般的な目安は1日約25-35 gですが、多くの人は大きく不足しています。急に増やすとお腹が張ることがあるので、水分を増やしながら少しずつ増やしましょう。",
+     "ko": "식이섬유는 소화되지 않는 탄수화물의 한 종류로 채소, 과일, 통곡물, 콩류에 풍부해요. 위가 비워지는 속도를 늦춰 포만감을 오래 유지해 주고, 칼로리 적자 상태에서 식욕 조절을 쉽게 해 줘요. 흔히 하루 약 25-35 g을 권장하지만 대부분은 이에 한참 못 미쳐요. 섭취량을 너무 빨리 늘리면 배에 가스가 찰 수 있으니 물을 더 마시면서 천천히 늘리세요."
+    }
+   },
+   "hero": "wide-lentilsalad.jpg",
+   "picks": [
+    {
+     "id": "oatporridge",
+     "image": "oatporridge.jpg",
+     "title": {
+      "tr": "Muzlu Cevizli Yulaf Lapası",
+      "en": "Banana Walnut Porridge",
+      "de": "Bananen-Walnuss-Porridge",
+      "fr": "Porridge banane-noix",
+      "ja": "バナナとくるみのポリッジ",
+      "ko": "바나나 호두 포리지"
+     },
+     "minutes": 10,
+     "servings": 1,
+     "kcal": 420,
+     "protein": 15
+    },
+    {
+     "id": "chickpeasalad",
+     "image": "chickpeasalad.jpg",
+     "title": {
+      "tr": "Nohut Salatası",
+      "en": "Chickpea Salad",
+      "de": "Kichererbsensalat",
+      "fr": "Salade de pois chiches",
+      "ja": "ひよこ豆のサラダ",
+      "ko": "병아리콩 샐러드"
+     },
+     "minutes": 10,
+     "servings": 2,
+     "kcal": 215,
+     "protein": 8
+    }
+   ],
+   "recipe": {
+    "id": "lentilsoup",
+    "image": "wide-lentilsoup.jpg",
+    "title": {
+     "tr": "Mercimek Çorbası",
+     "en": "Red Lentil Soup",
+     "de": "Rote-Linsen-Suppe",
+     "fr": "Soupe de lentilles corail",
+     "ja": "赤レンズ豆のスープ",
+     "ko": "붉은 렌틸콩 수프"
+    },
+    "minutes": 30,
+    "servings": 4,
+    "kcal": 190,
+    "protein": 11
+   }
+  },
+  {
+   "id": "protein-timing-1",
+   "article": {
+    "id": "protein-timing",
+    "minutes": 4,
+    "title": {
+     "tr": "Protein Alımını Güne Yaymak Neden Önemli?",
+     "en": "Why Spread Your Protein Intake Across the Day?",
+     "de": "Warum solltest du dein Eiweiß über den Tag verteilen?",
+     "fr": "Pourquoi répartir tes protéines sur la journée ?",
+     "ja": "たんぱく質を1日に分けてとるのはなぜ？",
+     "ko": "단백질을 하루에 나눠 먹어야 하는 이유는?"
+    },
+    "summary": {
+     "tr": "Günlük protein hedefine tek öğünde ulaşmak yerine her öğüne yaymak, kas koruma ve tokluk açısından neden daha avantajlı.",
+     "en": "Why hitting your protein target across several meals, instead of one big serving, tends to work better for muscle maintenance and satiety.",
+     "de": "Warum es für Muskelerhalt und Sättigung meist besser ist, das Eiweißziel auf mehrere Mahlzeiten zu verteilen statt auf eine große Portion.",
+     "fr": "Pourquoi atteindre ton objectif de protéines sur plusieurs repas, plutôt qu’en une seule grosse portion, est souvent plus efficace pour préserver le muscle et la satiété.",
+     "ja": "たんぱく質の目標を一度に大量にとるのではなく、数回の食事に分けるほうが、筋肉の維持と満腹感に役立ちやすい理由。",
+     "ko": "단백질 목표를 한 번에 많이 먹기보다 여러 끼니에 나눠 채우는 것이 근육 유지와 포만감에 더 유리한 이유."
+    },
+    "body": {
+     "tr": "Vücut, tek bir öğünde işleyebileceği protein miktarı açısından sınırlıdır; büyük bir kısmı aynı anda alındığında kas protein sentezine katkısı öğünler arasına yayıldığı kadar verimli olmayabilir. Her ana öğüne 25-40g civarı protein dağıtmak, gün boyunca daha dengeli bir tokluk hissi ve kas koruma desteği sağlar. Bu, özellikle kalori açığındayken (kilo verirken) kas kütlesini korumak isteyenler için pratik bir yaklaşımdır. Kesin ihtiyaç kişiye, aktivite düzeyine ve hedeflere göre değişir.",
+     "en": "The body has a practical limit on how much protein it can put to use from a single meal, so loading most of your daily target into one sitting tends to be less efficient for muscle protein synthesis than spreading it out. Aiming for roughly 25-40g of protein per main meal supports steadier satiety and helps preserve muscle, which matters most while in a calorie deficit. Exact needs vary by person, activity level and goals.",
+     "de": "Der Körper kann aus einer einzelnen Mahlzeit nur begrenzt viel Eiweiß verwerten. Den Großteil des Tagesziels auf einmal zu essen, ist für die Muskelproteinsynthese daher meist weniger wirksam, als es zu verteilen. Etwa 25-40 g Eiweiß pro Hauptmahlzeit sorgen für gleichmäßigere Sättigung und helfen, Muskeln zu erhalten, was im Kaloriendefizit besonders wichtig ist. Der genaue Bedarf hängt von Person, Aktivität und Ziel ab.",
+     "fr": "Le corps ne peut utiliser qu’une quantité limitée de protéines à partir d’un seul repas. Concentrer l’essentiel de l’objectif quotidien en une prise est donc souvent moins efficace pour la synthèse des protéines musculaires que de le répartir. Viser environ 25-40 g de protéines par repas principal favorise une satiété plus stable et aide à préserver le muscle, ce qui compte surtout en déficit calorique. Les besoins exacts varient selon la personne, le niveau d’activité et les objectifs.",
+     "ja": "体が1回の食事から利用できるたんぱく質の量には実質的な限りがあります。そのため、1日の目標の大半を一度にとるより、分けてとるほうが筋たんぱく質の合成には効率的です。主な食事ごとに約25-40 gを目安にすると、満腹感が安定し、筋肉の維持にも役立ちます。これはカロリー不足の状態で特に重要です。必要量は人、活動量、目標によって異なります。",
+     "ko": "몸이 한 끼에서 활용할 수 있는 단백질 양에는 실질적인 한계가 있어요. 그래서 하루 목표의 대부분을 한 번에 먹으면 나눠 먹을 때보다 근육 단백질 합성에 덜 효율적이에요. 주요 끼니마다 약 25-40 g의 단백질을 목표로 하면 포만감이 더 고르게 유지되고 근육 보존에도 도움이 돼요. 이는 칼로리 적자 상태에서 특히 중요해요. 정확한 필요량은 사람, 활동량, 목표에 따라 달라요."
+    }
+   },
+   "hero": "wide-salmon.jpg",
+   "picks": [
+    {
+     "id": "omelette",
+     "image": "omelette.jpg",
+     "title": {
+      "tr": "Sebzeli Omlet",
+      "en": "Veggie Omelette",
+      "de": "Gemüseomelett",
+      "fr": "Omelette aux légumes",
+      "ja": "野菜オムレツ",
+      "ko": "채소 오믈렛"
+     },
+     "minutes": 10,
+     "servings": 1,
+     "kcal": 210,
+     "protein": 15
+    },
+    {
+     "id": "tuna",
+     "image": "tuna.jpg",
+     "title": {
+      "tr": "Ton Balıklı Salata",
+      "en": "Tuna Salad Bowl",
+      "de": "Thunfischsalat-Bowl",
+      "fr": "Bol de salade au thon",
+      "ja": "ツナサラダボウル",
+      "ko": "참치 샐러드 볼"
+     },
+     "minutes": 10,
+     "servings": 2,
+     "kcal": 190,
+     "protein": 18
+    }
+   ],
+   "recipe": {
+    "id": "chicken",
+    "image": "wide-chicken.jpg",
+    "title": {
+     "tr": "Fırında Sebzeli Tavuk",
+     "en": "Oven Chicken with Vegetables",
+     "de": "Ofenhähnchen mit Gemüse",
+     "fr": "Poulet au four aux légumes",
+     "ja": "鶏肉と野菜のオーブン焼き",
+     "ko": "채소를 곁들인 오븐 닭구이"
+    },
+    "minutes": 40,
+    "servings": 2,
+    "kcal": 305,
+    "protein": 36
+   }
+  },
+  {
+   "id": "sustainable-deficit-1",
+   "article": {
+    "id": "sustainable-deficit",
+    "minutes": 5,
+    "title": {
+     "tr": "Çok Agresif Kalori Açığı Neden Geri Teper?",
+     "en": "Why Too Aggressive a Calorie Deficit Backfires",
+     "de": "Warum ein zu großes Kaloriendefizit nach hinten losgeht",
+     "fr": "Pourquoi un déficit calorique trop agressif se retourne contre toi",
+     "ja": "カロリーを減らしすぎると逆効果になる理由",
+     "ko": "칼로리를 너무 심하게 줄이면 역효과가 나는 이유"
+    },
+    "summary": {
+     "tr": "Kalori açığını abartmak kısa vadede hızlı sonuç verebilir ama kas kaybı, yorgunluk ve sürdürülemezlik riskini artırır.",
+     "en": "An overly large deficit can look fast in the short run, but raises the risk of muscle loss, fatigue, and giving up.",
+     "de": "Ein übergroßes Defizit wirkt kurzfristig schnell, erhöht aber das Risiko für Muskelverlust, Müdigkeit und Aufgeben.",
+     "fr": "Un déficit trop important semble rapide à court terme, mais augmente le risque de perte musculaire, de fatigue et d’abandon.",
+     "ja": "大きすぎるカロリー不足は短期的には速く見えますが、筋肉の減少、疲労、挫折のリスクを高めます。",
+     "ko": "지나치게 큰 칼로리 적자는 단기적으로는 빨라 보여도 근손실, 피로, 포기의 위험을 높여요."
+    },
+    "body": {
+     "tr": "Kilo kaybı için kalori açığı gereklidir, ama \"ne kadar fazla açık o kadar hızlı sonuç\" mantığı belirli bir noktadan sonra ters teper. Çok büyük açıklar (günlük ihtiyacın %30-40'ından fazlası) genellikle kas kaybını hızlandırır, enerji düşüklüğüne ve aşırı açlığa yol açar, bu da sürdürülebilirliği zorlaştırır. Çoğu kaynak haftada vücut ağırlığının yaklaşık %0,5-1'i kadar bir kayıp hızını daha sürdürülebilir kabul eder. Hedefin sadece kilo vermek değil, verilen kiloyu korumaksa, ölçülü bir açık uzun vadede daha güvenilir sonuç verir.",
+     "en": "A calorie deficit is necessary for weight loss, but \"the bigger the deficit, the faster the result\" stops holding past a certain point. Very large deficits (more than roughly 30-40% below maintenance) tend to accelerate muscle loss and lead to low energy and excessive hunger, which makes the plan harder to stick to. Many sources treat a loss rate of roughly 0.5-1% of body weight per week as more sustainable. If the goal is keeping the weight off, not just losing it, a moderate deficit tends to hold up better over time.",
+     "de": "Zum Abnehmen braucht es ein Kaloriendefizit, aber „je größer das Defizit, desto schneller das Ergebnis“ gilt ab einem gewissen Punkt nicht mehr. Sehr große Defizite (mehr als etwa 30-40 % unter dem Erhaltungsbedarf) beschleunigen meist den Muskelverlust und führen zu wenig Energie und starkem Hunger, sodass der Plan schwerer durchzuhalten ist. Viele Quellen halten eine Abnahme von etwa 0,5-1 % des Körpergewichts pro Woche für nachhaltiger. Wer das Gewicht nicht nur verlieren, sondern auch halten will, fährt mit einem moderaten Defizit auf Dauer meist besser.",
+     "fr": "Un déficit calorique est nécessaire pour perdre du poids, mais « plus le déficit est grand, plus le résultat est rapide » cesse d’être vrai au-delà d’un certain point. Les très gros déficits (plus d’environ 30-40 % sous l’entretien) ont tendance à accélérer la perte musculaire et à entraîner manque d’énergie et faim excessive, ce qui rend le plan plus difficile à tenir. De nombreuses sources considèrent une perte d’environ 0,5-1 % du poids corporel par semaine comme plus durable. Si le but est de ne pas reprendre le poids, et pas seulement de le perdre, un déficit modéré tient généralement mieux dans le temps.",
+     "ja": "減量にはカロリー不足が必要ですが、「不足が大きいほど結果が早い」という考えは、ある点を超えると成り立たなくなります。非常に大きな不足（維持カロリーより約30-40％以上少ない）は筋肉の減少を早め、エネルギー不足や強い空腹につながり、計画を続けにくくします。多くの資料では、1週間に体重の約0.5-1％の減量ペースがより続けやすいとされています。体重を落とすだけでなく維持することが目標なら、ほどほどの不足のほうが長続きします。",
+     "ko": "체중 감량에는 칼로리 적자가 필요하지만, \"적자가 클수록 결과가 빠르다\"는 말은 어느 지점을 넘으면 맞지 않아요. 매우 큰 적자(유지 칼로리보다 약 30-40% 이상 적게)는 근손실을 앞당기고 기운 부족과 심한 배고픔을 불러 계획을 지키기 어렵게 만들어요. 많은 자료에서 주당 체중의 약 0.5-1% 감량 속도를 더 지속 가능하다고 봐요. 빼는 것뿐 아니라 유지하는 것이 목표라면 적당한 적자가 장기적으로 더 잘 버텨요."
+    }
+   },
+   "hero": "wide-avocadosalad.jpg",
+   "picks": [
+    {
+     "id": "vegsoup",
+     "image": "vegsoup.jpg",
+     "title": {
+      "tr": "Sebze Çorbası",
+      "en": "Garden Vegetable Soup",
+      "de": "Gartengemüsesuppe",
+      "fr": "Soupe de légumes du jardin",
+      "ja": "彩り野菜のスープ",
+      "ko": "채소 수프"
+     },
+     "minutes": 30,
+     "servings": 4,
+     "kcal": 125,
+     "protein": 4
+    },
+    {
+     "id": "beetsalad",
+     "image": "beetsalad.jpg",
+     "title": {
+      "tr": "Yoğurtlu Pancar Salatası",
+      "en": "Beetroot Yogurt Salad",
+      "de": "Rote-Bete-Joghurt-Salat",
+      "fr": "Salade de betterave au yaourt",
+      "ja": "ビーツとヨーグルトのサラダ",
+      "ko": "비트 요거트 샐러드"
+     },
+     "minutes": 20,
+     "servings": 2,
+     "kcal": 235,
+     "protein": 11
+    }
+   ],
+   "recipe": {
+    "id": "zucchiniboat",
+    "image": "wide-zucchiniboat.jpg",
+    "title": {
+     "tr": "Kıymalı Kabak Kayığı",
+     "en": "Beef-Stuffed Zucchini Boats",
+     "de": "Zucchini-Schiffchen mit Hackfleisch",
+     "fr": "Courgettes farcies au bœuf",
+     "ja": "ズッキーニボートの牛肉詰め",
+     "ko": "소고기를 채운 주키니 보트"
+    },
+    "minutes": 35,
+    "servings": 2,
+    "kcal": 325,
+    "protein": 30
+   }
+  },
+  {
+   "id": "hydration-and-hunger-1",
+   "article": {
+    "id": "hydration-and-hunger",
+    "minutes": 3,
+    "title": {
+     "tr": "Susuzluk, Açlıkla Karışabilir mi?",
+     "en": "Can Thirst Be Mistaken for Hunger?",
+     "de": "Kann man Durst mit Hunger verwechseln?",
+     "fr": "Peut-on confondre la soif avec la faim ?",
+     "ja": "のどの渇きを空腹と勘違いすることはある？",
+     "ko": "갈증을 배고픔으로 착각할 수 있을까?"
+    },
+    "summary": {
+     "tr": "Yetersiz su tüketimi bazen açlık hissiyle karışabilir; öğün öncesi su içmenin porsiyon kontrolüne küçük bir katkısı olabilir.",
+     "en": "Mild dehydration can sometimes be mistaken for hunger; drinking water before a meal may give portion control a small assist.",
+     "de": "Leichter Flüssigkeitsmangel fühlt sich manchmal wie Hunger an; ein Glas Wasser vor dem Essen kann die Portionskontrolle etwas unterstützen.",
+     "fr": "Une légère déshydratation peut parfois être prise pour de la faim ; boire de l’eau avant un repas peut donner un petit coup de pouce au contrôle des portions.",
+     "ja": "軽い脱水は空腹と勘違いされることがあります。食事の前に水を飲むと、食べる量のコントロールを少し助けてくれるかもしれません。",
+     "ko": "가벼운 탈수는 때때로 배고픔으로 착각될 수 있어요. 식사 전에 물을 마시면 식사량 조절에 조금 도움이 될 수 있어요."
+    },
+    "body": {
+     "tr": "Susuzluk ve açlık sinyalleri beyinde kısmen örtüşen mekanizmalar kullanır, bu yüzden bazı insanlarda hafif susuzluk açlık gibi algılanabilir. Bilimsel kanıt \"su içmek tek başına kilo verdirir\" iddiasını desteklemez, ama öğünden yaklaşık 20-30 dakika önce bir bardak su içmek bazı kişilerde porsiyon büyüklüğünü hafifçe azaltmaya yardımcı olabilir. Bu küçük bir araçtır, kalori dengesinin yerini tutmaz.",
+     "en": "Thirst and hunger signals share some overlapping pathways in the brain, so mild dehydration can sometimes register as hunger. The evidence does not support \"drinking water alone causes weight loss,\" but having a glass of water roughly 20-30 minutes before a meal may modestly reduce portion size for some people. It is a small supporting tool, not a substitute for overall calorie balance.",
+     "de": "Durst- und Hungersignale nutzen im Gehirn teils dieselben Bahnen, daher kann sich leichter Flüssigkeitsmangel manchmal wie Hunger anfühlen. Dass „Wassertrinken allein schlank macht“, ist nicht belegt, aber ein Glas Wasser etwa 20-30 Minuten vor dem Essen kann bei manchen die Portionsgröße leicht verringern. Es ist ein kleines Hilfsmittel und kein Ersatz für die gesamte Kalorienbilanz.",
+     "fr": "Les signaux de soif et de faim partagent certaines voies dans le cerveau, si bien qu’une légère déshydratation peut parfois être ressentie comme de la faim. Rien ne prouve que « boire de l’eau suffit à faire maigrir », mais un verre d’eau environ 20-30 minutes avant un repas peut réduire légèrement la taille des portions chez certaines personnes. C’est un petit outil d’appoint, pas un substitut à l’équilibre calorique global.",
+     "ja": "のどの渇きと空腹のシグナルは脳内で一部同じ経路を使うため、軽い脱水が空腹として感じられることがあります。「水を飲むだけでやせる」という根拠はありませんが、食事の約20-30分前にコップ1杯の水を飲むと、人によっては食べる量が少し減ることがあります。あくまで小さな補助であり、全体のカロリーバランスの代わりにはなりません。",
+     "ko": "갈증과 배고픔 신호는 뇌에서 일부 같은 경로를 쓰기 때문에 가벼운 탈수가 배고픔처럼 느껴질 때가 있어요. \"물만 마셔도 살이 빠진다\"는 근거는 없지만, 식사 약 20-30분 전에 물 한 잔을 마시면 일부 사람은 먹는 양이 조금 줄 수 있어요. 작은 보조 수단일 뿐 전체 칼로리 균형을 대신하지는 못해요."
+    }
+   },
+   "hero": "wide-smoothiebowl.jpg",
+   "picks": [
+    {
+     "id": "lemonade",
+     "image": "lemonade.jpg",
+     "title": {
+      "tr": "Naneli Limonata (Hafif)",
+      "en": "Mint Lemonade (Light)",
+      "de": "Minz-Limonade (leicht)",
+      "fr": "Citronnade à la menthe (légère)",
+      "ja": "ミントレモネード（軽め）",
+      "ko": "민트 레모네이드 (가볍게)"
+     },
+     "minutes": 10,
+     "servings": 2,
+     "kcal": 40,
+     "protein": 0
+    },
+    {
+     "id": "berrysmoothie",
+     "image": "berrysmoothie.jpg",
+     "title": {
+      "tr": "Orman Meyveli Smoothie",
+      "en": "Mixed Berry Smoothie",
+      "de": "Beeren-Smoothie",
+      "fr": "Smoothie aux fruits rouges",
+      "ja": "ミックスベリースムージー",
+      "ko": "믹스 베리 스무디"
+     },
+     "minutes": 5,
+     "servings": 1,
+     "kcal": 215,
+     "protein": 9
+    }
+   ],
+   "recipe": {
+    "id": "chickensoup",
+    "image": "wide-chickensoup.jpg",
+    "title": {
+     "tr": "Şehriyeli Tavuk Çorbası",
+     "en": "Chicken Noodle Soup",
+     "de": "Hühnersuppe mit Nudeln",
+     "fr": "Soupe de poulet aux vermicelles",
+     "ja": "チキンヌードルスープ",
+     "ko": "치킨 누들 수프"
+    },
+    "minutes": 35,
+    "servings": 4,
+    "kcal": 150,
+    "protein": 13
+   }
+  },
+  {
+   "id": "fiber-basics-2",
+   "article": {
+    "id": "fiber-basics",
+    "minutes": 3,
+    "title": {
+     "tr": "Lif: Gözden Kaçan Tokluk Aracı",
+     "en": "Fiber: The Overlooked Satiety Tool",
+     "de": "Ballaststoffe: der unterschätzte Sattmacher",
+     "fr": "Les fibres : l’alliée satiété qu’on oublie",
+     "ja": "食物繊維：見落とされがちな満腹の味方",
+     "ko": "식이섬유: 놓치기 쉬운 포만감 도우미"
+    },
+    "summary": {
+     "tr": "Yeterli lif alımı tokluk hissini artırır, kan şekeri dalgalanmasını yumuşatır ve sindirim sağlığını destekler.",
+     "en": "Enough fiber boosts fullness, smooths out blood sugar swings, and supports digestive health.",
+     "de": "Genug Ballaststoffe machen länger satt, glätten Blutzuckerschwankungen und unterstützen die Verdauung.",
+     "fr": "Assez de fibres renforce la satiété, atténue les variations de glycémie et soutient la digestion.",
+     "ja": "十分な食物繊維は満腹感を高め、血糖値の変動をゆるやかにし、消化の健康を支えます。",
+     "ko": "식이섬유를 충분히 먹으면 포만감이 커지고 혈당 변동이 완만해지며 소화 건강에도 도움이 돼요."
+    },
+    "body": {
+     "tr": "Lif, sebze, meyve, tam tahıl ve baklagillerde bol bulunan, sindirilmeyen bir karbonhidrat türüdür. Mide boşalmasını yavaşlatarak tokluk süresini uzatır, bu da kalori açığında iştah kontrolünü kolaylaştırabilir. Genel öneri günde 25-35g civarıdır, ama çoğu insan bunun oldukça altında kalır. Lif alımını aniden artırmak şişkinlik yapabilir; su tüketimini artırarak ve kademeli ilerleyerek bu etkiyi azaltabilirsin.",
+     "en": "Fiber is an indigestible type of carbohydrate found abundantly in vegetables, fruit, whole grains and legumes. It slows stomach emptying, which extends fullness and can make appetite control easier while in a calorie deficit. A common guideline is around 25-35g per day, though most people fall well short of it. Increasing fiber intake too quickly can cause bloating; raising water intake and progressing gradually helps avoid that.",
+     "de": "Ballaststoffe sind unverdauliche Kohlenhydrate, die reichlich in Gemüse, Obst, Vollkorn und Hülsenfrüchten stecken. Sie verlangsamen die Magenentleerung, verlängern so das Sättigungsgefühl und können die Appetitkontrolle im Kaloriendefizit erleichtern. Als Richtwert gelten etwa 25-35 g pro Tag, die meisten Menschen liegen deutlich darunter. Wer die Menge zu schnell steigert, bekommt leicht Blähungen; mehr trinken und langsam steigern hilft.",
+     "fr": "Les fibres sont des glucides non digestibles, abondants dans les légumes, les fruits, les céréales complètes et les légumineuses. Elles ralentissent la vidange de l’estomac, ce qui prolonge la satiété et peut faciliter le contrôle de l’appétit en déficit calorique. On recommande souvent autour de 25-35 g par jour, mais la plupart des gens en sont loin. Augmenter les fibres trop vite peut provoquer des ballonnements ; boire davantage et y aller progressivement aide à les éviter.",
+     "ja": "食物繊維は消化されない炭水化物の一種で、野菜、果物、全粒穀物、豆類に豊富に含まれます。胃からの排出を遅らせるため満腹感が長く続き、カロリー不足のときの食欲コントロールを助けます。一般的な目安は1日約25-35 gですが、多くの人は大きく不足しています。急に増やすとお腹が張ることがあるので、水分を増やしながら少しずつ増やしましょう。",
+     "ko": "식이섬유는 소화되지 않는 탄수화물의 한 종류로 채소, 과일, 통곡물, 콩류에 풍부해요. 위가 비워지는 속도를 늦춰 포만감을 오래 유지해 주고, 칼로리 적자 상태에서 식욕 조절을 쉽게 해 줘요. 흔히 하루 약 25-35 g을 권장하지만 대부분은 이에 한참 못 미쳐요. 섭취량을 너무 빨리 늘리면 배에 가스가 찰 수 있으니 물을 더 마시면서 천천히 늘리세요."
+    }
+   },
+   "hero": "wide-kisir.jpg",
+   "picks": [
+    {
+     "id": "oats",
+     "image": "oats.jpg",
+     "title": {
+      "tr": "Elmalı Overnight Oats",
+      "en": "Apple Overnight Oats",
+      "de": "Apfel-Overnight-Oats",
+      "fr": "Overnight oats à la pomme",
+      "ja": "りんごのオーバーナイトオーツ",
+      "ko": "사과 오버나이트 오트"
+     },
+     "minutes": 5,
+     "servings": 1,
+     "kcal": 330,
+     "protein": 12
+    },
+    {
+     "id": "hummus",
+     "image": "hummus.jpg",
+     "title": {
+      "tr": "Hummus ve Çiğ Sebze",
+      "en": "Hummus with Raw Veg",
+      "de": "Hummus mit Rohkost",
+      "fr": "Houmous et crudités",
+      "ja": "フムスと生野菜",
+      "ko": "후무스와 생채소"
+     },
+     "minutes": 10,
+     "servings": 4,
+     "kcal": 155,
+     "protein": 7
+    }
+   ],
+   "recipe": {
+    "id": "kurufasulye",
+    "image": "wide-kurufasulye.jpg",
+    "title": {
+     "tr": "Etli Kuru Fasulye",
+     "en": "Beef & White Bean Stew",
+     "de": "Weiße-Bohnen-Eintopf mit Rindfleisch",
+     "fr": "Ragoût de haricots blancs au bœuf",
+     "ja": "牛肉と白いんげん豆の煮込み",
+     "ko": "소고기 흰강낭콩 스튜"
+    },
+    "minutes": 90,
+    "servings": 6,
+    "kcal": 235,
+    "protein": 17
+   }
+  },
+  {
+   "id": "protein-timing-2",
+   "article": {
+    "id": "protein-timing",
+    "minutes": 4,
+    "title": {
+     "tr": "Protein Alımını Güne Yaymak Neden Önemli?",
+     "en": "Why Spread Your Protein Intake Across the Day?",
+     "de": "Warum solltest du dein Eiweiß über den Tag verteilen?",
+     "fr": "Pourquoi répartir tes protéines sur la journée ?",
+     "ja": "たんぱく質を1日に分けてとるのはなぜ？",
+     "ko": "단백질을 하루에 나눠 먹어야 하는 이유는?"
+    },
+    "summary": {
+     "tr": "Günlük protein hedefine tek öğünde ulaşmak yerine her öğüne yaymak, kas koruma ve tokluk açısından neden daha avantajlı.",
+     "en": "Why hitting your protein target across several meals, instead of one big serving, tends to work better for muscle maintenance and satiety.",
+     "de": "Warum es für Muskelerhalt und Sättigung meist besser ist, das Eiweißziel auf mehrere Mahlzeiten zu verteilen statt auf eine große Portion.",
+     "fr": "Pourquoi atteindre ton objectif de protéines sur plusieurs repas, plutôt qu’en une seule grosse portion, est souvent plus efficace pour préserver le muscle et la satiété.",
+     "ja": "たんぱく質の目標を一度に大量にとるのではなく、数回の食事に分けるほうが、筋肉の維持と満腹感に役立ちやすい理由。",
+     "ko": "단백질 목표를 한 번에 많이 먹기보다 여러 끼니에 나눠 채우는 것이 근육 유지와 포만감에 더 유리한 이유."
+    },
+    "body": {
+     "tr": "Vücut, tek bir öğünde işleyebileceği protein miktarı açısından sınırlıdır; büyük bir kısmı aynı anda alındığında kas protein sentezine katkısı öğünler arasına yayıldığı kadar verimli olmayabilir. Her ana öğüne 25-40g civarı protein dağıtmak, gün boyunca daha dengeli bir tokluk hissi ve kas koruma desteği sağlar. Bu, özellikle kalori açığındayken (kilo verirken) kas kütlesini korumak isteyenler için pratik bir yaklaşımdır. Kesin ihtiyaç kişiye, aktivite düzeyine ve hedeflere göre değişir.",
+     "en": "The body has a practical limit on how much protein it can put to use from a single meal, so loading most of your daily target into one sitting tends to be less efficient for muscle protein synthesis than spreading it out. Aiming for roughly 25-40g of protein per main meal supports steadier satiety and helps preserve muscle, which matters most while in a calorie deficit. Exact needs vary by person, activity level and goals.",
+     "de": "Der Körper kann aus einer einzelnen Mahlzeit nur begrenzt viel Eiweiß verwerten. Den Großteil des Tagesziels auf einmal zu essen, ist für die Muskelproteinsynthese daher meist weniger wirksam, als es zu verteilen. Etwa 25-40 g Eiweiß pro Hauptmahlzeit sorgen für gleichmäßigere Sättigung und helfen, Muskeln zu erhalten, was im Kaloriendefizit besonders wichtig ist. Der genaue Bedarf hängt von Person, Aktivität und Ziel ab.",
+     "fr": "Le corps ne peut utiliser qu’une quantité limitée de protéines à partir d’un seul repas. Concentrer l’essentiel de l’objectif quotidien en une prise est donc souvent moins efficace pour la synthèse des protéines musculaires que de le répartir. Viser environ 25-40 g de protéines par repas principal favorise une satiété plus stable et aide à préserver le muscle, ce qui compte surtout en déficit calorique. Les besoins exacts varient selon la personne, le niveau d’activité et les objectifs.",
+     "ja": "体が1回の食事から利用できるたんぱく質の量には実質的な限りがあります。そのため、1日の目標の大半を一度にとるより、分けてとるほうが筋たんぱく質の合成には効率的です。主な食事ごとに約25-40 gを目安にすると、満腹感が安定し、筋肉の維持にも役立ちます。これはカロリー不足の状態で特に重要です。必要量は人、活動量、目標によって異なります。",
+     "ko": "몸이 한 끼에서 활용할 수 있는 단백질 양에는 실질적인 한계가 있어요. 그래서 하루 목표의 대부분을 한 번에 먹으면 나눠 먹을 때보다 근육 단백질 합성에 덜 효율적이에요. 주요 끼니마다 약 25-40 g의 단백질을 목표로 하면 포만감이 더 고르게 유지되고 근육 보존에도 도움이 돼요. 이는 칼로리 적자 상태에서 특히 중요해요. 정확한 필요량은 사람, 활동량, 목표에 따라 달라요."
+    }
+   },
+   "hero": "wide-levrek.jpg",
+   "picks": [
+    {
+     "id": "eggmuffin",
+     "image": "eggmuffin.jpg",
+     "title": {
+      "tr": "Yumurtalı Sebze Muffin",
+      "en": "Egg & Veggie Muffins",
+      "de": "Eier-Gemüse-Muffins",
+      "fr": "Muffins aux œufs et aux légumes",
+      "ja": "卵と野菜のマフィン",
+      "ko": "달걀 채소 머핀"
+     },
+     "minutes": 25,
+     "servings": 6,
+     "kcal": 110,
+     "protein": 9
+    },
+    {
+     "id": "yogurtbowl",
+     "image": "yogurtbowl.jpg",
+     "title": {
+      "tr": "Meyveli Yoğurt Kasesi",
+      "en": "Fruity Yogurt Bowl",
+      "de": "Fruchtige Joghurt-Bowl",
+      "fr": "Bol de yaourt aux fruits",
+      "ja": "フルーツヨーグルトボウル",
+      "ko": "과일 요거트 볼"
+     },
+     "minutes": 5,
+     "servings": 1,
+     "kcal": 375,
+     "protein": 21
+    }
+   ],
+   "recipe": {
+    "id": "tavuksis",
+    "image": "wide-tavuksis.jpg",
+    "title": {
+     "tr": "Fırında Tavuk Şiş",
+     "en": "Oven Chicken Skewers",
+     "de": "Hähnchenspieße aus dem Ofen",
+     "fr": "Brochettes de poulet au four",
+     "ja": "チキンの串焼き（オーブン）",
+     "ko": "오븐 닭꼬치"
+    },
+    "minutes": 30,
+    "servings": 2,
+    "kcal": 300,
+    "protein": 37
+   }
+  },
+  {
+   "id": "sustainable-deficit-2",
+   "article": {
+    "id": "sustainable-deficit",
+    "minutes": 5,
+    "title": {
+     "tr": "Çok Agresif Kalori Açığı Neden Geri Teper?",
+     "en": "Why Too Aggressive a Calorie Deficit Backfires",
+     "de": "Warum ein zu großes Kaloriendefizit nach hinten losgeht",
+     "fr": "Pourquoi un déficit calorique trop agressif se retourne contre toi",
+     "ja": "カロリーを減らしすぎると逆効果になる理由",
+     "ko": "칼로리를 너무 심하게 줄이면 역효과가 나는 이유"
+    },
+    "summary": {
+     "tr": "Kalori açığını abartmak kısa vadede hızlı sonuç verebilir ama kas kaybı, yorgunluk ve sürdürülemezlik riskini artırır.",
+     "en": "An overly large deficit can look fast in the short run, but raises the risk of muscle loss, fatigue, and giving up.",
+     "de": "Ein übergroßes Defizit wirkt kurzfristig schnell, erhöht aber das Risiko für Muskelverlust, Müdigkeit und Aufgeben.",
+     "fr": "Un déficit trop important semble rapide à court terme, mais augmente le risque de perte musculaire, de fatigue et d’abandon.",
+     "ja": "大きすぎるカロリー不足は短期的には速く見えますが、筋肉の減少、疲労、挫折のリスクを高めます。",
+     "ko": "지나치게 큰 칼로리 적자는 단기적으로는 빨라 보여도 근손실, 피로, 포기의 위험을 높여요."
+    },
+    "body": {
+     "tr": "Kilo kaybı için kalori açığı gereklidir, ama \"ne kadar fazla açık o kadar hızlı sonuç\" mantığı belirli bir noktadan sonra ters teper. Çok büyük açıklar (günlük ihtiyacın %30-40'ından fazlası) genellikle kas kaybını hızlandırır, enerji düşüklüğüne ve aşırı açlığa yol açar, bu da sürdürülebilirliği zorlaştırır. Çoğu kaynak haftada vücut ağırlığının yaklaşık %0,5-1'i kadar bir kayıp hızını daha sürdürülebilir kabul eder. Hedefin sadece kilo vermek değil, verilen kiloyu korumaksa, ölçülü bir açık uzun vadede daha güvenilir sonuç verir.",
+     "en": "A calorie deficit is necessary for weight loss, but \"the bigger the deficit, the faster the result\" stops holding past a certain point. Very large deficits (more than roughly 30-40% below maintenance) tend to accelerate muscle loss and lead to low energy and excessive hunger, which makes the plan harder to stick to. Many sources treat a loss rate of roughly 0.5-1% of body weight per week as more sustainable. If the goal is keeping the weight off, not just losing it, a moderate deficit tends to hold up better over time.",
+     "de": "Zum Abnehmen braucht es ein Kaloriendefizit, aber „je größer das Defizit, desto schneller das Ergebnis“ gilt ab einem gewissen Punkt nicht mehr. Sehr große Defizite (mehr als etwa 30-40 % unter dem Erhaltungsbedarf) beschleunigen meist den Muskelverlust und führen zu wenig Energie und starkem Hunger, sodass der Plan schwerer durchzuhalten ist. Viele Quellen halten eine Abnahme von etwa 0,5-1 % des Körpergewichts pro Woche für nachhaltiger. Wer das Gewicht nicht nur verlieren, sondern auch halten will, fährt mit einem moderaten Defizit auf Dauer meist besser.",
+     "fr": "Un déficit calorique est nécessaire pour perdre du poids, mais « plus le déficit est grand, plus le résultat est rapide » cesse d’être vrai au-delà d’un certain point. Les très gros déficits (plus d’environ 30-40 % sous l’entretien) ont tendance à accélérer la perte musculaire et à entraîner manque d’énergie et faim excessive, ce qui rend le plan plus difficile à tenir. De nombreuses sources considèrent une perte d’environ 0,5-1 % du poids corporel par semaine comme plus durable. Si le but est de ne pas reprendre le poids, et pas seulement de le perdre, un déficit modéré tient généralement mieux dans le temps.",
+     "ja": "減量にはカロリー不足が必要ですが、「不足が大きいほど結果が早い」という考えは、ある点を超えると成り立たなくなります。非常に大きな不足（維持カロリーより約30-40％以上少ない）は筋肉の減少を早め、エネルギー不足や強い空腹につながり、計画を続けにくくします。多くの資料では、1週間に体重の約0.5-1％の減量ペースがより続けやすいとされています。体重を落とすだけでなく維持することが目標なら、ほどほどの不足のほうが長続きします。",
+     "ko": "체중 감량에는 칼로리 적자가 필요하지만, \"적자가 클수록 결과가 빠르다\"는 말은 어느 지점을 넘으면 맞지 않아요. 매우 큰 적자(유지 칼로리보다 약 30-40% 이상 적게)는 근손실을 앞당기고 기운 부족과 심한 배고픔을 불러 계획을 지키기 어렵게 만들어요. 많은 자료에서 주당 체중의 약 0.5-1% 감량 속도를 더 지속 가능하다고 봐요. 빼는 것뿐 아니라 유지하는 것이 목표라면 적당한 적자가 장기적으로 더 잘 버텨요."
+    }
+   },
+   "hero": "wide-caesar.jpg",
+   "picks": [
+    {
+     "id": "broccolisoup",
+     "image": "broccolisoup.jpg",
+     "title": {
+      "tr": "Brokoli Çorbası",
+      "en": "Broccoli Soup",
+      "de": "Brokkolisuppe",
+      "fr": "Soupe de brocoli",
+      "ja": "ブロッコリースープ",
+      "ko": "브로콜리 수프"
+     },
+     "minutes": 25,
+     "servings": 4,
+     "kcal": 140,
+     "protein": 7
+    },
+    {
+     "id": "cacik",
+     "image": "cacik.jpg",
+     "title": {
+      "tr": "Cacık",
+      "en": "Cacik (Yogurt Cucumber Dip)",
+      "de": "Cacık (Joghurt-Gurken-Dip)",
+      "fr": "Cacık (dip yaourt-concombre)",
+      "ja": "ジャジュク（ヨーグルトときゅうりのディップ）",
+      "ko": "자즈크 (요거트 오이 딥)"
+     },
+     "minutes": 10,
+     "servings": 4,
+     "kcal": 100,
+     "protein": 5
+    }
+   ],
+   "recipe": {
+    "id": "stuffedpepper",
+    "image": "wide-stuffedpepper.jpg",
+    "title": {
+     "tr": "Fırında Kıymalı Biber Dolma",
+     "en": "Baked Stuffed Peppers",
+     "de": "Gefüllte Paprika aus dem Ofen",
+     "fr": "Poivrons farcis au four",
+     "ja": "ピーマンの肉詰めオーブン焼き",
+     "ko": "오븐 파프리카 속 채움"
+    },
+    "minutes": 55,
+    "servings": 4,
+    "kcal": 260,
+    "protein": 18
+   }
+  },
+  {
+   "id": "hydration-and-hunger-2",
+   "article": {
+    "id": "hydration-and-hunger",
+    "minutes": 3,
+    "title": {
+     "tr": "Susuzluk, Açlıkla Karışabilir mi?",
+     "en": "Can Thirst Be Mistaken for Hunger?",
+     "de": "Kann man Durst mit Hunger verwechseln?",
+     "fr": "Peut-on confondre la soif avec la faim ?",
+     "ja": "のどの渇きを空腹と勘違いすることはある？",
+     "ko": "갈증을 배고픔으로 착각할 수 있을까?"
+    },
+    "summary": {
+     "tr": "Yetersiz su tüketimi bazen açlık hissiyle karışabilir; öğün öncesi su içmenin porsiyon kontrolüne küçük bir katkısı olabilir.",
+     "en": "Mild dehydration can sometimes be mistaken for hunger; drinking water before a meal may give portion control a small assist.",
+     "de": "Leichter Flüssigkeitsmangel fühlt sich manchmal wie Hunger an; ein Glas Wasser vor dem Essen kann die Portionskontrolle etwas unterstützen.",
+     "fr": "Une légère déshydratation peut parfois être prise pour de la faim ; boire de l’eau avant un repas peut donner un petit coup de pouce au contrôle des portions.",
+     "ja": "軽い脱水は空腹と勘違いされることがあります。食事の前に水を飲むと、食べる量のコントロールを少し助けてくれるかもしれません。",
+     "ko": "가벼운 탈수는 때때로 배고픔으로 착각될 수 있어요. 식사 전에 물을 마시면 식사량 조절에 조금 도움이 될 수 있어요."
+    },
+    "body": {
+     "tr": "Susuzluk ve açlık sinyalleri beyinde kısmen örtüşen mekanizmalar kullanır, bu yüzden bazı insanlarda hafif susuzluk açlık gibi algılanabilir. Bilimsel kanıt \"su içmek tek başına kilo verdirir\" iddiasını desteklemez, ama öğünden yaklaşık 20-30 dakika önce bir bardak su içmek bazı kişilerde porsiyon büyüklüğünü hafifçe azaltmaya yardımcı olabilir. Bu küçük bir araçtır, kalori dengesinin yerini tutmaz.",
+     "en": "Thirst and hunger signals share some overlapping pathways in the brain, so mild dehydration can sometimes register as hunger. The evidence does not support \"drinking water alone causes weight loss,\" but having a glass of water roughly 20-30 minutes before a meal may modestly reduce portion size for some people. It is a small supporting tool, not a substitute for overall calorie balance.",
+     "de": "Durst- und Hungersignale nutzen im Gehirn teils dieselben Bahnen, daher kann sich leichter Flüssigkeitsmangel manchmal wie Hunger anfühlen. Dass „Wassertrinken allein schlank macht“, ist nicht belegt, aber ein Glas Wasser etwa 20-30 Minuten vor dem Essen kann bei manchen die Portionsgröße leicht verringern. Es ist ein kleines Hilfsmittel und kein Ersatz für die gesamte Kalorienbilanz.",
+     "fr": "Les signaux de soif et de faim partagent certaines voies dans le cerveau, si bien qu’une légère déshydratation peut parfois être ressentie comme de la faim. Rien ne prouve que « boire de l’eau suffit à faire maigrir », mais un verre d’eau environ 20-30 minutes avant un repas peut réduire légèrement la taille des portions chez certaines personnes. C’est un petit outil d’appoint, pas un substitut à l’équilibre calorique global.",
+     "ja": "のどの渇きと空腹のシグナルは脳内で一部同じ経路を使うため、軽い脱水が空腹として感じられることがあります。「水を飲むだけでやせる」という根拠はありませんが、食事の約20-30分前にコップ1杯の水を飲むと、人によっては食べる量が少し減ることがあります。あくまで小さな補助であり、全体のカロリーバランスの代わりにはなりません。",
+     "ko": "갈증과 배고픔 신호는 뇌에서 일부 같은 경로를 쓰기 때문에 가벼운 탈수가 배고픔처럼 느껴질 때가 있어요. \"물만 마셔도 살이 빠진다\"는 근거는 없지만, 식사 약 20-30분 전에 물 한 잔을 마시면 일부 사람은 먹는 양이 조금 줄 수 있어요. 작은 보조 수단일 뿐 전체 칼로리 균형을 대신하지는 못해요."
+    }
+   },
+   "hero": "wide-icedtea.jpg",
+   "picks": [
+    {
+     "id": "smoothie",
+     "image": "smoothie.jpg",
+     "title": {
+      "tr": "Yeşil Smoothie",
+      "en": "Green Smoothie",
+      "de": "Grüner Smoothie",
+      "fr": "Smoothie vert",
+      "ja": "グリーンスムージー",
+      "ko": "그린 스무디"
+     },
+     "minutes": 5,
+     "servings": 1,
+     "kcal": 220,
+     "protein": 4
+    },
+    {
+     "id": "matcha",
+     "image": "matcha.jpg",
+     "title": {
+      "tr": "Buzlu Matcha Latte",
+      "en": "Iced Matcha Latte",
+      "de": "Iced Matcha Latte",
+      "fr": "Matcha latte glacé",
+      "ja": "アイス抹茶ラテ",
+      "ko": "아이스 말차 라테"
+     },
+     "minutes": 5,
+     "servings": 1,
+     "kcal": 100,
+     "protein": 7
+    }
+   ],
+   "recipe": {
+    "id": "ezogelin",
+    "image": "wide-ezogelin.jpg",
+    "title": {
+     "tr": "Ezogelin Çorbası",
+     "en": "Ezogelin Soup",
+     "de": "Ezogelin-Suppe",
+     "fr": "Soupe ezogelin",
+     "ja": "エゾゲリンスープ",
+     "ko": "에조겔린 수프"
+    },
+    "minutes": 35,
+    "servings": 4,
+    "kcal": 165,
+    "protein": 7
+   }
+  },
+  {
+   "id": "fiber-basics-3",
+   "article": {
+    "id": "fiber-basics",
+    "minutes": 3,
+    "title": {
+     "tr": "Lif: Gözden Kaçan Tokluk Aracı",
+     "en": "Fiber: The Overlooked Satiety Tool",
+     "de": "Ballaststoffe: der unterschätzte Sattmacher",
+     "fr": "Les fibres : l’alliée satiété qu’on oublie",
+     "ja": "食物繊維：見落とされがちな満腹の味方",
+     "ko": "식이섬유: 놓치기 쉬운 포만감 도우미"
+    },
+    "summary": {
+     "tr": "Yeterli lif alımı tokluk hissini artırır, kan şekeri dalgalanmasını yumuşatır ve sindirim sağlığını destekler.",
+     "en": "Enough fiber boosts fullness, smooths out blood sugar swings, and supports digestive health.",
+     "de": "Genug Ballaststoffe machen länger satt, glätten Blutzuckerschwankungen und unterstützen die Verdauung.",
+     "fr": "Assez de fibres renforce la satiété, atténue les variations de glycémie et soutient la digestion.",
+     "ja": "十分な食物繊維は満腹感を高め、血糖値の変動をゆるやかにし、消化の健康を支えます。",
+     "ko": "식이섬유를 충분히 먹으면 포만감이 커지고 혈당 변동이 완만해지며 소화 건강에도 도움이 돼요."
+    },
+    "body": {
+     "tr": "Lif, sebze, meyve, tam tahıl ve baklagillerde bol bulunan, sindirilmeyen bir karbonhidrat türüdür. Mide boşalmasını yavaşlatarak tokluk süresini uzatır, bu da kalori açığında iştah kontrolünü kolaylaştırabilir. Genel öneri günde 25-35g civarıdır, ama çoğu insan bunun oldukça altında kalır. Lif alımını aniden artırmak şişkinlik yapabilir; su tüketimini artırarak ve kademeli ilerleyerek bu etkiyi azaltabilirsin.",
+     "en": "Fiber is an indigestible type of carbohydrate found abundantly in vegetables, fruit, whole grains and legumes. It slows stomach emptying, which extends fullness and can make appetite control easier while in a calorie deficit. A common guideline is around 25-35g per day, though most people fall well short of it. Increasing fiber intake too quickly can cause bloating; raising water intake and progressing gradually helps avoid that.",
+     "de": "Ballaststoffe sind unverdauliche Kohlenhydrate, die reichlich in Gemüse, Obst, Vollkorn und Hülsenfrüchten stecken. Sie verlangsamen die Magenentleerung, verlängern so das Sättigungsgefühl und können die Appetitkontrolle im Kaloriendefizit erleichtern. Als Richtwert gelten etwa 25-35 g pro Tag, die meisten Menschen liegen deutlich darunter. Wer die Menge zu schnell steigert, bekommt leicht Blähungen; mehr trinken und langsam steigern hilft.",
+     "fr": "Les fibres sont des glucides non digestibles, abondants dans les légumes, les fruits, les céréales complètes et les légumineuses. Elles ralentissent la vidange de l’estomac, ce qui prolonge la satiété et peut faciliter le contrôle de l’appétit en déficit calorique. On recommande souvent autour de 25-35 g par jour, mais la plupart des gens en sont loin. Augmenter les fibres trop vite peut provoquer des ballonnements ; boire davantage et y aller progressivement aide à les éviter.",
+     "ja": "食物繊維は消化されない炭水化物の一種で、野菜、果物、全粒穀物、豆類に豊富に含まれます。胃からの排出を遅らせるため満腹感が長く続き、カロリー不足のときの食欲コントロールを助けます。一般的な目安は1日約25-35 gですが、多くの人は大きく不足しています。急に増やすとお腹が張ることがあるので、水分を増やしながら少しずつ増やしましょう。",
+     "ko": "식이섬유는 소화되지 않는 탄수화물의 한 종류로 채소, 과일, 통곡물, 콩류에 풍부해요. 위가 비워지는 속도를 늦춰 포만감을 오래 유지해 주고, 칼로리 적자 상태에서 식욕 조절을 쉽게 해 줘요. 흔히 하루 약 25-35 g을 권장하지만 대부분은 이에 한참 못 미쳐요. 섭취량을 너무 빨리 늘리면 배에 가스가 찰 수 있으니 물을 더 마시면서 천천히 늘리세요."
+    }
+   },
+   "hero": "wide-quinoa.jpg",
+   "picks": [
+    {
+     "id": "bulgurpilav",
+     "image": "bulgurpilav.jpg",
+     "title": {
+      "tr": "Sebzeli Bulgur Pilavı",
+      "en": "Vegetable Bulgur Pilaf",
+      "de": "Bulgurpilaw mit Gemüse",
+      "fr": "Pilaf de boulgour aux légumes",
+      "ja": "野菜入りブルグルピラフ",
+      "ko": "채소 불구르 필라프"
+     },
+     "minutes": 30,
+     "servings": 4,
+     "kcal": 225,
+     "protein": 7
+    },
+    {
+     "id": "barbunya",
+     "image": "barbunya.jpg",
+     "title": {
+      "tr": "Barbunya Pilaki",
+      "en": "Borlotti Bean Pilaki",
+      "de": "Borlotti-Bohnen-Pilaki",
+      "fr": "Pilaki de haricots borlotti",
+      "ja": "うずら豆のピラキ",
+      "ko": "보를로티콩 필라키"
+     },
+     "minutes": 70,
+     "servings": 4,
+     "kcal": 280,
+     "protein": 13
+    }
+   ],
+   "recipe": {
+    "id": "nohutyemegi",
+    "image": "wide-nohutyemegi.jpg",
+    "title": {
+     "tr": "Zeytinyağlı Nohut Yemeği",
+     "en": "Chickpea Stew",
+     "de": "Kichererbseneintopf",
+     "fr": "Ragoût de pois chiches",
+     "ja": "ひよこ豆の煮込み",
+     "ko": "병아리콩 스튜"
+    },
+    "minutes": 80,
+    "servings": 4,
+    "kcal": 270,
+    "protein": 12
+   }
+  },
+  {
+   "id": "protein-timing-3",
+   "article": {
+    "id": "protein-timing",
+    "minutes": 4,
+    "title": {
+     "tr": "Protein Alımını Güne Yaymak Neden Önemli?",
+     "en": "Why Spread Your Protein Intake Across the Day?",
+     "de": "Warum solltest du dein Eiweiß über den Tag verteilen?",
+     "fr": "Pourquoi répartir tes protéines sur la journée ?",
+     "ja": "たんぱく質を1日に分けてとるのはなぜ？",
+     "ko": "단백질을 하루에 나눠 먹어야 하는 이유는?"
+    },
+    "summary": {
+     "tr": "Günlük protein hedefine tek öğünde ulaşmak yerine her öğüne yaymak, kas koruma ve tokluk açısından neden daha avantajlı.",
+     "en": "Why hitting your protein target across several meals, instead of one big serving, tends to work better for muscle maintenance and satiety.",
+     "de": "Warum es für Muskelerhalt und Sättigung meist besser ist, das Eiweißziel auf mehrere Mahlzeiten zu verteilen statt auf eine große Portion.",
+     "fr": "Pourquoi atteindre ton objectif de protéines sur plusieurs repas, plutôt qu’en une seule grosse portion, est souvent plus efficace pour préserver le muscle et la satiété.",
+     "ja": "たんぱく質の目標を一度に大量にとるのではなく、数回の食事に分けるほうが、筋肉の維持と満腹感に役立ちやすい理由。",
+     "ko": "단백질 목표를 한 번에 많이 먹기보다 여러 끼니에 나눠 채우는 것이 근육 유지와 포만감에 더 유리한 이유."
+    },
+    "body": {
+     "tr": "Vücut, tek bir öğünde işleyebileceği protein miktarı açısından sınırlıdır; büyük bir kısmı aynı anda alındığında kas protein sentezine katkısı öğünler arasına yayıldığı kadar verimli olmayabilir. Her ana öğüne 25-40g civarı protein dağıtmak, gün boyunca daha dengeli bir tokluk hissi ve kas koruma desteği sağlar. Bu, özellikle kalori açığındayken (kilo verirken) kas kütlesini korumak isteyenler için pratik bir yaklaşımdır. Kesin ihtiyaç kişiye, aktivite düzeyine ve hedeflere göre değişir.",
+     "en": "The body has a practical limit on how much protein it can put to use from a single meal, so loading most of your daily target into one sitting tends to be less efficient for muscle protein synthesis than spreading it out. Aiming for roughly 25-40g of protein per main meal supports steadier satiety and helps preserve muscle, which matters most while in a calorie deficit. Exact needs vary by person, activity level and goals.",
+     "de": "Der Körper kann aus einer einzelnen Mahlzeit nur begrenzt viel Eiweiß verwerten. Den Großteil des Tagesziels auf einmal zu essen, ist für die Muskelproteinsynthese daher meist weniger wirksam, als es zu verteilen. Etwa 25-40 g Eiweiß pro Hauptmahlzeit sorgen für gleichmäßigere Sättigung und helfen, Muskeln zu erhalten, was im Kaloriendefizit besonders wichtig ist. Der genaue Bedarf hängt von Person, Aktivität und Ziel ab.",
+     "fr": "Le corps ne peut utiliser qu’une quantité limitée de protéines à partir d’un seul repas. Concentrer l’essentiel de l’objectif quotidien en une prise est donc souvent moins efficace pour la synthèse des protéines musculaires que de le répartir. Viser environ 25-40 g de protéines par repas principal favorise une satiété plus stable et aide à préserver le muscle, ce qui compte surtout en déficit calorique. Les besoins exacts varient selon la personne, le niveau d’activité et les objectifs.",
+     "ja": "体が1回の食事から利用できるたんぱく質の量には実質的な限りがあります。そのため、1日の目標の大半を一度にとるより、分けてとるほうが筋たんぱく質の合成には効率的です。主な食事ごとに約25-40 gを目安にすると、満腹感が安定し、筋肉の維持にも役立ちます。これはカロリー不足の状態で特に重要です。必要量は人、活動量、目標によって異なります。",
+     "ko": "몸이 한 끼에서 활용할 수 있는 단백질 양에는 실질적인 한계가 있어요. 그래서 하루 목표의 대부분을 한 번에 먹으면 나눠 먹을 때보다 근육 단백질 합성에 덜 효율적이에요. 주요 끼니마다 약 25-40 g의 단백질을 목표로 하면 포만감이 더 고르게 유지되고 근육 보존에도 도움이 돼요. 이는 칼로리 적자 상태에서 특히 중요해요. 정확한 필요량은 사람, 활동량, 목표에 따라 달라요."
+    }
+   },
+   "hero": "wide-shrimp.jpg",
+   "picks": [
+    {
+     "id": "proteincrepe",
+     "image": "proteincrepe.jpg",
+     "title": {
+      "tr": "Proteinli Çilekli Krep",
+      "en": "Protein Crepes with Strawberries",
+      "de": "Protein-Crêpes mit Erdbeeren",
+      "fr": "Crêpes protéinées aux fraises",
+      "ja": "いちごのプロテインクレープ",
+      "ko": "딸기 단백질 크레페"
+     },
+     "minutes": 20,
+     "servings": 2,
+     "kcal": 345,
+     "protein": 29
+    },
+    {
+     "id": "cottagedip",
+     "image": "cottagedip.jpg",
+     "title": {
+      "tr": "Lor Dip ve Çiğ Sebze",
+      "en": "Cottage Cheese Dip with Veggies",
+      "de": "Hüttenkäse-Dip mit Gemüse",
+      "fr": "Dip de cottage cheese et légumes",
+      "ja": "カッテージチーズのディップと野菜",
+      "ko": "채소를 곁들인 코티지치즈 딥"
+     },
+     "minutes": 10,
+     "servings": 4,
+     "kcal": 100,
+     "protein": 9
+    }
+   ],
+   "recipe": {
+    "id": "turkeyballs",
+    "image": "wide-turkeyballs.jpg",
+    "title": {
+     "tr": "Domates Soslu Hindi Köfte",
+     "en": "Turkey Meatballs in Tomato Sauce",
+     "de": "Putenbällchen in Tomatensauce",
+     "fr": "Boulettes de dinde à la sauce tomate",
+     "ja": "七面鳥のミートボール トマトソース",
+     "ko": "토마토 소스 칠면조 미트볼"
+    },
+    "minutes": 35,
+    "servings": 4,
+    "kcal": 275,
+    "protein": 28
+   }
+  },
+  {
+   "id": "sustainable-deficit-3",
+   "article": {
+    "id": "sustainable-deficit",
+    "minutes": 5,
+    "title": {
+     "tr": "Çok Agresif Kalori Açığı Neden Geri Teper?",
+     "en": "Why Too Aggressive a Calorie Deficit Backfires",
+     "de": "Warum ein zu großes Kaloriendefizit nach hinten losgeht",
+     "fr": "Pourquoi un déficit calorique trop agressif se retourne contre toi",
+     "ja": "カロリーを減らしすぎると逆効果になる理由",
+     "ko": "칼로리를 너무 심하게 줄이면 역효과가 나는 이유"
+    },
+    "summary": {
+     "tr": "Kalori açığını abartmak kısa vadede hızlı sonuç verebilir ama kas kaybı, yorgunluk ve sürdürülemezlik riskini artırır.",
+     "en": "An overly large deficit can look fast in the short run, but raises the risk of muscle loss, fatigue, and giving up.",
+     "de": "Ein übergroßes Defizit wirkt kurzfristig schnell, erhöht aber das Risiko für Muskelverlust, Müdigkeit und Aufgeben.",
+     "fr": "Un déficit trop important semble rapide à court terme, mais augmente le risque de perte musculaire, de fatigue et d’abandon.",
+     "ja": "大きすぎるカロリー不足は短期的には速く見えますが、筋肉の減少、疲労、挫折のリスクを高めます。",
+     "ko": "지나치게 큰 칼로리 적자는 단기적으로는 빨라 보여도 근손실, 피로, 포기의 위험을 높여요."
+    },
+    "body": {
+     "tr": "Kilo kaybı için kalori açığı gereklidir, ama \"ne kadar fazla açık o kadar hızlı sonuç\" mantığı belirli bir noktadan sonra ters teper. Çok büyük açıklar (günlük ihtiyacın %30-40'ından fazlası) genellikle kas kaybını hızlandırır, enerji düşüklüğüne ve aşırı açlığa yol açar, bu da sürdürülebilirliği zorlaştırır. Çoğu kaynak haftada vücut ağırlığının yaklaşık %0,5-1'i kadar bir kayıp hızını daha sürdürülebilir kabul eder. Hedefin sadece kilo vermek değil, verilen kiloyu korumaksa, ölçülü bir açık uzun vadede daha güvenilir sonuç verir.",
+     "en": "A calorie deficit is necessary for weight loss, but \"the bigger the deficit, the faster the result\" stops holding past a certain point. Very large deficits (more than roughly 30-40% below maintenance) tend to accelerate muscle loss and lead to low energy and excessive hunger, which makes the plan harder to stick to. Many sources treat a loss rate of roughly 0.5-1% of body weight per week as more sustainable. If the goal is keeping the weight off, not just losing it, a moderate deficit tends to hold up better over time.",
+     "de": "Zum Abnehmen braucht es ein Kaloriendefizit, aber „je größer das Defizit, desto schneller das Ergebnis“ gilt ab einem gewissen Punkt nicht mehr. Sehr große Defizite (mehr als etwa 30-40 % unter dem Erhaltungsbedarf) beschleunigen meist den Muskelverlust und führen zu wenig Energie und starkem Hunger, sodass der Plan schwerer durchzuhalten ist. Viele Quellen halten eine Abnahme von etwa 0,5-1 % des Körpergewichts pro Woche für nachhaltiger. Wer das Gewicht nicht nur verlieren, sondern auch halten will, fährt mit einem moderaten Defizit auf Dauer meist besser.",
+     "fr": "Un déficit calorique est nécessaire pour perdre du poids, mais « plus le déficit est grand, plus le résultat est rapide » cesse d’être vrai au-delà d’un certain point. Les très gros déficits (plus d’environ 30-40 % sous l’entretien) ont tendance à accélérer la perte musculaire et à entraîner manque d’énergie et faim excessive, ce qui rend le plan plus difficile à tenir. De nombreuses sources considèrent une perte d’environ 0,5-1 % du poids corporel par semaine comme plus durable. Si le but est de ne pas reprendre le poids, et pas seulement de le perdre, un déficit modéré tient généralement mieux dans le temps.",
+     "ja": "減量にはカロリー不足が必要ですが、「不足が大きいほど結果が早い」という考えは、ある点を超えると成り立たなくなります。非常に大きな不足（維持カロリーより約30-40％以上少ない）は筋肉の減少を早め、エネルギー不足や強い空腹につながり、計画を続けにくくします。多くの資料では、1週間に体重の約0.5-1％の減量ペースがより続けやすいとされています。体重を落とすだけでなく維持することが目標なら、ほどほどの不足のほうが長続きします。",
+     "ko": "체중 감량에는 칼로리 적자가 필요하지만, \"적자가 클수록 결과가 빠르다\"는 말은 어느 지점을 넘으면 맞지 않아요. 매우 큰 적자(유지 칼로리보다 약 30-40% 이상 적게)는 근손실을 앞당기고 기운 부족과 심한 배고픔을 불러 계획을 지키기 어렵게 만들어요. 많은 자료에서 주당 체중의 약 0.5-1% 감량 속도를 더 지속 가능하다고 봐요. 빼는 것뿐 아니라 유지하는 것이 목표라면 적당한 적자가 장기적으로 더 잘 버텨요."
+    }
+   },
+   "hero": "wide-caprese.jpg",
+   "picks": [
+    {
+     "id": "tomatosoup",
+     "image": "tomatosoup.jpg",
+     "title": {
+      "tr": "Domates Çorbası",
+      "en": "Tomato Soup",
+      "de": "Tomatensuppe",
+      "fr": "Soupe de tomates",
+      "ja": "トマトスープ",
+      "ko": "토마토 수프"
+     },
+     "minutes": 30,
+     "servings": 4,
+     "kcal": 95,
+     "protein": 3
+    },
+    {
+     "id": "mushroomsoup",
+     "image": "mushroomsoup.jpg",
+     "title": {
+      "tr": "Kremalı Mantar Çorbası (Yoğurtlu)",
+      "en": "Creamy Mushroom Soup",
+      "de": "Cremige Pilzsuppe",
+      "fr": "Velouté de champignons",
+      "ja": "マッシュルームのクリームスープ",
+      "ko": "크림 버섯 수프"
+     },
+     "minutes": 30,
+     "servings": 4,
+     "kcal": 125,
+     "protein": 7
+    }
+   ],
+   "recipe": {
+    "id": "kabakyemegi",
+    "image": "wide-kabakyemegi.jpg",
+    "title": {
+     "tr": "Domatesli Kabak Yemeği",
+     "en": "Zucchini & Tomato Stew",
+     "de": "Zucchini-Tomaten-Eintopf",
+     "fr": "Ragoût de courgettes à la tomate",
+     "ja": "ズッキーニのトマト煮",
+     "ko": "주키니 토마토 스튜"
+    },
+    "minutes": 35,
+    "servings": 4,
+    "kcal": 110,
+    "protein": 3
+   }
+  },
+  {
+   "id": "hydration-and-hunger-3",
+   "article": {
+    "id": "hydration-and-hunger",
+    "minutes": 3,
+    "title": {
+     "tr": "Susuzluk, Açlıkla Karışabilir mi?",
+     "en": "Can Thirst Be Mistaken for Hunger?",
+     "de": "Kann man Durst mit Hunger verwechseln?",
+     "fr": "Peut-on confondre la soif avec la faim ?",
+     "ja": "のどの渇きを空腹と勘違いすることはある？",
+     "ko": "갈증을 배고픔으로 착각할 수 있을까?"
+    },
+    "summary": {
+     "tr": "Yetersiz su tüketimi bazen açlık hissiyle karışabilir; öğün öncesi su içmenin porsiyon kontrolüne küçük bir katkısı olabilir.",
+     "en": "Mild dehydration can sometimes be mistaken for hunger; drinking water before a meal may give portion control a small assist.",
+     "de": "Leichter Flüssigkeitsmangel fühlt sich manchmal wie Hunger an; ein Glas Wasser vor dem Essen kann die Portionskontrolle etwas unterstützen.",
+     "fr": "Une légère déshydratation peut parfois être prise pour de la faim ; boire de l’eau avant un repas peut donner un petit coup de pouce au contrôle des portions.",
+     "ja": "軽い脱水は空腹と勘違いされることがあります。食事の前に水を飲むと、食べる量のコントロールを少し助けてくれるかもしれません。",
+     "ko": "가벼운 탈수는 때때로 배고픔으로 착각될 수 있어요. 식사 전에 물을 마시면 식사량 조절에 조금 도움이 될 수 있어요."
+    },
+    "body": {
+     "tr": "Susuzluk ve açlık sinyalleri beyinde kısmen örtüşen mekanizmalar kullanır, bu yüzden bazı insanlarda hafif susuzluk açlık gibi algılanabilir. Bilimsel kanıt \"su içmek tek başına kilo verdirir\" iddiasını desteklemez, ama öğünden yaklaşık 20-30 dakika önce bir bardak su içmek bazı kişilerde porsiyon büyüklüğünü hafifçe azaltmaya yardımcı olabilir. Bu küçük bir araçtır, kalori dengesinin yerini tutmaz.",
+     "en": "Thirst and hunger signals share some overlapping pathways in the brain, so mild dehydration can sometimes register as hunger. The evidence does not support \"drinking water alone causes weight loss,\" but having a glass of water roughly 20-30 minutes before a meal may modestly reduce portion size for some people. It is a small supporting tool, not a substitute for overall calorie balance.",
+     "de": "Durst- und Hungersignale nutzen im Gehirn teils dieselben Bahnen, daher kann sich leichter Flüssigkeitsmangel manchmal wie Hunger anfühlen. Dass „Wassertrinken allein schlank macht“, ist nicht belegt, aber ein Glas Wasser etwa 20-30 Minuten vor dem Essen kann bei manchen die Portionsgröße leicht verringern. Es ist ein kleines Hilfsmittel und kein Ersatz für die gesamte Kalorienbilanz.",
+     "fr": "Les signaux de soif et de faim partagent certaines voies dans le cerveau, si bien qu’une légère déshydratation peut parfois être ressentie comme de la faim. Rien ne prouve que « boire de l’eau suffit à faire maigrir », mais un verre d’eau environ 20-30 minutes avant un repas peut réduire légèrement la taille des portions chez certaines personnes. C’est un petit outil d’appoint, pas un substitut à l’équilibre calorique global.",
+     "ja": "のどの渇きと空腹のシグナルは脳内で一部同じ経路を使うため、軽い脱水が空腹として感じられることがあります。「水を飲むだけでやせる」という根拠はありませんが、食事の約20-30分前にコップ1杯の水を飲むと、人によっては食べる量が少し減ることがあります。あくまで小さな補助であり、全体のカロリーバランスの代わりにはなりません。",
+     "ko": "갈증과 배고픔 신호는 뇌에서 일부 같은 경로를 쓰기 때문에 가벼운 탈수가 배고픔처럼 느껴질 때가 있어요. \"물만 마셔도 살이 빠진다\"는 근거는 없지만, 식사 약 20-30분 전에 물 한 잔을 마시면 일부 사람은 먹는 양이 조금 줄 수 있어요. 작은 보조 수단일 뿐 전체 칼로리 균형을 대신하지는 못해요."
+    }
+   },
+   "hero": "wide-goldenmilk.jpg",
+   "picks": [
+    {
+     "id": "yayla",
+     "image": "yayla.jpg",
+     "title": {
+      "tr": "Yayla Çorbası",
+      "en": "Yogurt & Rice Soup",
+      "de": "Joghurt-Reis-Suppe",
+      "fr": "Soupe au yaourt et au riz",
+      "ja": "ヨーグルトと米のスープ",
+      "ko": "요거트 쌀 수프"
+     },
+     "minutes": 30,
+     "servings": 4,
+     "kcal": 150,
+     "protein": 6
+    },
+    {
+     "id": "pumpkinsoup",
+     "image": "pumpkinsoup.jpg",
+     "title": {
+      "tr": "Balkabağı Çorbası",
+      "en": "Pumpkin Soup",
+      "de": "Kürbissuppe",
+      "fr": "Soupe de potiron",
+      "ja": "かぼちゃスープ",
+      "ko": "호박 수프"
+     },
+     "minutes": 30,
+     "servings": 4,
+     "kcal": 130,
+     "protein": 4
+    }
+   ],
+   "recipe": {
+    "id": "tarhana",
+    "image": "wide-tarhana.jpg",
+    "title": {
+     "tr": "Tarhana Çorbası",
+     "en": "Tarhana Soup",
+     "de": "Tarhana-Suppe",
+     "fr": "Soupe de tarhana",
+     "ja": "タルハナスープ",
+     "ko": "타르하나 수프"
+    },
+    "minutes": 20,
+    "servings": 4,
+    "kcal": 95,
+    "protein": 2
+   }
+  }
+ ]
+}
