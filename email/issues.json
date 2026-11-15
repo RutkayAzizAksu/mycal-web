@@ -83,6 +83,88 @@
    }
   },
   {
+   "id": "sleep-and-appetite-1",
+   "article": {
+    "id": "sleep-and-appetite",
+    "minutes": 3,
+    "title": {
+     "tr": "Az Uyku İştahı Nasıl Etkiler?",
+     "en": "How Short Sleep Affects Your Appetite",
+     "de": "Wie zu wenig Schlaf deinen Appetit beeinflusst",
+     "fr": "Comment le manque de sommeil agit sur ton appétit",
+     "ja": "睡眠不足は食欲にどう影響する？",
+     "ko": "잠이 부족하면 식욕은 어떻게 달라질까요?"
+    },
+    "summary": {
+     "tr": "Yetersiz uyku açlık hissini artırır, tokluk sinyalini zayıflatır ve yüksek kalorili yiyeceklere yönelmeyi kolaylaştırır.",
+     "en": "Too little sleep raises hunger, weakens the feeling of fullness, and makes high-calorie foods harder to resist.",
+     "de": "Zu wenig Schlaf steigert den Hunger, schwächt das Sättigungsgefühl und macht es schwerer, kalorienreichem Essen zu widerstehen.",
+     "fr": "Trop peu de sommeil augmente la faim, affaiblit la sensation de satiété et rend les aliments très caloriques plus difficiles à refuser.",
+     "ja": "睡眠が足りないと空腹感が強まり、満腹感が弱くなり、高カロリーな食べ物を我慢しにくくなります。",
+     "ko": "잠이 부족하면 배고픔이 커지고 포만감은 약해져서 고칼로리 음식을 참기 어려워져요."
+    },
+    "body": {
+     "tr": "Uykusuz geçen bir gecenin ardından daha aç hissetmen tesadüf değil. Araştırmalar yetersiz uykunun açlık ve tokluk sinyallerini düzenleyen hormonları etkilediğini, ertesi gün özellikle tatlı ve yağlı yiyeceklere isteği artırdığını gösteriyor. Yorgunken hareket etme isteği de azalır, yani hem daha çok yer hem daha az yakarsın. Çoğu yetişkin için 7-9 saat uyku önerilir. Yatmadan bir iki saat önce ağır yemekten ve kafeinden kaçınmak, her gün benzer saatte yatmak iyi bir başlangıçtır.",
+     "en": "Feeling hungrier after a short night is no coincidence. Research shows that too little sleep affects the hormones that regulate hunger and fullness, and increases cravings the next day, especially for sweet and fatty foods. When you are tired you also move less, so you tend to eat more and burn less. Most adults are advised to sleep 7-9 hours. Avoiding heavy meals and caffeine in the hour or two before bed and going to sleep at a similar time each day is a good place to start.",
+     "de": "Dass du nach einer kurzen Nacht mehr Hunger hast, ist kein Zufall. Studien zeigen, dass zu wenig Schlaf die Hormone beeinflusst, die Hunger und Sättigung steuern, und am nächsten Tag die Lust vor allem auf Süßes und Fettiges steigert. Wer müde ist, bewegt sich außerdem weniger, isst also eher mehr und verbraucht weniger. Den meisten Erwachsenen werden 7-9 Stunden Schlaf empfohlen. Ein guter Anfang: in den ein bis zwei Stunden vor dem Schlafengehen auf schweres Essen und Koffein verzichten und jeden Tag zu einer ähnlichen Zeit ins Bett gehen.",
+     "fr": "Avoir plus faim après une nuit trop courte n'est pas un hasard. Les études montrent que le manque de sommeil agit sur les hormones qui règlent la faim et la satiété, et augmente les envies le lendemain, surtout de sucré et de gras. Quand on est fatigué, on bouge aussi moins : on mange donc plus et on dépense moins. On conseille 7 à 9 heures de sommeil à la plupart des adultes. Pour commencer, évite les repas lourds et la caféine dans l'heure ou les deux heures avant le coucher et couche-toi à peu près à la même heure chaque jour.",
+     "ja": "寝不足の翌日にいつもよりお腹が空くのは偶然ではありません。研究では、睡眠不足が空腹と満腹を調整するホルモンに影響し、翌日は特に甘いものや脂っこいものへの欲求が強くなることが示されています。疲れていると体を動かす量も減るため、食べる量は増え、消費は減りがちです。多くの成人には7〜9時間の睡眠がすすめられています。寝る1〜2時間前は重い食事とカフェインを避け、毎日同じくらいの時間に寝ることから始めてみましょう。",
+     "ko": "잠을 못 잔 다음 날 유난히 배가 고픈 건 우연이 아니에요. 연구에 따르면 수면이 부족하면 배고픔과 포만감을 조절하는 호르몬이 영향을 받아, 다음 날 특히 달고 기름진 음식이 더 당겨요. 피곤하면 움직임도 줄어서 더 먹고 덜 쓰게 되기 쉬워요. 대부분의 성인에게는 7~9시간 수면이 권장돼요. 잠들기 한두 시간 전에는 무거운 식사와 카페인을 피하고, 매일 비슷한 시간에 잠자리에 드는 것부터 시작해 보세요."
+    }
+   },
+   "hero": "wide-yayla.jpg",
+   "picks": [
+    {
+     "id": "goldenmilk",
+     "image": "goldenmilk.jpg",
+     "title": {
+      "tr": "Altın Süt (Zerdeçallı)",
+      "en": "Golden Milk",
+      "de": "Goldene Milch",
+      "fr": "Lait d’or",
+      "ja": "ゴールデンミルク",
+      "ko": "골든 밀크"
+     },
+     "minutes": 8,
+     "servings": 1,
+     "kcal": 135,
+     "protein": 8
+    },
+    {
+     "id": "bakedapple",
+     "image": "bakedapple.jpg",
+     "title": {
+      "tr": "Cevizli Fırın Elma",
+      "en": "Baked Apples with Walnuts",
+      "de": "Bratäpfel mit Walnüssen",
+      "fr": "Pommes au four aux noix",
+      "ja": "くるみ入り焼きりんご",
+      "ko": "호두를 넣은 구운 사과"
+     },
+     "minutes": 30,
+     "servings": 2,
+     "kcal": 180,
+     "protein": 2
+    }
+   ],
+   "recipe": {
+    "id": "ispanak",
+    "image": "wide-ispanak.jpg",
+    "title": {
+     "tr": "Pirinçli Ispanak Yemeği",
+     "en": "Spinach & Rice Stew",
+     "de": "Spinat-Reis-Eintopf",
+     "fr": "Épinards au riz",
+     "ja": "ほうれん草と米の煮込み",
+     "ko": "시금치 쌀 스튜"
+    },
+    "minutes": 35,
+    "servings": 4,
+    "kcal": 165,
+    "protein": 8
+   }
+  },
+  {
    "id": "protein-timing-1",
    "article": {
     "id": "protein-timing",
@@ -162,6 +244,88 @@
     "servings": 2,
     "kcal": 305,
     "protein": 36
+   }
+  },
+  {
+   "id": "liquid-calories-1",
+   "article": {
+    "id": "liquid-calories",
+    "minutes": 3,
+    "title": {
+     "tr": "İçeceklerdeki Gizli Kaloriler",
+     "en": "The Hidden Calories in Drinks",
+     "de": "Die versteckten Kalorien in Getränken",
+     "fr": "Les calories cachées dans les boissons",
+     "ja": "飲み物に隠れたカロリー",
+     "ko": "음료 속 숨은 칼로리"
+    },
+    "summary": {
+     "tr": "Şekerli içecekler, meyve suları ve sütlü kahveler pek tok tutmadan günlük kaloriye ciddi katkı yapabilir.",
+     "en": "Sugary drinks, fruit juices and milky coffees can add a lot to your daily calories without making you feel full.",
+     "de": "Zuckerhaltige Getränke, Fruchtsäfte und Milchkaffees können viele Kalorien liefern, ohne satt zu machen.",
+     "fr": "Les boissons sucrées, les jus de fruits et les cafés au lait peuvent ajouter beaucoup de calories à ta journée sans te rassasier.",
+     "ja": "甘い飲み物、果汁ジュース、ミルク入りコーヒーは、満腹感をあまり与えないまま1日のカロリーを大きく増やすことがあります。",
+     "ko": "달콤한 음료, 과일 주스, 우유가 들어간 커피는 배는 별로 부르지 않으면서 하루 칼로리를 크게 늘릴 수 있어요."
+    },
+    "body": {
+     "tr": "Sıvı kaloriler katı yiyecekler kadar tok tutmaz; bu yüzden içtiklerimizi çoğu zaman hesaba katmayız. Bir kutu şekerli gazlı içecek yaklaşık 140 kalori, şuruplu büyük bir sütlü kahve 250-400 kalori olabilir. Meyve suyunda da meyvenin şekeri vardır ama lifinin çoğu yoktur. Hepsini bırakman gerekmiyor: su, sade maden suyu, şekersiz çay ve kahve temel içeceğin olsun, diğerlerini kaydedip bilerek iç. Sütlü kahvede küçük boy ve şurupsuz seçmek bile fark yaratır.",
+     "en": "Liquid calories do not fill you up the way solid food does, so drinks often go uncounted. A can of sugary soda is about 140 calories, and a large flavored latte can be 250-400. Fruit juice carries the fruit's sugar but little of its fiber. You do not have to give them all up: make water, plain sparkling water, and unsweetened tea and coffee your default, and log the rest so you drink them knowingly. Even choosing a smaller latte without syrup makes a difference.",
+     "de": "Flüssige Kalorien sättigen nicht so wie feste Nahrung, deshalb zählen wir Getränke oft nicht mit. Eine Dose gezuckerte Limonade hat etwa 140 Kalorien, ein großer Latte mit Sirup kann 250-400 haben. Fruchtsaft enthält den Zucker der Frucht, aber kaum noch ihre Ballaststoffe. Du musst nicht auf alles verzichten: Mach Wasser, Mineralwasser sowie ungesüßten Tee und Kaffee zu deinem Standard und trag den Rest ein, damit du ihn bewusst trinkst. Schon ein kleinerer Latte ohne Sirup macht einen Unterschied.",
+     "fr": "Les calories liquides ne rassasient pas comme les aliments solides, si bien qu'on oublie souvent de compter ce qu'on boit. Une canette de soda sucré fait environ 140 calories, et un grand latte aromatisé peut en faire 250 à 400. Le jus de fruits garde le sucre du fruit mais presque plus ses fibres. Inutile de tout supprimer : fais de l'eau, de l'eau gazeuse nature, du thé et du café sans sucre tes boissons de base, et note le reste pour le boire en connaissance de cause. Rien que choisir un latte plus petit, sans sirop, fait une différence.",
+     "ja": "液体のカロリーは固形の食べ物ほどお腹にたまらないため、飲んだものは数え忘れがちです。甘い炭酸飲料は1缶で約140kcal、シロップ入りの大きなラテは250〜400kcalになることもあります。果汁ジュースには果物の糖分が含まれますが、食物繊維はほとんど残っていません。すべてをやめる必要はありません。水、無糖の炭酸水、無糖のお茶やコーヒーを基本にして、それ以外は記録したうえで意識して飲みましょう。ラテを小さいサイズのシロップなしにするだけでも違いが出ます。",
+     "ko": "액체 칼로리는 고체 음식만큼 배를 채워 주지 않아서, 마신 것은 계산에서 빠지기 쉬워요. 달콤한 탄산음료 한 캔은 약 140kcal, 시럽이 들어간 큰 라테는 250~400kcal가 될 수 있어요. 과일 주스에는 과일의 당은 들어 있지만 식이섬유는 거의 남아 있지 않아요. 전부 끊을 필요는 없어요. 물, 무가당 탄산수, 설탕 없는 차와 커피를 기본으로 하고 나머지는 기록하면서 알고 마시면 돼요. 라테를 작은 사이즈에 시럽 없이 고르는 것만으로도 차이가 나요."
+    }
+   },
+   "hero": "wide-turkishcoffee.jpg",
+   "picks": [
+    {
+     "id": "proffee",
+     "image": "proffee.jpg",
+     "title": {
+      "tr": "Proffee (Proteinli Kahve)",
+      "en": "Proffee (Protein Coffee)",
+      "de": "Proffee (Proteinkaffee)",
+      "fr": "Proffee (café protéiné)",
+      "ja": "プロフィー（プロテインコーヒー）",
+      "ko": "프로피 (단백질 커피)"
+     },
+     "minutes": 5,
+     "servings": 1,
+     "kcal": 170,
+     "protein": 29
+    },
+    {
+     "id": "cinnamonlatte",
+     "image": "cinnamonlatte.jpg",
+     "title": {
+      "tr": "Tarçınlı Latte",
+      "en": "Cinnamon Latte",
+      "de": "Zimt-Latte",
+      "fr": "Latte à la cannelle",
+      "ja": "シナモンラテ",
+      "ko": "시나몬 라테"
+     },
+     "minutes": 5,
+     "servings": 1,
+     "kcal": 115,
+     "protein": 7
+    }
+   ],
+   "recipe": {
+    "id": "shake",
+    "image": "wide-shake.jpg",
+    "title": {
+     "tr": "Muzlu Yulaflı Shake",
+     "en": "Banana Oat Shake",
+     "de": "Bananen-Hafer-Shake",
+     "fr": "Shake banane-avoine",
+     "ja": "バナナオートシェイク",
+     "ko": "바나나 오트 셰이크"
+    },
+    "minutes": 5,
+    "servings": 1,
+    "kcal": 315,
+    "protein": 12
    }
   },
   {
@@ -247,6 +411,170 @@
    }
   },
   {
+   "id": "scale-fluctuations-1",
+   "article": {
+    "id": "scale-fluctuations",
+    "minutes": 3,
+    "title": {
+     "tr": "Tartı Neden Her Gün Değişir?",
+     "en": "Why the Scale Changes Every Day",
+     "de": "Warum die Waage jeden Tag etwas anderes zeigt",
+     "fr": "Pourquoi la balance change tous les jours",
+     "ja": "体重はなぜ毎日変わるのか",
+     "ko": "체중은 왜 매일 달라질까요?"
+    },
+    "summary": {
+     "tr": "Günlük kilo oynamalarının çoğu yağ değil; su, tuz, karbonhidrat ve sindirimdeki yiyecekle ilgilidir.",
+     "en": "Most day-to-day weight swings are not fat; they come from water, salt, carbohydrates and food still being digested.",
+     "de": "Die meisten täglichen Gewichtsschwankungen sind kein Fett, sondern hängen mit Wasser, Salz, Kohlenhydraten und noch nicht verdauter Nahrung zusammen.",
+     "fr": "La plupart des variations de poids d'un jour à l'autre ne sont pas du gras : elles viennent de l'eau, du sel, des glucides et des aliments encore en digestion.",
+     "ja": "日々の体重の変動のほとんどは脂肪ではなく、水分、塩分、炭水化物、消化中の食べ物によるものです。",
+     "ko": "하루하루 체중이 달라지는 건 대부분 지방이 아니라 수분, 소금, 탄수화물, 소화 중인 음식 때문이에요."
+    },
+    "body": {
+     "tr": "Bir günde 1-2 kilo oynama normaldir ve neredeyse hiçbir zaman yağ değildir. Tuzlu bir akşam yemeği vücudun su tutmasına yol açar, karbonhidrat depoları da suyla birlikte saklanır. Yoğun bir antrenman, adet döngüsü ve henüz sindirilmemiş yiyecekler de tartıyı etkiler. Bu yüzden tek bir ölçüme değil eğilime bak: her sabah aynı koşullarda tartıl ve haftalık ortalamaları karşılaştır. Ortalama birkaç hafta boyunca aynı yöne gidiyorsa asıl değişim odur.",
+     "en": "A swing of 1-2 kg (2-4 lb) within a day is normal and is almost never fat. A salty dinner makes your body hold water, and carbohydrate stores are kept together with water. A hard workout, the menstrual cycle and food that has not been digested yet also move the number. So look at the trend rather than a single reading: weigh yourself under the same conditions each morning and compare weekly averages. If the average moves in the same direction for a few weeks, that is the real change.",
+     "de": "Eine Schwankung von 1-2 kg an einem Tag ist normal und fast nie Fett. Ein salziges Abendessen lässt deinen Körper Wasser einlagern, und Kohlenhydratspeicher werden zusammen mit Wasser angelegt. Auch ein hartes Training, der Menstruationszyklus und noch nicht verdaute Nahrung verändern die Zahl. Achte deshalb auf den Trend statt auf einen einzelnen Wert: Wiege dich jeden Morgen unter den gleichen Bedingungen und vergleiche die Wochendurchschnitte. Bewegt sich der Durchschnitt über ein paar Wochen in dieselbe Richtung, ist das die echte Veränderung.",
+     "fr": "Une variation de 1 à 2 kg dans la même journée est normale et ce n'est presque jamais du gras. Un dîner salé fait retenir de l'eau à ton corps, et les réserves de glucides sont stockées avec de l'eau. Un entraînement intense, le cycle menstruel et les aliments pas encore digérés font aussi bouger le chiffre. Regarde donc la tendance plutôt qu'une seule mesure : pèse-toi chaque matin dans les mêmes conditions et compare les moyennes par semaine. Si la moyenne va dans le même sens pendant quelques semaines, c'est ça le vrai changement.",
+     "ja": "1日のうちに1〜2kg変動するのは普通のことで、それが脂肪であることはほとんどありません。塩分の多い夕食をとると体は水分をため込み、炭水化物も水と一緒に蓄えられます。激しい運動、月経周期、まだ消化されていない食べ物も数字を動かします。ですから1回の測定ではなく傾向を見ましょう。毎朝同じ条件で量り、週ごとの平均を比べます。平均が数週間同じ方向に動いていれば、それが本当の変化です。",
+     "ko": "하루 사이에 1~2kg이 오르내리는 건 정상이고, 그게 지방인 경우는 거의 없어요. 짠 저녁을 먹으면 몸이 수분을 붙잡고, 탄수화물도 물과 함께 저장돼요. 힘든 운동, 생리 주기, 아직 소화되지 않은 음식도 숫자를 움직여요. 그러니 한 번의 측정이 아니라 흐름을 보세요. 매일 아침 같은 조건에서 재고 주간 평균을 비교해요. 평균이 몇 주 동안 같은 방향으로 움직인다면 그게 진짜 변화예요."
+    }
+   },
+   "hero": "wide-turlu.jpg",
+   "picks": [
+    {
+     "id": "tazefasulye",
+     "image": "tazefasulye.jpg",
+     "title": {
+      "tr": "Zeytinyağlı Taze Fasulye",
+      "en": "Green Beans in Olive Oil",
+      "de": "Grüne Bohnen in Olivenöl",
+      "fr": "Haricots verts à l’huile d’olive",
+      "ja": "さやいんげんのオリーブオイル煮",
+      "ko": "올리브유 그린빈 조림"
+     },
+     "minutes": 40,
+     "servings": 4,
+     "kcal": 120,
+     "protein": 3
+    },
+    {
+     "id": "barbunya",
+     "image": "barbunya.jpg",
+     "title": {
+      "tr": "Barbunya Pilaki",
+      "en": "Borlotti Bean Pilaki",
+      "de": "Borlotti-Bohnen-Pilaki",
+      "fr": "Pilaki de haricots borlotti",
+      "ja": "うずら豆のピラキ",
+      "ko": "보를로티콩 필라키"
+     },
+     "minutes": 70,
+     "servings": 4,
+     "kcal": 280,
+     "protein": 13
+    }
+   ],
+   "recipe": {
+    "id": "nohutyemegi",
+    "image": "wide-nohutyemegi.jpg",
+    "title": {
+     "tr": "Zeytinyağlı Nohut Yemeği",
+     "en": "Chickpea Stew",
+     "de": "Kichererbseneintopf",
+     "fr": "Ragoût de pois chiches",
+     "ja": "ひよこ豆の煮込み",
+     "ko": "병아리콩 스튜"
+    },
+    "minutes": 80,
+    "servings": 4,
+    "kcal": 270,
+    "protein": 12
+   }
+  },
+  {
+   "id": "strength-while-losing-1",
+   "article": {
+    "id": "strength-while-losing",
+    "minutes": 4,
+    "title": {
+     "tr": "Kilo Verirken Neden Ağırlık Çalışmalısın?",
+     "en": "Why Lift Weights While Losing Weight?",
+     "de": "Warum Krafttraining beim Abnehmen wichtig ist",
+     "fr": "Pourquoi faire de la musculation quand on perd du poids ?",
+     "ja": "減量中に筋トレをすべき理由",
+     "ko": "살을 뺄 때 근력 운동을 해야 하는 이유"
+    },
+    "summary": {
+     "tr": "Direnç antrenmanı ve yeterli protein, kalori açığındayken kaybettiğin kilonun kas değil yağ olmasına yardım eder.",
+     "en": "Resistance training and enough protein help make sure the weight you lose in a deficit is fat rather than muscle.",
+     "de": "Krafttraining und genug Eiweiß helfen dabei, dass du im Kaloriendefizit Fett verlierst und nicht Muskeln.",
+     "fr": "La musculation et un apport suffisant en protéines aident à ce que le poids perdu en déficit soit du gras plutôt que du muscle.",
+     "ja": "筋力トレーニングと十分なたんぱく質は、カロリー不足のときに減る体重が筋肉ではなく脂肪になるよう助けてくれます。",
+     "ko": "근력 운동과 충분한 단백질은 칼로리가 부족할 때 빠지는 체중이 근육이 아니라 지방이 되도록 도와줘요."
+    },
+    "body": {
+     "tr": "Kalori açığında vücut yalnızca yağ değil, kas da kaybedebilir. Kas kaybı gücünü ve günlük enerji harcamanı düşürür. Haftada 2-3 gün tüm büyük kas gruplarını çalıştıran direnç antrenmanı, vücuda kası koruması için güçlü bir sinyal verir. Ağırlık, direnç bandı ya da kendi vücut ağırlığın olabilir; önemli olan zamanla zorluğu artırmak. Bunu yeterli proteinle birleştir: aktif kişiler için genel öneri kilo başına günde yaklaşık 1,2-2 gramdır. Yeni başlıyorsan hafif başla ve tekniği öğren.",
+     "en": "In a calorie deficit your body can lose muscle as well as fat. Losing muscle lowers your strength and the energy you burn each day. Resistance training that works all major muscle groups 2-3 days a week gives your body a strong signal to keep its muscle. It can be weights, resistance bands or your own body weight; what matters is making it harder over time. Combine it with enough protein: a common guideline for active people is around 1.2-2 grams per kilogram of body weight a day. If you are new to it, start light and learn the technique.",
+     "de": "Im Kaloriendefizit kann dein Körper nicht nur Fett, sondern auch Muskeln abbauen. Weniger Muskeln bedeuten weniger Kraft und einen geringeren täglichen Energieverbrauch. Krafttraining an 2-3 Tagen pro Woche, das alle großen Muskelgruppen fordert, gibt dem Körper ein starkes Signal, die Muskeln zu erhalten. Das können Gewichte, Widerstandsbänder oder das eigene Körpergewicht sein; wichtig ist, die Belastung mit der Zeit zu steigern. Kombiniere das mit genug Eiweiß: Für aktive Menschen gelten etwa 1,2-2 Gramm pro Kilogramm Körpergewicht am Tag als gängige Empfehlung. Wenn du neu anfängst, beginne leicht und lerne die Technik.",
+     "fr": "En déficit calorique, le corps peut perdre du muscle en plus du gras. Perdre du muscle diminue ta force et l'énergie que tu dépenses chaque jour. Un entraînement de résistance qui sollicite tous les grands groupes musculaires 2 à 3 jours par semaine envoie au corps un signal fort pour garder son muscle. Haltères, élastiques ou poids du corps, peu importe ; l'essentiel est d'augmenter la difficulté avec le temps. Associe-le à assez de protéines : pour les personnes actives, on recommande en général environ 1,2 à 2 grammes par kilo de poids corporel par jour. Si tu débutes, commence léger et apprends la technique.",
+     "ja": "カロリーが不足していると、体は脂肪だけでなく筋肉も失うことがあります。筋肉が減ると、力も1日の消費エネルギーも落ちます。週に2〜3日、主要な筋肉をすべて使う筋力トレーニングを行うと、筋肉を保つよう体に強い合図を送れます。ウエイト、トレーニングバンド、自分の体重のどれでもかまいません。大切なのは少しずつ負荷を上げることです。これに十分なたんぱく質を組み合わせましょう。活動的な人の一般的な目安は、体重1kgあたり1日約1.2〜2gです。初めての方は軽い負荷から始めて、フォームを身につけてください。",
+     "ko": "칼로리가 부족하면 몸은 지방뿐 아니라 근육도 잃을 수 있어요. 근육이 줄면 힘도, 하루에 쓰는 에너지도 줄어요. 주 2~3일 큰 근육을 모두 쓰는 근력 운동을 하면 몸에 근육을 지키라는 강한 신호를 줄 수 있어요. 기구, 밴드, 맨몸 운동 무엇이든 괜찮아요. 중요한 건 시간이 지나면서 강도를 높이는 거예요. 여기에 충분한 단백질을 더하세요. 활동적인 사람의 일반적인 권장량은 체중 1kg당 하루 약 1.2~2g이에요. 처음이라면 가볍게 시작해서 자세부터 익히세요."
+    }
+   },
+   "hero": "wide-ovenkofte.jpg",
+   "picks": [
+    {
+     "id": "cottagedip",
+     "image": "cottagedip.jpg",
+     "title": {
+      "tr": "Lor Dip ve Çiğ Sebze",
+      "en": "Cottage Cheese Dip with Veggies",
+      "de": "Hüttenkäse-Dip mit Gemüse",
+      "fr": "Dip de cottage cheese et légumes",
+      "ja": "カッテージチーズのディップと野菜",
+      "ko": "채소를 곁들인 코티지치즈 딥"
+     },
+     "minutes": 10,
+     "servings": 4,
+     "kcal": 100,
+     "protein": 9
+    },
+    {
+     "id": "proteinbar",
+     "image": "proteinbar.jpg",
+     "title": {
+      "tr": "Ev Yapımı Protein Bar",
+      "en": "Homemade Protein Bars",
+      "de": "Selbst gemachte Proteinriegel",
+      "fr": "Barres protéinées maison",
+      "ja": "手作りプロテインバー",
+      "ko": "홈메이드 단백질 바"
+     },
+     "minutes": 20,
+     "servings": 8,
+     "kcal": 180,
+     "protein": 11
+    }
+   ],
+   "recipe": {
+    "id": "burger",
+    "image": "wide-burger.jpg",
+    "title": {
+     "tr": "Tavuk Burger",
+     "en": "Chicken Burger",
+     "de": "Hähnchenburger",
+     "fr": "Burger de poulet",
+     "ja": "チキンバーガー",
+     "ko": "치킨 버거"
+    },
+    "minutes": 25,
+    "servings": 2,
+    "kcal": 455,
+    "protein": 47
+   }
+  },
+  {
    "id": "hydration-and-hunger-1",
    "article": {
     "id": "hydration-and-hunger",
@@ -326,6 +654,334 @@
     "servings": 4,
     "kcal": 150,
     "protein": 13
+   }
+  },
+  {
+   "id": "eating-out-1",
+   "article": {
+    "id": "eating-out",
+    "minutes": 3,
+    "title": {
+     "tr": "Dışarıda Yerken Dengeyi Korumak",
+     "en": "Keeping Your Balance When Eating Out",
+     "de": "Auswärts essen und trotzdem im Gleichgewicht bleiben",
+     "fr": "Garder l'équilibre quand on mange dehors",
+     "ja": "外食でもバランスを保つには",
+     "ko": "외식할 때 균형 지키기"
+    },
+    "summary": {
+     "tr": "Restoran yemekleri genellikle evdekinden daha kalorili olur; birkaç basit seçim keyfi bozmadan farkı kapatır.",
+     "en": "Restaurant meals usually carry more calories than home cooking; a few simple choices close the gap without spoiling the meal.",
+     "de": "Restaurantessen hat meist mehr Kalorien als Selbstgekochtes; ein paar einfache Entscheidungen gleichen das aus, ohne den Genuss zu verderben.",
+     "fr": "Les plats au restaurant sont en général plus caloriques qu'à la maison ; quelques choix simples comblent l'écart sans gâcher le repas.",
+     "ja": "外食は家庭料理よりカロリーが高くなりがちですが、いくつかの簡単な選び方で、食事を楽しみながらその差を埋められます。",
+     "ko": "식당 음식은 보통 집밥보다 칼로리가 높지만, 간단한 선택 몇 가지로 즐거움은 그대로 두고 차이를 줄일 수 있어요."
+    },
+    "body": {
+     "tr": "Restoranlarda porsiyonlar büyük, yağ ve sos boldur; aynı yemek evdekinden belirgin biçimde daha kalorili olabilir. Gitmeden önce menüye bakıp ne yiyeceğine karar vermek işini kolaylaştırır. Izgara, fırın ya da haşlama seçenekleri kızartmadan daha hafiftir; sosu ayrı istemek kontrolü sana verir. Tabağın yarısını sebze ya da salatayla doldur, ekmek sepetini sofradan uzak tut. Porsiyon büyükse paylaş ya da yarısını paket yaptır. Yediğini tahmini de olsa kaydet; kusursuz olmasa bile hiç kaydetmemekten iyidir.",
+     "en": "Restaurant portions are large and generous with oil and sauce, so the same dish can carry noticeably more calories than it would at home. Looking at the menu and deciding what to eat before you go makes it easier. Grilled, baked or boiled options are lighter than fried ones, and asking for sauce on the side puts you in control. Fill half your plate with vegetables or salad and keep the bread basket out of reach. If the portion is big, share it or take half home. Log what you ate even as an estimate; an imperfect entry beats none.",
+     "de": "Im Restaurant sind die Portionen groß und Öl und Soße reichlich, sodass dasselbe Gericht deutlich mehr Kalorien haben kann als zu Hause. Es hilft, vorher in die Karte zu schauen und zu entscheiden, was du isst. Gegrilltes, Gebackenes oder Gekochtes ist leichter als Frittiertes, und mit der Soße extra hast du die Kontrolle. Fülle die Hälfte des Tellers mit Gemüse oder Salat und stell den Brotkorb außer Reichweite. Ist die Portion groß, teile sie oder lass dir die Hälfte einpacken. Trag ein, was du gegessen hast, auch wenn es nur geschätzt ist; ein ungenauer Eintrag ist besser als keiner.",
+     "fr": "Au restaurant, les portions sont grandes et l'huile et la sauce généreuses : le même plat peut être nettement plus calorique qu'à la maison. Regarder la carte et décider quoi manger avant d'y aller facilite les choses. Les plats grillés, au four ou bouillis sont plus légers que les fritures, et demander la sauce à part te redonne la main. Remplis la moitié de ton assiette de légumes ou de salade et garde la corbeille de pain hors de portée. Si la portion est grosse, partage-la ou emporte la moitié. Note ce que tu as mangé, même approximativement ; une saisie imparfaite vaut mieux que rien.",
+     "ja": "レストランは1人前の量が多く、油やソースもたっぷり使うため、同じ料理でも家で作るよりかなり高カロリーになることがあります。行く前にメニューを見て何を食べるか決めておくと楽になります。焼く・オーブン・ゆでる料理は揚げ物より軽く、ソースを別添えにしてもらえば量を自分で調整できます。お皿の半分を野菜やサラダにして、パンのかごは手の届かないところに置きましょう。量が多ければシェアするか、半分を持ち帰ります。食べたものは目分量でも記録してください。完璧でなくても、記録しないよりずっと良いのです。",
+     "ko": "식당은 1인분 양이 많고 기름과 소스도 넉넉해서, 같은 음식이라도 집에서 먹을 때보다 칼로리가 훨씬 높을 수 있어요. 가기 전에 메뉴를 보고 무엇을 먹을지 정해 두면 수월해요. 굽거나 오븐에 익히거나 삶은 메뉴가 튀긴 것보다 가볍고, 소스를 따로 달라고 하면 양을 내가 조절할 수 있어요. 접시의 절반은 채소나 샐러드로 채우고 빵 바구니는 손이 닿지 않게 두세요. 양이 많으면 나눠 먹거나 절반을 포장해요. 먹은 것은 대략이라도 기록하세요. 완벽하지 않아도 안 쓰는 것보다 나아요."
+    }
+   },
+   "hero": "wide-lahmacun.jpg",
+   "picks": [
+    {
+     "id": "lentilkofte",
+     "image": "lentilkofte.jpg",
+     "title": {
+      "tr": "Mercimek Köftesi",
+      "en": "Red Lentil Kofte",
+      "de": "Rote-Linsen-Köfte",
+      "fr": "Köfte de lentilles corail",
+      "ja": "赤レンズ豆のキョフテ",
+      "ko": "붉은 렌틸콩 쾨프테"
+     },
+     "minutes": 40,
+     "servings": 6,
+     "kcal": 190,
+     "protein": 10
+    },
+    {
+     "id": "caprese",
+     "image": "caprese.jpg",
+     "title": {
+      "tr": "Fit Caprese",
+      "en": "Light Caprese",
+      "de": "Leichte Caprese",
+      "fr": "Caprese légère",
+      "ja": "軽いカプレーゼ",
+      "ko": "가벼운 카프레제"
+     },
+     "minutes": 8,
+     "servings": 2,
+     "kcal": 245,
+     "protein": 16
+    }
+   ],
+   "recipe": {
+    "id": "musakka",
+    "image": "wide-musakka.jpg",
+    "title": {
+     "tr": "Fırında Musakka",
+     "en": "Baked Moussaka",
+     "de": "Moussaka aus dem Ofen",
+     "fr": "Moussaka au four",
+     "ja": "ムサカのオーブン焼き",
+     "ko": "오븐 무사카"
+    },
+    "minutes": 50,
+    "servings": 4,
+    "kcal": 230,
+    "protein": 15
+   }
+  },
+  {
+   "id": "weight-plateau-1",
+   "article": {
+    "id": "weight-plateau",
+    "minutes": 4,
+    "title": {
+     "tr": "Kilo Vermek Neden Durur?",
+     "en": "Why Weight Loss Stalls",
+     "de": "Warum das Abnehmen ins Stocken gerät",
+     "fr": "Pourquoi la perte de poids se bloque",
+     "ja": "体重が減らなくなるのはなぜ？",
+     "ko": "살이 더 안 빠지는 이유"
+    },
+    "summary": {
+     "tr": "Plato çoğu zaman vücudun yeni kilona uyum sağlamasından ve kayıtların zamanla gevşemesinden kaynaklanır.",
+     "en": "A plateau usually comes from your body adapting to its new weight and from tracking that slowly loosens over time.",
+     "de": "Ein Plateau entsteht meist, weil sich dein Körper an das neue Gewicht anpasst und das Tracking mit der Zeit ungenauer wird.",
+     "fr": "Un plateau vient le plus souvent du corps qui s'adapte à son nouveau poids et d'un suivi qui se relâche peu à peu.",
+     "ja": "停滞期は多くの場合、体が新しい体重に適応することと、記録が少しずつ甘くなることから起こります。",
+     "ko": "정체기는 대개 몸이 새 체중에 적응하고, 기록이 조금씩 느슨해지면서 찾아와요."
+    },
+    "body": {
+     "tr": "Kilo verdikçe vücudun daha az enerji harcar; başta açık yaratan kalori miktarı bir süre sonra seni dengede tutar. Aynı zamanda porsiyonlar fark etmeden büyür, atıştırmalıklar kayıt dışı kalır. Platoya girdiysen önce iki hafta boyunca her şeyi tartarak kaydet; çoğu zaman sorun burada çıkar. Sonra hedefini güncel kilona göre yeniden hesapla ve günlük hareketini biraz artır. Kaloriyi sert biçimde kısmak yerine küçük ayarlar yap. Birkaç haftalık duraklama normaldir, sabırlı ol.",
+     "en": "As you lose weight your body spends less energy, so the calories that created a deficit at the start eventually just maintain you. At the same time portions grow without you noticing and snacks go unlogged. If you hit a plateau, first weigh and log everything for two weeks; that is where the problem usually shows up. Then recalculate your target for your current weight and add a little daily movement. Make small adjustments rather than cutting calories hard. A pause of a few weeks is normal, so be patient.",
+     "de": "Je mehr du abnimmst, desto weniger Energie verbraucht dein Körper; die Kalorienmenge, die am Anfang ein Defizit war, hält dich irgendwann nur noch im Gleichgewicht. Gleichzeitig werden Portionen unbemerkt größer und Snacks nicht mehr eingetragen. Steckst du auf einem Plateau, wiege und erfasse zuerst zwei Wochen lang alles; meistens zeigt sich das Problem dort. Berechne dann dein Ziel für dein aktuelles Gewicht neu und bewege dich im Alltag etwas mehr. Nimm kleine Anpassungen vor, statt die Kalorien hart zu kürzen. Ein Stillstand von ein paar Wochen ist normal, hab Geduld.",
+     "fr": "Plus tu perds du poids, moins ton corps dépense d'énergie : les calories qui créaient un déficit au début finissent par simplement te maintenir. En même temps, les portions grossissent sans que tu t'en rendes compte et les grignotages ne sont plus notés. Si tu es sur un plateau, commence par tout peser et tout noter pendant deux semaines ; c'est souvent là que le problème apparaît. Recalcule ensuite ton objectif pour ton poids actuel et bouge un peu plus au quotidien. Fais de petits ajustements plutôt que de couper fortement les calories. Une pause de quelques semaines est normale, sois patient.",
+     "ja": "体重が減ると体が使うエネルギーも減るため、最初は不足を生んでいたカロリー量が、やがて体重を維持するだけの量になります。同時に、気づかないうちに1回の量が増え、間食を記録しなくなっていきます。停滞したら、まず2週間、すべてを量って記録してください。たいていは原因がここで見つかります。次に、今の体重で目標を計算し直し、日常の活動量を少し増やします。カロリーを大きく削るのではなく、小さく調整しましょう。数週間止まるのは普通のことなので、焦らずに。",
+     "ko": "체중이 줄수록 몸이 쓰는 에너지도 줄어서, 처음에는 부족분을 만들던 칼로리가 어느 순간 체중을 유지하는 양이 돼요. 동시에 나도 모르게 양이 늘고 간식은 기록에서 빠져요. 정체기에 들어섰다면 먼저 2주 동안 모든 것을 재서 기록해 보세요. 대부분 여기서 원인이 드러나요. 그다음 지금 체중에 맞춰 목표를 다시 계산하고 일상 활동량을 조금 늘려요. 칼로리를 크게 줄이기보다 조금씩 조정하세요. 몇 주 멈추는 건 정상이니 조급해하지 마세요."
+    }
+   },
+   "hero": "wide-quinoa.jpg",
+   "picks": [
+    {
+     "id": "shrimp",
+     "image": "shrimp.jpg",
+     "title": {
+      "tr": "Sebzeli Karides Sote",
+      "en": "Shrimp & Zucchini Sauté",
+      "de": "Garnelen-Zucchini-Pfanne",
+      "fr": "Sauté de crevettes aux courgettes",
+      "ja": "えびとズッキーニのソテー",
+      "ko": "새우 주키니 볶음"
+     },
+     "minutes": 15,
+     "servings": 2,
+     "kcal": 225,
+     "protein": 32
+    },
+    {
+     "id": "turkeyballs",
+     "image": "turkeyballs.jpg",
+     "title": {
+      "tr": "Domates Soslu Hindi Köfte",
+      "en": "Turkey Meatballs in Tomato Sauce",
+      "de": "Putenbällchen in Tomatensauce",
+      "fr": "Boulettes de dinde à la sauce tomate",
+      "ja": "七面鳥のミートボール トマトソース",
+      "ko": "토마토 소스 칠면조 미트볼"
+     },
+     "minutes": 35,
+     "servings": 4,
+     "kcal": 275,
+     "protein": 28
+    }
+   ],
+   "recipe": {
+    "id": "tavukguvec",
+    "image": "wide-tavukguvec.jpg",
+    "title": {
+     "tr": "Tavuk Güveç",
+     "en": "Chicken Casserole",
+     "de": "Hähnchen aus dem Schmortopf",
+     "fr": "Poulet en cocotte",
+     "ja": "鶏肉のキャセロール",
+     "ko": "치킨 캐서롤"
+    },
+    "minutes": 60,
+    "servings": 4,
+    "kcal": 310,
+    "protein": 32
+   }
+  },
+  {
+   "id": "meal-prep-1",
+   "article": {
+    "id": "meal-prep",
+    "minutes": 3,
+    "title": {
+     "tr": "Haftalık Hazırlık: Kararı Önceden Ver",
+     "en": "Weekly Prep: Decide in Advance",
+     "de": "Meal Prep: die Entscheidung vorab treffen",
+     "fr": "Préparation de la semaine : décide à l'avance",
+     "ja": "週1回の作り置き：先に決めておく",
+     "ko": "주간 준비: 미리 정해 두기"
+    },
+    "summary": {
+     "tr": "Haftada bir saatlik hazırlık, yorgun akşamlarda hızlı ama dengesiz seçimlere yönelmeyi azaltır.",
+     "en": "An hour of prep once a week cuts down on quick but unbalanced choices on tired evenings.",
+     "de": "Eine Stunde Vorbereitung pro Woche sorgt dafür, dass du an müden Abenden seltener zu schnellen, aber unausgewogenen Lösungen greifst.",
+     "fr": "Une heure de préparation par semaine réduit les choix rapides mais déséquilibrés des soirs de fatigue.",
+     "ja": "週に1時間の準備で、疲れた夜に手早いけれど偏った食事を選ぶことが減ります。",
+     "ko": "일주일에 한 시간만 준비해도 피곤한 저녁에 빠르지만 불균형한 선택을 하는 일이 줄어요."
+    },
+    "body": {
+     "tr": "Ne yiyeceğine aç ve yorgunken karar vermek zordur; o an en kolay olan çoğu zaman en dengeli seçenek olmaz. Haftada bir kez kısa bir hazırlık bu kararı önceden vermeni sağlar. Her şeyi pişirmen gerekmez: bir protein (tavuk, köfte, haşlanmış yumurta), bir tahıl ya da baklagil (bulgur, pirinç, nohut) ve yıkanıp doğranmış sebzeler yeter. Bunları hafta içinde farklı biçimlerde birleştirirsin. Pişmiş yemekleri kapalı kapta buzdolabında sakla ve 3-4 gün içinde tüket; fazlasını porsiyonlayıp dondur.",
+     "en": "Deciding what to eat when you are hungry and tired is hard, and the easiest option at that moment is rarely the most balanced one. A short prep session once a week lets you make that decision in advance. You do not need to cook everything: one protein (chicken, meatballs, boiled eggs), one grain or legume (bulgur, rice, chickpeas) and washed, chopped vegetables are enough. You combine them in different ways through the week. Keep cooked food in closed containers in the fridge and eat it within 3-4 days; portion and freeze the rest.",
+     "de": "Hungrig und müde zu entscheiden, was es zu essen gibt, ist schwer, und das Einfachste ist in dem Moment selten das Ausgewogenste. Mit einer kurzen Vorbereitung einmal pro Woche triffst du diese Entscheidung im Voraus. Du musst nicht alles kochen: eine Eiweißquelle (Hähnchen, Frikadellen, gekochte Eier), ein Getreide oder eine Hülsenfrucht (Bulgur, Reis, Kichererbsen) und gewaschenes, geschnittenes Gemüse reichen. Unter der Woche kombinierst du sie immer wieder anders. Bewahre Gekochtes in geschlossenen Behältern im Kühlschrank auf und iss es innerhalb von 3-4 Tagen; den Rest portionierst du und frierst ihn ein.",
+     "fr": "Décider quoi manger quand on a faim et qu'on est fatigué est difficile, et le plus simple sur le moment est rarement le plus équilibré. Une courte séance de préparation par semaine te permet de prendre cette décision à l'avance. Pas besoin de tout cuisiner : une protéine (poulet, boulettes, œufs durs), une céréale ou une légumineuse (boulgour, riz, pois chiches) et des légumes lavés et coupés suffisent. Tu les associes de différentes façons pendant la semaine. Garde les plats cuits au réfrigérateur dans des boîtes fermées et mange-les dans les 3 à 4 jours ; portionne et congèle le reste.",
+     "ja": "お腹が空いて疲れているときに何を食べるか決めるのは難しく、その場でいちばん楽な選択がいちばんバランスの良い選択であることはまれです。週に1回、短い準備の時間をとれば、その判断を前もって済ませられます。全部を作る必要はありません。たんぱく質を1つ（鶏肉、ミートボール、ゆで卵）、穀物か豆を1つ（ブルグル、米、ひよこ豆）、そして洗って切った野菜があれば十分です。平日はそれらをいろいろに組み合わせます。調理したものは密閉容器に入れて冷蔵し、3〜4日以内に食べきりましょう。残りは小分けにして冷凍します。",
+     "ko": "배고프고 피곤할 때 무엇을 먹을지 정하기는 어렵고, 그 순간 가장 쉬운 선택이 가장 균형 잡힌 선택인 경우는 드물어요. 일주일에 한 번 짧게 준비해 두면 그 결정을 미리 해 둘 수 있어요. 전부 요리할 필요는 없어요. 단백질 한 가지(닭고기, 미트볼, 삶은 달걀), 곡물이나 콩류 한 가지(불구르, 밥, 병아리콩), 그리고 씻어서 썰어 둔 채소면 충분해요. 주중에는 이것들을 여러 방식으로 조합하면 돼요. 조리한 음식은 밀폐 용기에 담아 냉장 보관하고 3~4일 안에 드세요. 남는 것은 나눠서 냉동해요."
+    }
+   },
+   "hero": "wide-energy.jpg",
+   "picks": [
+    {
+     "id": "granolabar",
+     "image": "granolabar.jpg",
+     "title": {
+      "tr": "Kuruyemişli Granola Bar",
+      "en": "Nut & Seed Granola Bars",
+      "de": "Müsliriegel mit Nüssen und Kernen",
+      "fr": "Barres de granola aux fruits à coque et aux graines",
+      "ja": "ナッツと種のグラノーラバー",
+      "ko": "견과류와 씨앗 그래놀라 바"
+     },
+     "minutes": 35,
+     "servings": 8,
+     "kcal": 245,
+     "protein": 7
+    },
+    {
+     "id": "chickpeas",
+     "image": "chickpeas.jpg",
+     "title": {
+      "tr": "Fırında Çıtır Nohut",
+      "en": "Crunchy Roasted Chickpeas",
+      "de": "Knusprig geröstete Kichererbsen",
+      "fr": "Pois chiches rôtis croustillants",
+      "ja": "カリカリローストひよこ豆",
+      "ko": "바삭한 병아리콩 구이"
+     },
+     "minutes": 35,
+     "servings": 4,
+     "kcal": 120,
+     "protein": 5
+    }
+   ],
+   "recipe": {
+    "id": "bananabread",
+    "image": "wide-bananabread.jpg",
+    "title": {
+     "tr": "Cevizli Muzlu Ekmek",
+     "en": "Banana Walnut Bread",
+     "de": "Bananen-Walnuss-Brot",
+     "fr": "Cake banane-noix",
+     "ja": "バナナとくるみのブレッド",
+     "ko": "바나나 호두 브레드"
+    },
+    "minutes": 55,
+    "servings": 8,
+    "kcal": 195,
+    "protein": 6
+   }
+  },
+  {
+   "id": "daily-steps-1",
+   "article": {
+    "id": "daily-steps",
+    "minutes": 3,
+    "title": {
+     "tr": "Adımlar Neden Sayılır?",
+     "en": "Why Steps Count",
+     "de": "Warum Schritte zählen",
+     "fr": "Pourquoi les pas comptent",
+     "ja": "歩数が大切な理由",
+     "ko": "걸음 수가 중요한 이유"
+    },
+    "summary": {
+     "tr": "Gün içindeki sıradan hareket, toplam enerji harcamanda çoğu zaman antrenmandan daha büyük yer tutar.",
+     "en": "Ordinary movement through the day often makes up a bigger share of the energy you burn than your workouts do.",
+     "de": "Die ganz normale Bewegung im Alltag macht oft einen größeren Teil deines Energieverbrauchs aus als dein Training.",
+     "fr": "Les mouvements ordinaires de la journée représentent souvent une plus grande part de ta dépense d'énergie que tes séances de sport.",
+     "ja": "日常の何気ない動きは、消費エネルギー全体の中で、トレーニングよりも大きな割合を占めることがよくあります。",
+     "ko": "하루 동안의 평범한 움직임이 운동보다 전체 에너지 소비에서 더 큰 몫을 차지하는 경우가 많아요."
+    },
+    "body": {
+     "tr": "Yürümek, merdiven çıkmak, ev işi yapmak gibi egzersiz sayılmayan hareketler gün boyunca birikir ve toplamda bir saatlik antrenmandan daha fazla enerji harcatabilir. Kalori açığındayken insanlar farkında olmadan daha az hareket etmeye başlar; adım saymak bunu görünür kılar. Bugünkü ortalamanı öğren ve üzerine günde 1.000-2.000 adım ekleyerek başla. Telefonla konuşurken yürümek, bir durak önce inmek, yemekten sonra on dakikalık yürüyüş yeterlidir. Belirli bir sayıya takılma; önemli olan dünden biraz fazlası.",
+     "en": "Movement that does not count as exercise, such as walking, taking the stairs and housework, adds up through the day and can burn more energy in total than an hour's workout. In a calorie deficit people start moving less without noticing, and counting steps makes that visible. Find your current average and start by adding 1,000-2,000 steps a day. Walking while on the phone, getting off one stop early or a ten-minute walk after meals is enough. Do not fixate on a specific number; what matters is a little more than yesterday.",
+     "de": "Bewegung, die nicht als Sport gilt, etwa Gehen, Treppensteigen und Hausarbeit, summiert sich über den Tag und kann insgesamt mehr Energie verbrauchen als eine Stunde Training. Im Kaloriendefizit bewegen sich Menschen unbemerkt weniger; Schritte zu zählen macht das sichtbar. Finde deinen aktuellen Durchschnitt heraus und beginne damit, 1.000-2.000 Schritte am Tag draufzulegen. Beim Telefonieren gehen, eine Haltestelle früher aussteigen oder zehn Minuten Spaziergang nach dem Essen reichen. Versteife dich nicht auf eine bestimmte Zahl; wichtig ist ein bisschen mehr als gestern.",
+     "fr": "Les mouvements qui ne comptent pas comme du sport, comme marcher, monter les escaliers ou faire le ménage, s'additionnent au fil de la journée et peuvent dépenser au total plus d'énergie qu'une heure d'entraînement. En déficit calorique, on se met à moins bouger sans s'en rendre compte ; compter ses pas le rend visible. Repère ta moyenne actuelle et commence par ajouter 1 000 à 2 000 pas par jour. Marcher en téléphonant, descendre un arrêt plus tôt ou marcher dix minutes après les repas suffit. Ne te focalise pas sur un chiffre précis ; l'important, c'est un peu plus qu'hier.",
+     "ja": "歩く、階段を上る、家事をするといった運動とは見なされない動きは、1日を通して積み重なり、合計すると1時間のトレーニングより多くのエネルギーを消費することもあります。カロリーが不足していると、人は気づかないうちに動く量が減ります。歩数を数えるとそれが見えるようになります。今の平均を確認して、そこに1日1,000〜2,000歩を足すことから始めましょう。電話をしながら歩く、ひと駅手前で降りる、食後に10分歩く、それで十分です。特定の数字にこだわらないでください。大切なのは昨日より少し多いことです。",
+     "ko": "걷기, 계단 오르기, 집안일처럼 운동으로 치지 않는 움직임은 하루 동안 쌓여서, 모두 합치면 한 시간 운동보다 더 많은 에너지를 쓸 수 있어요. 칼로리가 부족할 때 사람들은 자기도 모르게 덜 움직이게 되는데, 걸음 수를 세면 그게 눈에 보여요. 지금 평균을 확인하고 거기에 하루 1,000~2,000걸음을 더하는 것부터 시작하세요. 통화하면서 걷기, 한 정거장 먼저 내리기, 식사 후 10분 산책이면 충분해요. 특정 숫자에 매달리지 마세요. 중요한 건 어제보다 조금 더예요."
+    }
+   },
+   "hero": "wide-pbapple.jpg",
+   "picks": [
+    {
+     "id": "labnerolls",
+     "image": "labnerolls.jpg",
+     "title": {
+      "tr": "Labneli Salatalık Rulo",
+      "en": "Labneh Cucumber Rolls",
+      "de": "Labneh-Gurken-Röllchen",
+      "fr": "Roulés de concombre au labneh",
+      "ja": "ラブネのきゅうりロール",
+      "ko": "라브네 오이 롤"
+     },
+     "minutes": 15,
+     "servings": 4,
+     "kcal": 70,
+     "protein": 3
+    },
+    {
+     "id": "avocado",
+     "image": "avocado.jpg",
+     "title": {
+      "tr": "Avokadolu Yumurtalı Tost",
+      "en": "Avocado Egg Toast",
+      "de": "Avocado-Ei-Toast",
+      "fr": "Toast avocat-œuf",
+      "ja": "アボカドエッグトースト",
+      "ko": "아보카도 에그 토스트"
+     },
+     "minutes": 10,
+     "servings": 1,
+     "kcal": 365,
+     "protein": 16
+    }
+   ],
+   "recipe": {
+    "id": "chia",
+    "image": "wide-chia.jpg",
+    "title": {
+     "tr": "Mangolu Chia Pudingi",
+     "en": "Mango Chia Pudding",
+     "de": "Mango-Chia-Pudding",
+     "fr": "Pudding de chia à la mangue",
+     "ja": "マンゴーチアプディング",
+     "ko": "망고 치아 푸딩"
+    },
+    "minutes": 10,
+    "servings": 2,
+    "kcal": 235,
+    "protein": 10
    }
   },
   {
@@ -411,6 +1067,88 @@
    }
   },
   {
+   "id": "sleep-and-appetite-2",
+   "article": {
+    "id": "sleep-and-appetite",
+    "minutes": 3,
+    "title": {
+     "tr": "Az Uyku İştahı Nasıl Etkiler?",
+     "en": "How Short Sleep Affects Your Appetite",
+     "de": "Wie zu wenig Schlaf deinen Appetit beeinflusst",
+     "fr": "Comment le manque de sommeil agit sur ton appétit",
+     "ja": "睡眠不足は食欲にどう影響する？",
+     "ko": "잠이 부족하면 식욕은 어떻게 달라질까요?"
+    },
+    "summary": {
+     "tr": "Yetersiz uyku açlık hissini artırır, tokluk sinyalini zayıflatır ve yüksek kalorili yiyeceklere yönelmeyi kolaylaştırır.",
+     "en": "Too little sleep raises hunger, weakens the feeling of fullness, and makes high-calorie foods harder to resist.",
+     "de": "Zu wenig Schlaf steigert den Hunger, schwächt das Sättigungsgefühl und macht es schwerer, kalorienreichem Essen zu widerstehen.",
+     "fr": "Trop peu de sommeil augmente la faim, affaiblit la sensation de satiété et rend les aliments très caloriques plus difficiles à refuser.",
+     "ja": "睡眠が足りないと空腹感が強まり、満腹感が弱くなり、高カロリーな食べ物を我慢しにくくなります。",
+     "ko": "잠이 부족하면 배고픔이 커지고 포만감은 약해져서 고칼로리 음식을 참기 어려워져요."
+    },
+    "body": {
+     "tr": "Uykusuz geçen bir gecenin ardından daha aç hissetmen tesadüf değil. Araştırmalar yetersiz uykunun açlık ve tokluk sinyallerini düzenleyen hormonları etkilediğini, ertesi gün özellikle tatlı ve yağlı yiyeceklere isteği artırdığını gösteriyor. Yorgunken hareket etme isteği de azalır, yani hem daha çok yer hem daha az yakarsın. Çoğu yetişkin için 7-9 saat uyku önerilir. Yatmadan bir iki saat önce ağır yemekten ve kafeinden kaçınmak, her gün benzer saatte yatmak iyi bir başlangıçtır.",
+     "en": "Feeling hungrier after a short night is no coincidence. Research shows that too little sleep affects the hormones that regulate hunger and fullness, and increases cravings the next day, especially for sweet and fatty foods. When you are tired you also move less, so you tend to eat more and burn less. Most adults are advised to sleep 7-9 hours. Avoiding heavy meals and caffeine in the hour or two before bed and going to sleep at a similar time each day is a good place to start.",
+     "de": "Dass du nach einer kurzen Nacht mehr Hunger hast, ist kein Zufall. Studien zeigen, dass zu wenig Schlaf die Hormone beeinflusst, die Hunger und Sättigung steuern, und am nächsten Tag die Lust vor allem auf Süßes und Fettiges steigert. Wer müde ist, bewegt sich außerdem weniger, isst also eher mehr und verbraucht weniger. Den meisten Erwachsenen werden 7-9 Stunden Schlaf empfohlen. Ein guter Anfang: in den ein bis zwei Stunden vor dem Schlafengehen auf schweres Essen und Koffein verzichten und jeden Tag zu einer ähnlichen Zeit ins Bett gehen.",
+     "fr": "Avoir plus faim après une nuit trop courte n'est pas un hasard. Les études montrent que le manque de sommeil agit sur les hormones qui règlent la faim et la satiété, et augmente les envies le lendemain, surtout de sucré et de gras. Quand on est fatigué, on bouge aussi moins : on mange donc plus et on dépense moins. On conseille 7 à 9 heures de sommeil à la plupart des adultes. Pour commencer, évite les repas lourds et la caféine dans l'heure ou les deux heures avant le coucher et couche-toi à peu près à la même heure chaque jour.",
+     "ja": "寝不足の翌日にいつもよりお腹が空くのは偶然ではありません。研究では、睡眠不足が空腹と満腹を調整するホルモンに影響し、翌日は特に甘いものや脂っこいものへの欲求が強くなることが示されています。疲れていると体を動かす量も減るため、食べる量は増え、消費は減りがちです。多くの成人には7〜9時間の睡眠がすすめられています。寝る1〜2時間前は重い食事とカフェインを避け、毎日同じくらいの時間に寝ることから始めてみましょう。",
+     "ko": "잠을 못 잔 다음 날 유난히 배가 고픈 건 우연이 아니에요. 연구에 따르면 수면이 부족하면 배고픔과 포만감을 조절하는 호르몬이 영향을 받아, 다음 날 특히 달고 기름진 음식이 더 당겨요. 피곤하면 움직임도 줄어서 더 먹고 덜 쓰게 되기 쉬워요. 대부분의 성인에게는 7~9시간 수면이 권장돼요. 잠들기 한두 시간 전에는 무거운 식사와 카페인을 피하고, 매일 비슷한 시간에 잠자리에 드는 것부터 시작해 보세요."
+    }
+   },
+   "hero": "wide-pumpkinsoup.jpg",
+   "picks": [
+    {
+     "id": "muhallebi",
+     "image": "muhallebi.jpg",
+     "title": {
+      "tr": "Fit Muhallebi",
+      "en": "Light Milk Pudding",
+      "de": "Leichter Milchpudding",
+      "fr": "Crème au lait légère",
+      "ja": "軽いミルクプディング",
+      "ko": "가벼운 밀크 푸딩"
+     },
+     "minutes": 20,
+     "servings": 4,
+     "kcal": 130,
+     "protein": 5
+    },
+    {
+     "id": "sutlac",
+     "image": "sutlac.jpg",
+     "title": {
+      "tr": "Light Sütlaç",
+      "en": "Light Rice Pudding",
+      "de": "Leichter Milchreis",
+      "fr": "Riz au lait léger",
+      "ja": "軽いライスプディング",
+      "ko": "가벼운 라이스 푸딩"
+     },
+     "minutes": 35,
+     "servings": 4,
+     "kcal": 140,
+     "protein": 5
+    }
+   ],
+   "recipe": {
+    "id": "tarhana",
+    "image": "wide-tarhana.jpg",
+    "title": {
+     "tr": "Tarhana Çorbası",
+     "en": "Tarhana Soup",
+     "de": "Tarhana-Suppe",
+     "fr": "Soupe de tarhana",
+     "ja": "タルハナスープ",
+     "ko": "타르하나 수프"
+    },
+    "minutes": 20,
+    "servings": 4,
+    "kcal": 95,
+    "protein": 2
+   }
+  },
+  {
    "id": "protein-timing-2",
    "article": {
     "id": "protein-timing",
@@ -490,6 +1228,88 @@
     "servings": 2,
     "kcal": 300,
     "protein": 37
+   }
+  },
+  {
+   "id": "liquid-calories-2",
+   "article": {
+    "id": "liquid-calories",
+    "minutes": 3,
+    "title": {
+     "tr": "İçeceklerdeki Gizli Kaloriler",
+     "en": "The Hidden Calories in Drinks",
+     "de": "Die versteckten Kalorien in Getränken",
+     "fr": "Les calories cachées dans les boissons",
+     "ja": "飲み物に隠れたカロリー",
+     "ko": "음료 속 숨은 칼로리"
+    },
+    "summary": {
+     "tr": "Şekerli içecekler, meyve suları ve sütlü kahveler pek tok tutmadan günlük kaloriye ciddi katkı yapabilir.",
+     "en": "Sugary drinks, fruit juices and milky coffees can add a lot to your daily calories without making you feel full.",
+     "de": "Zuckerhaltige Getränke, Fruchtsäfte und Milchkaffees können viele Kalorien liefern, ohne satt zu machen.",
+     "fr": "Les boissons sucrées, les jus de fruits et les cafés au lait peuvent ajouter beaucoup de calories à ta journée sans te rassasier.",
+     "ja": "甘い飲み物、果汁ジュース、ミルク入りコーヒーは、満腹感をあまり与えないまま1日のカロリーを大きく増やすことがあります。",
+     "ko": "달콤한 음료, 과일 주스, 우유가 들어간 커피는 배는 별로 부르지 않으면서 하루 칼로리를 크게 늘릴 수 있어요."
+    },
+    "body": {
+     "tr": "Sıvı kaloriler katı yiyecekler kadar tok tutmaz; bu yüzden içtiklerimizi çoğu zaman hesaba katmayız. Bir kutu şekerli gazlı içecek yaklaşık 140 kalori, şuruplu büyük bir sütlü kahve 250-400 kalori olabilir. Meyve suyunda da meyvenin şekeri vardır ama lifinin çoğu yoktur. Hepsini bırakman gerekmiyor: su, sade maden suyu, şekersiz çay ve kahve temel içeceğin olsun, diğerlerini kaydedip bilerek iç. Sütlü kahvede küçük boy ve şurupsuz seçmek bile fark yaratır.",
+     "en": "Liquid calories do not fill you up the way solid food does, so drinks often go uncounted. A can of sugary soda is about 140 calories, and a large flavored latte can be 250-400. Fruit juice carries the fruit's sugar but little of its fiber. You do not have to give them all up: make water, plain sparkling water, and unsweetened tea and coffee your default, and log the rest so you drink them knowingly. Even choosing a smaller latte without syrup makes a difference.",
+     "de": "Flüssige Kalorien sättigen nicht so wie feste Nahrung, deshalb zählen wir Getränke oft nicht mit. Eine Dose gezuckerte Limonade hat etwa 140 Kalorien, ein großer Latte mit Sirup kann 250-400 haben. Fruchtsaft enthält den Zucker der Frucht, aber kaum noch ihre Ballaststoffe. Du musst nicht auf alles verzichten: Mach Wasser, Mineralwasser sowie ungesüßten Tee und Kaffee zu deinem Standard und trag den Rest ein, damit du ihn bewusst trinkst. Schon ein kleinerer Latte ohne Sirup macht einen Unterschied.",
+     "fr": "Les calories liquides ne rassasient pas comme les aliments solides, si bien qu'on oublie souvent de compter ce qu'on boit. Une canette de soda sucré fait environ 140 calories, et un grand latte aromatisé peut en faire 250 à 400. Le jus de fruits garde le sucre du fruit mais presque plus ses fibres. Inutile de tout supprimer : fais de l'eau, de l'eau gazeuse nature, du thé et du café sans sucre tes boissons de base, et note le reste pour le boire en connaissance de cause. Rien que choisir un latte plus petit, sans sirop, fait une différence.",
+     "ja": "液体のカロリーは固形の食べ物ほどお腹にたまらないため、飲んだものは数え忘れがちです。甘い炭酸飲料は1缶で約140kcal、シロップ入りの大きなラテは250〜400kcalになることもあります。果汁ジュースには果物の糖分が含まれますが、食物繊維はほとんど残っていません。すべてをやめる必要はありません。水、無糖の炭酸水、無糖のお茶やコーヒーを基本にして、それ以外は記録したうえで意識して飲みましょう。ラテを小さいサイズのシロップなしにするだけでも違いが出ます。",
+     "ko": "액체 칼로리는 고체 음식만큼 배를 채워 주지 않아서, 마신 것은 계산에서 빠지기 쉬워요. 달콤한 탄산음료 한 캔은 약 140kcal, 시럽이 들어간 큰 라테는 250~400kcal가 될 수 있어요. 과일 주스에는 과일의 당은 들어 있지만 식이섬유는 거의 남아 있지 않아요. 전부 끊을 필요는 없어요. 물, 무가당 탄산수, 설탕 없는 차와 커피를 기본으로 하고 나머지는 기록하면서 알고 마시면 돼요. 라테를 작은 사이즈에 시럽 없이 고르는 것만으로도 차이가 나요."
+    }
+   },
+   "hero": "wide-latte.jpg",
+   "picks": [
+    {
+     "id": "mocha",
+     "image": "mocha.jpg",
+     "title": {
+      "tr": "Fit Mocha",
+      "en": "Light Mocha",
+      "de": "Leichter Mokka",
+      "fr": "Moka léger",
+      "ja": "軽いモカ",
+      "ko": "가벼운 모카"
+     },
+     "minutes": 5,
+     "servings": 1,
+     "kcal": 120,
+     "protein": 8
+    },
+    {
+     "id": "dalgona",
+     "image": "dalgona.jpg",
+     "title": {
+      "tr": "Dalgona Kahve (Fit)",
+      "en": "Light Dalgona Coffee",
+      "de": "Leichter Dalgona-Kaffee",
+      "fr": "Café dalgona léger",
+      "ja": "軽いダルゴナコーヒー",
+      "ko": "가벼운 달고나 커피"
+     },
+     "minutes": 5,
+     "servings": 1,
+     "kcal": 125,
+     "protein": 7
+    }
+   ],
+   "recipe": {
+    "id": "chocshake",
+    "image": "wide-chocshake.jpg",
+    "title": {
+     "tr": "Çikolatalı Protein Shake",
+     "en": "Chocolate Protein Shake",
+     "de": "Schoko-Proteinshake",
+     "fr": "Shake protéiné au chocolat",
+     "ja": "チョコレートプロテインシェイク",
+     "ko": "초콜릿 단백질 셰이크"
+    },
+    "minutes": 5,
+    "servings": 1,
+    "kcal": 355,
+    "protein": 35
    }
   },
   {
@@ -575,6 +1395,170 @@
    }
   },
   {
+   "id": "scale-fluctuations-2",
+   "article": {
+    "id": "scale-fluctuations",
+    "minutes": 3,
+    "title": {
+     "tr": "Tartı Neden Her Gün Değişir?",
+     "en": "Why the Scale Changes Every Day",
+     "de": "Warum die Waage jeden Tag etwas anderes zeigt",
+     "fr": "Pourquoi la balance change tous les jours",
+     "ja": "体重はなぜ毎日変わるのか",
+     "ko": "체중은 왜 매일 달라질까요?"
+    },
+    "summary": {
+     "tr": "Günlük kilo oynamalarının çoğu yağ değil; su, tuz, karbonhidrat ve sindirimdeki yiyecekle ilgilidir.",
+     "en": "Most day-to-day weight swings are not fat; they come from water, salt, carbohydrates and food still being digested.",
+     "de": "Die meisten täglichen Gewichtsschwankungen sind kein Fett, sondern hängen mit Wasser, Salz, Kohlenhydraten und noch nicht verdauter Nahrung zusammen.",
+     "fr": "La plupart des variations de poids d'un jour à l'autre ne sont pas du gras : elles viennent de l'eau, du sel, des glucides et des aliments encore en digestion.",
+     "ja": "日々の体重の変動のほとんどは脂肪ではなく、水分、塩分、炭水化物、消化中の食べ物によるものです。",
+     "ko": "하루하루 체중이 달라지는 건 대부분 지방이 아니라 수분, 소금, 탄수화물, 소화 중인 음식 때문이에요."
+    },
+    "body": {
+     "tr": "Bir günde 1-2 kilo oynama normaldir ve neredeyse hiçbir zaman yağ değildir. Tuzlu bir akşam yemeği vücudun su tutmasına yol açar, karbonhidrat depoları da suyla birlikte saklanır. Yoğun bir antrenman, adet döngüsü ve henüz sindirilmemiş yiyecekler de tartıyı etkiler. Bu yüzden tek bir ölçüme değil eğilime bak: her sabah aynı koşullarda tartıl ve haftalık ortalamaları karşılaştır. Ortalama birkaç hafta boyunca aynı yöne gidiyorsa asıl değişim odur.",
+     "en": "A swing of 1-2 kg (2-4 lb) within a day is normal and is almost never fat. A salty dinner makes your body hold water, and carbohydrate stores are kept together with water. A hard workout, the menstrual cycle and food that has not been digested yet also move the number. So look at the trend rather than a single reading: weigh yourself under the same conditions each morning and compare weekly averages. If the average moves in the same direction for a few weeks, that is the real change.",
+     "de": "Eine Schwankung von 1-2 kg an einem Tag ist normal und fast nie Fett. Ein salziges Abendessen lässt deinen Körper Wasser einlagern, und Kohlenhydratspeicher werden zusammen mit Wasser angelegt. Auch ein hartes Training, der Menstruationszyklus und noch nicht verdaute Nahrung verändern die Zahl. Achte deshalb auf den Trend statt auf einen einzelnen Wert: Wiege dich jeden Morgen unter den gleichen Bedingungen und vergleiche die Wochendurchschnitte. Bewegt sich der Durchschnitt über ein paar Wochen in dieselbe Richtung, ist das die echte Veränderung.",
+     "fr": "Une variation de 1 à 2 kg dans la même journée est normale et ce n'est presque jamais du gras. Un dîner salé fait retenir de l'eau à ton corps, et les réserves de glucides sont stockées avec de l'eau. Un entraînement intense, le cycle menstruel et les aliments pas encore digérés font aussi bouger le chiffre. Regarde donc la tendance plutôt qu'une seule mesure : pèse-toi chaque matin dans les mêmes conditions et compare les moyennes par semaine. Si la moyenne va dans le même sens pendant quelques semaines, c'est ça le vrai changement.",
+     "ja": "1日のうちに1〜2kg変動するのは普通のことで、それが脂肪であることはほとんどありません。塩分の多い夕食をとると体は水分をため込み、炭水化物も水と一緒に蓄えられます。激しい運動、月経周期、まだ消化されていない食べ物も数字を動かします。ですから1回の測定ではなく傾向を見ましょう。毎朝同じ条件で量り、週ごとの平均を比べます。平均が数週間同じ方向に動いていれば、それが本当の変化です。",
+     "ko": "하루 사이에 1~2kg이 오르내리는 건 정상이고, 그게 지방인 경우는 거의 없어요. 짠 저녁을 먹으면 몸이 수분을 붙잡고, 탄수화물도 물과 함께 저장돼요. 힘든 운동, 생리 주기, 아직 소화되지 않은 음식도 숫자를 움직여요. 그러니 한 번의 측정이 아니라 흐름을 보세요. 매일 아침 같은 조건에서 재고 주간 평균을 비교해요. 평균이 몇 주 동안 같은 방향으로 움직인다면 그게 진짜 변화예요."
+    }
+   },
+   "hero": "wide-bamya.jpg",
+   "picks": [
+    {
+     "id": "kabakyemegi",
+     "image": "kabakyemegi.jpg",
+     "title": {
+      "tr": "Domatesli Kabak Yemeği",
+      "en": "Zucchini & Tomato Stew",
+      "de": "Zucchini-Tomaten-Eintopf",
+      "fr": "Ragoût de courgettes à la tomate",
+      "ja": "ズッキーニのトマト煮",
+      "ko": "주키니 토마토 스튜"
+     },
+     "minutes": 35,
+     "servings": 4,
+     "kcal": 110,
+     "protein": 3
+    },
+    {
+     "id": "tomatosoup",
+     "image": "tomatosoup.jpg",
+     "title": {
+      "tr": "Domates Çorbası",
+      "en": "Tomato Soup",
+      "de": "Tomatensuppe",
+      "fr": "Soupe de tomates",
+      "ja": "トマトスープ",
+      "ko": "토마토 수프"
+     },
+     "minutes": 30,
+     "servings": 4,
+     "kcal": 95,
+     "protein": 3
+    }
+   ],
+   "recipe": {
+    "id": "mushroomsoup",
+    "image": "wide-mushroomsoup.jpg",
+    "title": {
+     "tr": "Kremalı Mantar Çorbası (Yoğurtlu)",
+     "en": "Creamy Mushroom Soup",
+     "de": "Cremige Pilzsuppe",
+     "fr": "Velouté de champignons",
+     "ja": "マッシュルームのクリームスープ",
+     "ko": "크림 버섯 수프"
+    },
+    "minutes": 30,
+    "servings": 4,
+    "kcal": 125,
+    "protein": 7
+   }
+  },
+  {
+   "id": "strength-while-losing-2",
+   "article": {
+    "id": "strength-while-losing",
+    "minutes": 4,
+    "title": {
+     "tr": "Kilo Verirken Neden Ağırlık Çalışmalısın?",
+     "en": "Why Lift Weights While Losing Weight?",
+     "de": "Warum Krafttraining beim Abnehmen wichtig ist",
+     "fr": "Pourquoi faire de la musculation quand on perd du poids ?",
+     "ja": "減量中に筋トレをすべき理由",
+     "ko": "살을 뺄 때 근력 운동을 해야 하는 이유"
+    },
+    "summary": {
+     "tr": "Direnç antrenmanı ve yeterli protein, kalori açığındayken kaybettiğin kilonun kas değil yağ olmasına yardım eder.",
+     "en": "Resistance training and enough protein help make sure the weight you lose in a deficit is fat rather than muscle.",
+     "de": "Krafttraining und genug Eiweiß helfen dabei, dass du im Kaloriendefizit Fett verlierst und nicht Muskeln.",
+     "fr": "La musculation et un apport suffisant en protéines aident à ce que le poids perdu en déficit soit du gras plutôt que du muscle.",
+     "ja": "筋力トレーニングと十分なたんぱく質は、カロリー不足のときに減る体重が筋肉ではなく脂肪になるよう助けてくれます。",
+     "ko": "근력 운동과 충분한 단백질은 칼로리가 부족할 때 빠지는 체중이 근육이 아니라 지방이 되도록 도와줘요."
+    },
+    "body": {
+     "tr": "Kalori açığında vücut yalnızca yağ değil, kas da kaybedebilir. Kas kaybı gücünü ve günlük enerji harcamanı düşürür. Haftada 2-3 gün tüm büyük kas gruplarını çalıştıran direnç antrenmanı, vücuda kası koruması için güçlü bir sinyal verir. Ağırlık, direnç bandı ya da kendi vücut ağırlığın olabilir; önemli olan zamanla zorluğu artırmak. Bunu yeterli proteinle birleştir: aktif kişiler için genel öneri kilo başına günde yaklaşık 1,2-2 gramdır. Yeni başlıyorsan hafif başla ve tekniği öğren.",
+     "en": "In a calorie deficit your body can lose muscle as well as fat. Losing muscle lowers your strength and the energy you burn each day. Resistance training that works all major muscle groups 2-3 days a week gives your body a strong signal to keep its muscle. It can be weights, resistance bands or your own body weight; what matters is making it harder over time. Combine it with enough protein: a common guideline for active people is around 1.2-2 grams per kilogram of body weight a day. If you are new to it, start light and learn the technique.",
+     "de": "Im Kaloriendefizit kann dein Körper nicht nur Fett, sondern auch Muskeln abbauen. Weniger Muskeln bedeuten weniger Kraft und einen geringeren täglichen Energieverbrauch. Krafttraining an 2-3 Tagen pro Woche, das alle großen Muskelgruppen fordert, gibt dem Körper ein starkes Signal, die Muskeln zu erhalten. Das können Gewichte, Widerstandsbänder oder das eigene Körpergewicht sein; wichtig ist, die Belastung mit der Zeit zu steigern. Kombiniere das mit genug Eiweiß: Für aktive Menschen gelten etwa 1,2-2 Gramm pro Kilogramm Körpergewicht am Tag als gängige Empfehlung. Wenn du neu anfängst, beginne leicht und lerne die Technik.",
+     "fr": "En déficit calorique, le corps peut perdre du muscle en plus du gras. Perdre du muscle diminue ta force et l'énergie que tu dépenses chaque jour. Un entraînement de résistance qui sollicite tous les grands groupes musculaires 2 à 3 jours par semaine envoie au corps un signal fort pour garder son muscle. Haltères, élastiques ou poids du corps, peu importe ; l'essentiel est d'augmenter la difficulté avec le temps. Associe-le à assez de protéines : pour les personnes actives, on recommande en général environ 1,2 à 2 grammes par kilo de poids corporel par jour. Si tu débutes, commence léger et apprends la technique.",
+     "ja": "カロリーが不足していると、体は脂肪だけでなく筋肉も失うことがあります。筋肉が減ると、力も1日の消費エネルギーも落ちます。週に2〜3日、主要な筋肉をすべて使う筋力トレーニングを行うと、筋肉を保つよう体に強い合図を送れます。ウエイト、トレーニングバンド、自分の体重のどれでもかまいません。大切なのは少しずつ負荷を上げることです。これに十分なたんぱく質を組み合わせましょう。活動的な人の一般的な目安は、体重1kgあたり1日約1.2〜2gです。初めての方は軽い負荷から始めて、フォームを身につけてください。",
+     "ko": "칼로리가 부족하면 몸은 지방뿐 아니라 근육도 잃을 수 있어요. 근육이 줄면 힘도, 하루에 쓰는 에너지도 줄어요. 주 2~3일 큰 근육을 모두 쓰는 근력 운동을 하면 몸에 근육을 지키라는 강한 신호를 줄 수 있어요. 기구, 밴드, 맨몸 운동 무엇이든 괜찮아요. 중요한 건 시간이 지나면서 강도를 높이는 거예요. 여기에 충분한 단백질을 더하세요. 활동적인 사람의 일반적인 권장량은 체중 1kg당 하루 약 1.2~2g이에요. 처음이라면 가볍게 시작해서 자세부터 익히세요."
+    }
+   },
+   "hero": "wide-etliguvec.jpg",
+   "picks": [
+    {
+     "id": "labnetoast",
+     "image": "labnetoast.jpg",
+     "title": {
+      "tr": "Labneli Sebzeli Tost",
+      "en": "Labneh & Veggie Toast",
+      "de": "Labneh-Gemüse-Toast",
+      "fr": "Toast labneh et légumes",
+      "ja": "ラブネと野菜のトースト",
+      "ko": "라브네 채소 토스트"
+     },
+     "minutes": 8,
+     "servings": 1,
+     "kcal": 285,
+     "protein": 13
+    },
+    {
+     "id": "sweetpotatoegg",
+     "image": "sweetpotatoegg.jpg",
+     "title": {
+      "tr": "Yumurtalı Fırın Tatlı Patates",
+      "en": "Egg-Stuffed Sweet Potato",
+      "de": "Süßkartoffel mit Ei gefüllt",
+      "fr": "Patate douce farcie à l’œuf",
+      "ja": "卵入りさつまいも",
+      "ko": "달걀을 채운 고구마"
+     },
+     "minutes": 45,
+     "servings": 2,
+     "kcal": 240,
+     "protein": 9
+    }
+   ],
+   "recipe": {
+    "id": "wrap",
+    "image": "wide-wrap.jpg",
+    "title": {
+     "tr": "Tavuklu Dürüm",
+     "en": "Chicken Wrap",
+     "de": "Hähnchen-Wrap",
+     "fr": "Wrap au poulet",
+     "ja": "チキンラップ",
+     "ko": "치킨 랩"
+    },
+    "minutes": 15,
+    "servings": 2,
+    "kcal": 370,
+    "protein": 34
+   }
+  },
+  {
    "id": "hydration-and-hunger-2",
    "article": {
     "id": "hydration-and-hunger",
@@ -657,119 +1641,135 @@
    }
   },
   {
-   "id": "fiber-basics-3",
+   "id": "eating-out-2",
    "article": {
-    "id": "fiber-basics",
+    "id": "eating-out",
     "minutes": 3,
     "title": {
-     "tr": "Lif: Gözden Kaçan Tokluk Aracı",
-     "en": "Fiber: The Overlooked Satiety Tool",
-     "de": "Ballaststoffe: der unterschätzte Sattmacher",
-     "fr": "Les fibres : l’alliée satiété qu’on oublie",
-     "ja": "食物繊維：見落とされがちな満腹の味方",
-     "ko": "식이섬유: 놓치기 쉬운 포만감 도우미"
+     "tr": "Dışarıda Yerken Dengeyi Korumak",
+     "en": "Keeping Your Balance When Eating Out",
+     "de": "Auswärts essen und trotzdem im Gleichgewicht bleiben",
+     "fr": "Garder l'équilibre quand on mange dehors",
+     "ja": "外食でもバランスを保つには",
+     "ko": "외식할 때 균형 지키기"
     },
     "summary": {
-     "tr": "Yeterli lif alımı tokluk hissini artırır, kan şekeri dalgalanmasını yumuşatır ve sindirim sağlığını destekler.",
-     "en": "Enough fiber boosts fullness, smooths out blood sugar swings, and supports digestive health.",
-     "de": "Genug Ballaststoffe machen länger satt, glätten Blutzuckerschwankungen und unterstützen die Verdauung.",
-     "fr": "Assez de fibres renforce la satiété, atténue les variations de glycémie et soutient la digestion.",
-     "ja": "十分な食物繊維は満腹感を高め、血糖値の変動をゆるやかにし、消化の健康を支えます。",
-     "ko": "식이섬유를 충분히 먹으면 포만감이 커지고 혈당 변동이 완만해지며 소화 건강에도 도움이 돼요."
+     "tr": "Restoran yemekleri genellikle evdekinden daha kalorili olur; birkaç basit seçim keyfi bozmadan farkı kapatır.",
+     "en": "Restaurant meals usually carry more calories than home cooking; a few simple choices close the gap without spoiling the meal.",
+     "de": "Restaurantessen hat meist mehr Kalorien als Selbstgekochtes; ein paar einfache Entscheidungen gleichen das aus, ohne den Genuss zu verderben.",
+     "fr": "Les plats au restaurant sont en général plus caloriques qu'à la maison ; quelques choix simples comblent l'écart sans gâcher le repas.",
+     "ja": "外食は家庭料理よりカロリーが高くなりがちですが、いくつかの簡単な選び方で、食事を楽しみながらその差を埋められます。",
+     "ko": "식당 음식은 보통 집밥보다 칼로리가 높지만, 간단한 선택 몇 가지로 즐거움은 그대로 두고 차이를 줄일 수 있어요."
     },
     "body": {
-     "tr": "Lif, sebze, meyve, tam tahıl ve baklagillerde bol bulunan, sindirilmeyen bir karbonhidrat türüdür. Mide boşalmasını yavaşlatarak tokluk süresini uzatır, bu da kalori açığında iştah kontrolünü kolaylaştırabilir. Genel öneri günde 25-35g civarıdır, ama çoğu insan bunun oldukça altında kalır. Lif alımını aniden artırmak şişkinlik yapabilir; su tüketimini artırarak ve kademeli ilerleyerek bu etkiyi azaltabilirsin.",
-     "en": "Fiber is an indigestible type of carbohydrate found abundantly in vegetables, fruit, whole grains and legumes. It slows stomach emptying, which extends fullness and can make appetite control easier while in a calorie deficit. A common guideline is around 25-35g per day, though most people fall well short of it. Increasing fiber intake too quickly can cause bloating; raising water intake and progressing gradually helps avoid that.",
-     "de": "Ballaststoffe sind unverdauliche Kohlenhydrate, die reichlich in Gemüse, Obst, Vollkorn und Hülsenfrüchten stecken. Sie verlangsamen die Magenentleerung, verlängern so das Sättigungsgefühl und können die Appetitkontrolle im Kaloriendefizit erleichtern. Als Richtwert gelten etwa 25-35 g pro Tag, die meisten Menschen liegen deutlich darunter. Wer die Menge zu schnell steigert, bekommt leicht Blähungen; mehr trinken und langsam steigern hilft.",
-     "fr": "Les fibres sont des glucides non digestibles, abondants dans les légumes, les fruits, les céréales complètes et les légumineuses. Elles ralentissent la vidange de l’estomac, ce qui prolonge la satiété et peut faciliter le contrôle de l’appétit en déficit calorique. On recommande souvent autour de 25-35 g par jour, mais la plupart des gens en sont loin. Augmenter les fibres trop vite peut provoquer des ballonnements ; boire davantage et y aller progressivement aide à les éviter.",
-     "ja": "食物繊維は消化されない炭水化物の一種で、野菜、果物、全粒穀物、豆類に豊富に含まれます。胃からの排出を遅らせるため満腹感が長く続き、カロリー不足のときの食欲コントロールを助けます。一般的な目安は1日約25-35 gですが、多くの人は大きく不足しています。急に増やすとお腹が張ることがあるので、水分を増やしながら少しずつ増やしましょう。",
-     "ko": "식이섬유는 소화되지 않는 탄수화물의 한 종류로 채소, 과일, 통곡물, 콩류에 풍부해요. 위가 비워지는 속도를 늦춰 포만감을 오래 유지해 주고, 칼로리 적자 상태에서 식욕 조절을 쉽게 해 줘요. 흔히 하루 약 25-35 g을 권장하지만 대부분은 이에 한참 못 미쳐요. 섭취량을 너무 빨리 늘리면 배에 가스가 찰 수 있으니 물을 더 마시면서 천천히 늘리세요."
+     "tr": "Restoranlarda porsiyonlar büyük, yağ ve sos boldur; aynı yemek evdekinden belirgin biçimde daha kalorili olabilir. Gitmeden önce menüye bakıp ne yiyeceğine karar vermek işini kolaylaştırır. Izgara, fırın ya da haşlama seçenekleri kızartmadan daha hafiftir; sosu ayrı istemek kontrolü sana verir. Tabağın yarısını sebze ya da salatayla doldur, ekmek sepetini sofradan uzak tut. Porsiyon büyükse paylaş ya da yarısını paket yaptır. Yediğini tahmini de olsa kaydet; kusursuz olmasa bile hiç kaydetmemekten iyidir.",
+     "en": "Restaurant portions are large and generous with oil and sauce, so the same dish can carry noticeably more calories than it would at home. Looking at the menu and deciding what to eat before you go makes it easier. Grilled, baked or boiled options are lighter than fried ones, and asking for sauce on the side puts you in control. Fill half your plate with vegetables or salad and keep the bread basket out of reach. If the portion is big, share it or take half home. Log what you ate even as an estimate; an imperfect entry beats none.",
+     "de": "Im Restaurant sind die Portionen groß und Öl und Soße reichlich, sodass dasselbe Gericht deutlich mehr Kalorien haben kann als zu Hause. Es hilft, vorher in die Karte zu schauen und zu entscheiden, was du isst. Gegrilltes, Gebackenes oder Gekochtes ist leichter als Frittiertes, und mit der Soße extra hast du die Kontrolle. Fülle die Hälfte des Tellers mit Gemüse oder Salat und stell den Brotkorb außer Reichweite. Ist die Portion groß, teile sie oder lass dir die Hälfte einpacken. Trag ein, was du gegessen hast, auch wenn es nur geschätzt ist; ein ungenauer Eintrag ist besser als keiner.",
+     "fr": "Au restaurant, les portions sont grandes et l'huile et la sauce généreuses : le même plat peut être nettement plus calorique qu'à la maison. Regarder la carte et décider quoi manger avant d'y aller facilite les choses. Les plats grillés, au four ou bouillis sont plus légers que les fritures, et demander la sauce à part te redonne la main. Remplis la moitié de ton assiette de légumes ou de salade et garde la corbeille de pain hors de portée. Si la portion est grosse, partage-la ou emporte la moitié. Note ce que tu as mangé, même approximativement ; une saisie imparfaite vaut mieux que rien.",
+     "ja": "レストランは1人前の量が多く、油やソースもたっぷり使うため、同じ料理でも家で作るよりかなり高カロリーになることがあります。行く前にメニューを見て何を食べるか決めておくと楽になります。焼く・オーブン・ゆでる料理は揚げ物より軽く、ソースを別添えにしてもらえば量を自分で調整できます。お皿の半分を野菜やサラダにして、パンのかごは手の届かないところに置きましょう。量が多ければシェアするか、半分を持ち帰ります。食べたものは目分量でも記録してください。完璧でなくても、記録しないよりずっと良いのです。",
+     "ko": "식당은 1인분 양이 많고 기름과 소스도 넉넉해서, 같은 음식이라도 집에서 먹을 때보다 칼로리가 훨씬 높을 수 있어요. 가기 전에 메뉴를 보고 무엇을 먹을지 정해 두면 수월해요. 굽거나 오븐에 익히거나 삶은 메뉴가 튀긴 것보다 가볍고, 소스를 따로 달라고 하면 양을 내가 조절할 수 있어요. 접시의 절반은 채소나 샐러드로 채우고 빵 바구니는 손이 닿지 않게 두세요. 양이 많으면 나눠 먹거나 절반을 포장해요. 먹은 것은 대략이라도 기록하세요. 완벽하지 않아도 안 쓰는 것보다 나아요."
     }
    },
-   "hero": "wide-quinoa.jpg",
+   "hero": "wide-shepherd.jpg",
    "picks": [
     {
-     "id": "bulgurpilav",
-     "image": "bulgurpilav.jpg",
+     "id": "menemen",
+     "image": "menemen.jpg",
      "title": {
-      "tr": "Sebzeli Bulgur Pilavı",
-      "en": "Vegetable Bulgur Pilaf",
-      "de": "Bulgurpilaw mit Gemüse",
-      "fr": "Pilaf de boulgour aux légumes",
-      "ja": "野菜入りブルグルピラフ",
-      "ko": "채소 불구르 필라프"
+      "tr": "Menemen",
+      "en": "Menemen (Turkish Scrambled Eggs)",
+      "de": "Menemen (türkisches Rührei)",
+      "fr": "Menemen (œufs brouillés à la turque)",
+      "ja": "メネメン（トルコ風スクランブルエッグ）",
+      "ko": "메네멘 (튀르키예식 스크램블드에그)"
      },
-     "minutes": 30,
-     "servings": 4,
-     "kcal": 225,
-     "protein": 7
+     "minutes": 15,
+     "servings": 2,
+     "kcal": 160,
+     "protein": 11
     },
     {
-     "id": "barbunya",
-     "image": "barbunya.jpg",
+     "id": "pancake",
+     "image": "pancake.jpg",
      "title": {
-      "tr": "Barbunya Pilaki",
-      "en": "Borlotti Bean Pilaki",
-      "de": "Borlotti-Bohnen-Pilaki",
-      "fr": "Pilaki de haricots borlotti",
-      "ja": "うずら豆のピラキ",
-      "ko": "보를로티콩 필라키"
+      "tr": "Proteinli Yulaflı Pankek",
+      "en": "Protein Oat Pancakes",
+      "de": "Protein-Hafer-Pancakes",
+      "fr": "Pancakes protéinés à l’avoine",
+      "ja": "プロテインオートパンケーキ",
+      "ko": "단백질 오트 팬케이크"
      },
-     "minutes": 70,
-     "servings": 4,
-     "kcal": 280,
-     "protein": 13
+     "minutes": 15,
+     "servings": 2,
+     "kcal": 220,
+     "protein": 10
     }
    ],
    "recipe": {
-    "id": "nohutyemegi",
-    "image": "wide-nohutyemegi.jpg",
+    "id": "shakshuka",
+    "image": "wide-shakshuka.jpg",
     "title": {
-     "tr": "Zeytinyağlı Nohut Yemeği",
-     "en": "Chickpea Stew",
-     "de": "Kichererbseneintopf",
-     "fr": "Ragoût de pois chiches",
-     "ja": "ひよこ豆の煮込み",
-     "ko": "병아리콩 스튜"
+     "tr": "Şakşuka (Yumurtalı)",
+     "en": "Shakshuka",
+     "de": "Shakshuka",
+     "fr": "Shakshuka",
+     "ja": "シャクシュカ",
+     "ko": "샥슈카"
     },
-    "minutes": 80,
-    "servings": 4,
-    "kcal": 270,
-    "protein": 12
+    "minutes": 25,
+    "servings": 2,
+    "kcal": 280,
+    "protein": 16
    }
   },
   {
-   "id": "protein-timing-3",
+   "id": "weight-plateau-2",
    "article": {
-    "id": "protein-timing",
+    "id": "weight-plateau",
     "minutes": 4,
     "title": {
-     "tr": "Protein Alımını Güne Yaymak Neden Önemli?",
-     "en": "Why Spread Your Protein Intake Across the Day?",
-     "de": "Warum solltest du dein Eiweiß über den Tag verteilen?",
-     "fr": "Pourquoi répartir tes protéines sur la journée ?",
-     "ja": "たんぱく質を1日に分けてとるのはなぜ？",
-     "ko": "단백질을 하루에 나눠 먹어야 하는 이유는?"
+     "tr": "Kilo Vermek Neden Durur?",
+     "en": "Why Weight Loss Stalls",
+     "de": "Warum das Abnehmen ins Stocken gerät",
+     "fr": "Pourquoi la perte de poids se bloque",
+     "ja": "体重が減らなくなるのはなぜ？",
+     "ko": "살이 더 안 빠지는 이유"
     },
     "summary": {
-     "tr": "Günlük protein hedefine tek öğünde ulaşmak yerine her öğüne yaymak, kas koruma ve tokluk açısından neden daha avantajlı.",
-     "en": "Why hitting your protein target across several meals, instead of one big serving, tends to work better for muscle maintenance and satiety.",
-     "de": "Warum es für Muskelerhalt und Sättigung meist besser ist, das Eiweißziel auf mehrere Mahlzeiten zu verteilen statt auf eine große Portion.",
-     "fr": "Pourquoi atteindre ton objectif de protéines sur plusieurs repas, plutôt qu’en une seule grosse portion, est souvent plus efficace pour préserver le muscle et la satiété.",
-     "ja": "たんぱく質の目標を一度に大量にとるのではなく、数回の食事に分けるほうが、筋肉の維持と満腹感に役立ちやすい理由。",
-     "ko": "단백질 목표를 한 번에 많이 먹기보다 여러 끼니에 나눠 채우는 것이 근육 유지와 포만감에 더 유리한 이유."
+     "tr": "Plato çoğu zaman vücudun yeni kilona uyum sağlamasından ve kayıtların zamanla gevşemesinden kaynaklanır.",
+     "en": "A plateau usually comes from your body adapting to its new weight and from tracking that slowly loosens over time.",
+     "de": "Ein Plateau entsteht meist, weil sich dein Körper an das neue Gewicht anpasst und das Tracking mit der Zeit ungenauer wird.",
+     "fr": "Un plateau vient le plus souvent du corps qui s'adapte à son nouveau poids et d'un suivi qui se relâche peu à peu.",
+     "ja": "停滞期は多くの場合、体が新しい体重に適応することと、記録が少しずつ甘くなることから起こります。",
+     "ko": "정체기는 대개 몸이 새 체중에 적응하고, 기록이 조금씩 느슨해지면서 찾아와요."
     },
     "body": {
-     "tr": "Vücut, tek bir öğünde işleyebileceği protein miktarı açısından sınırlıdır; büyük bir kısmı aynı anda alındığında kas protein sentezine katkısı öğünler arasına yayıldığı kadar verimli olmayabilir. Her ana öğüne 25-40g civarı protein dağıtmak, gün boyunca daha dengeli bir tokluk hissi ve kas koruma desteği sağlar. Bu, özellikle kalori açığındayken (kilo verirken) kas kütlesini korumak isteyenler için pratik bir yaklaşımdır. Kesin ihtiyaç kişiye, aktivite düzeyine ve hedeflere göre değişir.",
-     "en": "The body has a practical limit on how much protein it can put to use from a single meal, so loading most of your daily target into one sitting tends to be less efficient for muscle protein synthesis than spreading it out. Aiming for roughly 25-40g of protein per main meal supports steadier satiety and helps preserve muscle, which matters most while in a calorie deficit. Exact needs vary by person, activity level and goals.",
-     "de": "Der Körper kann aus einer einzelnen Mahlzeit nur begrenzt viel Eiweiß verwerten. Den Großteil des Tagesziels auf einmal zu essen, ist für die Muskelproteinsynthese daher meist weniger wirksam, als es zu verteilen. Etwa 25-40 g Eiweiß pro Hauptmahlzeit sorgen für gleichmäßigere Sättigung und helfen, Muskeln zu erhalten, was im Kaloriendefizit besonders wichtig ist. Der genaue Bedarf hängt von Person, Aktivität und Ziel ab.",
-     "fr": "Le corps ne peut utiliser qu’une quantité limitée de protéines à partir d’un seul repas. Concentrer l’essentiel de l’objectif quotidien en une prise est donc souvent moins efficace pour la synthèse des protéines musculaires que de le répartir. Viser environ 25-40 g de protéines par repas principal favorise une satiété plus stable et aide à préserver le muscle, ce qui compte surtout en déficit calorique. Les besoins exacts varient selon la personne, le niveau d’activité et les objectifs.",
-     "ja": "体が1回の食事から利用できるたんぱく質の量には実質的な限りがあります。そのため、1日の目標の大半を一度にとるより、分けてとるほうが筋たんぱく質の合成には効率的です。主な食事ごとに約25-40 gを目安にすると、満腹感が安定し、筋肉の維持にも役立ちます。これはカロリー不足の状態で特に重要です。必要量は人、活動量、目標によって異なります。",
-     "ko": "몸이 한 끼에서 활용할 수 있는 단백질 양에는 실질적인 한계가 있어요. 그래서 하루 목표의 대부분을 한 번에 먹으면 나눠 먹을 때보다 근육 단백질 합성에 덜 효율적이에요. 주요 끼니마다 약 25-40 g의 단백질을 목표로 하면 포만감이 더 고르게 유지되고 근육 보존에도 도움이 돼요. 이는 칼로리 적자 상태에서 특히 중요해요. 정확한 필요량은 사람, 활동량, 목표에 따라 달라요."
+     "tr": "Kilo verdikçe vücudun daha az enerji harcar; başta açık yaratan kalori miktarı bir süre sonra seni dengede tutar. Aynı zamanda porsiyonlar fark etmeden büyür, atıştırmalıklar kayıt dışı kalır. Platoya girdiysen önce iki hafta boyunca her şeyi tartarak kaydet; çoğu zaman sorun burada çıkar. Sonra hedefini güncel kilona göre yeniden hesapla ve günlük hareketini biraz artır. Kaloriyi sert biçimde kısmak yerine küçük ayarlar yap. Birkaç haftalık duraklama normaldir, sabırlı ol.",
+     "en": "As you lose weight your body spends less energy, so the calories that created a deficit at the start eventually just maintain you. At the same time portions grow without you noticing and snacks go unlogged. If you hit a plateau, first weigh and log everything for two weeks; that is where the problem usually shows up. Then recalculate your target for your current weight and add a little daily movement. Make small adjustments rather than cutting calories hard. A pause of a few weeks is normal, so be patient.",
+     "de": "Je mehr du abnimmst, desto weniger Energie verbraucht dein Körper; die Kalorienmenge, die am Anfang ein Defizit war, hält dich irgendwann nur noch im Gleichgewicht. Gleichzeitig werden Portionen unbemerkt größer und Snacks nicht mehr eingetragen. Steckst du auf einem Plateau, wiege und erfasse zuerst zwei Wochen lang alles; meistens zeigt sich das Problem dort. Berechne dann dein Ziel für dein aktuelles Gewicht neu und bewege dich im Alltag etwas mehr. Nimm kleine Anpassungen vor, statt die Kalorien hart zu kürzen. Ein Stillstand von ein paar Wochen ist normal, hab Geduld.",
+     "fr": "Plus tu perds du poids, moins ton corps dépense d'énergie : les calories qui créaient un déficit au début finissent par simplement te maintenir. En même temps, les portions grossissent sans que tu t'en rendes compte et les grignotages ne sont plus notés. Si tu es sur un plateau, commence par tout peser et tout noter pendant deux semaines ; c'est souvent là que le problème apparaît. Recalcule ensuite ton objectif pour ton poids actuel et bouge un peu plus au quotidien. Fais de petits ajustements plutôt que de couper fortement les calories. Une pause de quelques semaines est normale, sois patient.",
+     "ja": "体重が減ると体が使うエネルギーも減るため、最初は不足を生んでいたカロリー量が、やがて体重を維持するだけの量になります。同時に、気づかないうちに1回の量が増え、間食を記録しなくなっていきます。停滞したら、まず2週間、すべてを量って記録してください。たいていは原因がここで見つかります。次に、今の体重で目標を計算し直し、日常の活動量を少し増やします。カロリーを大きく削るのではなく、小さく調整しましょう。数週間止まるのは普通のことなので、焦らずに。",
+     "ko": "체중이 줄수록 몸이 쓰는 에너지도 줄어서, 처음에는 부족분을 만들던 칼로리가 어느 순간 체중을 유지하는 양이 돼요. 동시에 나도 모르게 양이 늘고 간식은 기록에서 빠져요. 정체기에 들어섰다면 먼저 2주 동안 모든 것을 재서 기록해 보세요. 대부분 여기서 원인이 드러나요. 그다음 지금 체중에 맞춰 목표를 다시 계산하고 일상 활동량을 조금 늘려요. 칼로리를 크게 줄이기보다 조금씩 조정하세요. 몇 주 멈추는 건 정상이니 조급해하지 마세요."
     }
    },
-   "hero": "wide-shrimp.jpg",
+   "hero": "wide-bulgurpilav.jpg",
    "picks": [
+    {
+     "id": "stirfry",
+     "image": "stirfry.jpg",
+     "title": {
+      "tr": "Sebzeli Tavuk Sote",
+      "en": "Chicken & Vegetable Stir-fry",
+      "de": "Hähnchen-Gemüse-Pfanne",
+      "fr": "Sauté de poulet aux légumes",
+      "ja": "鶏肉と野菜の炒めもの",
+      "ko": "닭고기 채소 볶음"
+     },
+     "minutes": 20,
+     "servings": 2,
+     "kcal": 290,
+     "protein": 37
+    },
     {
      "id": "proteincrepe",
      "image": "proteincrepe.jpg",
@@ -785,203 +1785,187 @@
      "servings": 2,
      "kcal": 345,
      "protein": 29
-    },
-    {
-     "id": "cottagedip",
-     "image": "cottagedip.jpg",
-     "title": {
-      "tr": "Lor Dip ve Çiğ Sebze",
-      "en": "Cottage Cheese Dip with Veggies",
-      "de": "Hüttenkäse-Dip mit Gemüse",
-      "fr": "Dip de cottage cheese et légumes",
-      "ja": "カッテージチーズのディップと野菜",
-      "ko": "채소를 곁들인 코티지치즈 딥"
-     },
-     "minutes": 10,
-     "servings": 4,
-     "kcal": 100,
-     "protein": 9
     }
    ],
    "recipe": {
-    "id": "turkeyballs",
-    "image": "wide-turkeyballs.jpg",
+    "id": "izmirkofte",
+    "image": "wide-izmirkofte.jpg",
     "title": {
-     "tr": "Domates Soslu Hindi Köfte",
-     "en": "Turkey Meatballs in Tomato Sauce",
-     "de": "Putenbällchen in Tomatensauce",
-     "fr": "Boulettes de dinde à la sauce tomate",
-     "ja": "七面鳥のミートボール トマトソース",
-     "ko": "토마토 소스 칠면조 미트볼"
+     "tr": "İzmir Köfte",
+     "en": "Izmir Meatballs",
+     "de": "Izmir-Köfte",
+     "fr": "Boulettes d’Izmir",
+     "ja": "イズミル風キョフテ",
+     "ko": "이즈미르 쾨프테"
     },
-    "minutes": 35,
+    "minutes": 55,
     "servings": 4,
-    "kcal": 275,
-    "protein": 28
+    "kcal": 340,
+    "protein": 24
    }
   },
   {
-   "id": "sustainable-deficit-3",
+   "id": "meal-prep-2",
    "article": {
-    "id": "sustainable-deficit",
-    "minutes": 5,
-    "title": {
-     "tr": "Çok Agresif Kalori Açığı Neden Geri Teper?",
-     "en": "Why Too Aggressive a Calorie Deficit Backfires",
-     "de": "Warum ein zu großes Kaloriendefizit nach hinten losgeht",
-     "fr": "Pourquoi un déficit calorique trop agressif se retourne contre toi",
-     "ja": "カロリーを減らしすぎると逆効果になる理由",
-     "ko": "칼로리를 너무 심하게 줄이면 역효과가 나는 이유"
-    },
-    "summary": {
-     "tr": "Kalori açığını abartmak kısa vadede hızlı sonuç verebilir ama kas kaybı, yorgunluk ve sürdürülemezlik riskini artırır.",
-     "en": "An overly large deficit can look fast in the short run, but raises the risk of muscle loss, fatigue, and giving up.",
-     "de": "Ein übergroßes Defizit wirkt kurzfristig schnell, erhöht aber das Risiko für Muskelverlust, Müdigkeit und Aufgeben.",
-     "fr": "Un déficit trop important semble rapide à court terme, mais augmente le risque de perte musculaire, de fatigue et d’abandon.",
-     "ja": "大きすぎるカロリー不足は短期的には速く見えますが、筋肉の減少、疲労、挫折のリスクを高めます。",
-     "ko": "지나치게 큰 칼로리 적자는 단기적으로는 빨라 보여도 근손실, 피로, 포기의 위험을 높여요."
-    },
-    "body": {
-     "tr": "Kilo kaybı için kalori açığı gereklidir, ama \"ne kadar fazla açık o kadar hızlı sonuç\" mantığı belirli bir noktadan sonra ters teper. Çok büyük açıklar (günlük ihtiyacın %30-40'ından fazlası) genellikle kas kaybını hızlandırır, enerji düşüklüğüne ve aşırı açlığa yol açar, bu da sürdürülebilirliği zorlaştırır. Çoğu kaynak haftada vücut ağırlığının yaklaşık %0,5-1'i kadar bir kayıp hızını daha sürdürülebilir kabul eder. Hedefin sadece kilo vermek değil, verilen kiloyu korumaksa, ölçülü bir açık uzun vadede daha güvenilir sonuç verir.",
-     "en": "A calorie deficit is necessary for weight loss, but \"the bigger the deficit, the faster the result\" stops holding past a certain point. Very large deficits (more than roughly 30-40% below maintenance) tend to accelerate muscle loss and lead to low energy and excessive hunger, which makes the plan harder to stick to. Many sources treat a loss rate of roughly 0.5-1% of body weight per week as more sustainable. If the goal is keeping the weight off, not just losing it, a moderate deficit tends to hold up better over time.",
-     "de": "Zum Abnehmen braucht es ein Kaloriendefizit, aber „je größer das Defizit, desto schneller das Ergebnis“ gilt ab einem gewissen Punkt nicht mehr. Sehr große Defizite (mehr als etwa 30-40 % unter dem Erhaltungsbedarf) beschleunigen meist den Muskelverlust und führen zu wenig Energie und starkem Hunger, sodass der Plan schwerer durchzuhalten ist. Viele Quellen halten eine Abnahme von etwa 0,5-1 % des Körpergewichts pro Woche für nachhaltiger. Wer das Gewicht nicht nur verlieren, sondern auch halten will, fährt mit einem moderaten Defizit auf Dauer meist besser.",
-     "fr": "Un déficit calorique est nécessaire pour perdre du poids, mais « plus le déficit est grand, plus le résultat est rapide » cesse d’être vrai au-delà d’un certain point. Les très gros déficits (plus d’environ 30-40 % sous l’entretien) ont tendance à accélérer la perte musculaire et à entraîner manque d’énergie et faim excessive, ce qui rend le plan plus difficile à tenir. De nombreuses sources considèrent une perte d’environ 0,5-1 % du poids corporel par semaine comme plus durable. Si le but est de ne pas reprendre le poids, et pas seulement de le perdre, un déficit modéré tient généralement mieux dans le temps.",
-     "ja": "減量にはカロリー不足が必要ですが、「不足が大きいほど結果が早い」という考えは、ある点を超えると成り立たなくなります。非常に大きな不足（維持カロリーより約30-40％以上少ない）は筋肉の減少を早め、エネルギー不足や強い空腹につながり、計画を続けにくくします。多くの資料では、1週間に体重の約0.5-1％の減量ペースがより続けやすいとされています。体重を落とすだけでなく維持することが目標なら、ほどほどの不足のほうが長続きします。",
-     "ko": "체중 감량에는 칼로리 적자가 필요하지만, \"적자가 클수록 결과가 빠르다\"는 말은 어느 지점을 넘으면 맞지 않아요. 매우 큰 적자(유지 칼로리보다 약 30-40% 이상 적게)는 근손실을 앞당기고 기운 부족과 심한 배고픔을 불러 계획을 지키기 어렵게 만들어요. 많은 자료에서 주당 체중의 약 0.5-1% 감량 속도를 더 지속 가능하다고 봐요. 빼는 것뿐 아니라 유지하는 것이 목표라면 적당한 적자가 장기적으로 더 잘 버텨요."
-    }
-   },
-   "hero": "wide-caprese.jpg",
-   "picks": [
-    {
-     "id": "tomatosoup",
-     "image": "tomatosoup.jpg",
-     "title": {
-      "tr": "Domates Çorbası",
-      "en": "Tomato Soup",
-      "de": "Tomatensuppe",
-      "fr": "Soupe de tomates",
-      "ja": "トマトスープ",
-      "ko": "토마토 수프"
-     },
-     "minutes": 30,
-     "servings": 4,
-     "kcal": 95,
-     "protein": 3
-    },
-    {
-     "id": "mushroomsoup",
-     "image": "mushroomsoup.jpg",
-     "title": {
-      "tr": "Kremalı Mantar Çorbası (Yoğurtlu)",
-      "en": "Creamy Mushroom Soup",
-      "de": "Cremige Pilzsuppe",
-      "fr": "Velouté de champignons",
-      "ja": "マッシュルームのクリームスープ",
-      "ko": "크림 버섯 수프"
-     },
-     "minutes": 30,
-     "servings": 4,
-     "kcal": 125,
-     "protein": 7
-    }
-   ],
-   "recipe": {
-    "id": "kabakyemegi",
-    "image": "wide-kabakyemegi.jpg",
-    "title": {
-     "tr": "Domatesli Kabak Yemeği",
-     "en": "Zucchini & Tomato Stew",
-     "de": "Zucchini-Tomaten-Eintopf",
-     "fr": "Ragoût de courgettes à la tomate",
-     "ja": "ズッキーニのトマト煮",
-     "ko": "주키니 토마토 스튜"
-    },
-    "minutes": 35,
-    "servings": 4,
-    "kcal": 110,
-    "protein": 3
-   }
-  },
-  {
-   "id": "hydration-and-hunger-3",
-   "article": {
-    "id": "hydration-and-hunger",
+    "id": "meal-prep",
     "minutes": 3,
     "title": {
-     "tr": "Susuzluk, Açlıkla Karışabilir mi?",
-     "en": "Can Thirst Be Mistaken for Hunger?",
-     "de": "Kann man Durst mit Hunger verwechseln?",
-     "fr": "Peut-on confondre la soif avec la faim ?",
-     "ja": "のどの渇きを空腹と勘違いすることはある？",
-     "ko": "갈증을 배고픔으로 착각할 수 있을까?"
+     "tr": "Haftalık Hazırlık: Kararı Önceden Ver",
+     "en": "Weekly Prep: Decide in Advance",
+     "de": "Meal Prep: die Entscheidung vorab treffen",
+     "fr": "Préparation de la semaine : décide à l'avance",
+     "ja": "週1回の作り置き：先に決めておく",
+     "ko": "주간 준비: 미리 정해 두기"
     },
     "summary": {
-     "tr": "Yetersiz su tüketimi bazen açlık hissiyle karışabilir; öğün öncesi su içmenin porsiyon kontrolüne küçük bir katkısı olabilir.",
-     "en": "Mild dehydration can sometimes be mistaken for hunger; drinking water before a meal may give portion control a small assist.",
-     "de": "Leichter Flüssigkeitsmangel fühlt sich manchmal wie Hunger an; ein Glas Wasser vor dem Essen kann die Portionskontrolle etwas unterstützen.",
-     "fr": "Une légère déshydratation peut parfois être prise pour de la faim ; boire de l’eau avant un repas peut donner un petit coup de pouce au contrôle des portions.",
-     "ja": "軽い脱水は空腹と勘違いされることがあります。食事の前に水を飲むと、食べる量のコントロールを少し助けてくれるかもしれません。",
-     "ko": "가벼운 탈수는 때때로 배고픔으로 착각될 수 있어요. 식사 전에 물을 마시면 식사량 조절에 조금 도움이 될 수 있어요."
+     "tr": "Haftada bir saatlik hazırlık, yorgun akşamlarda hızlı ama dengesiz seçimlere yönelmeyi azaltır.",
+     "en": "An hour of prep once a week cuts down on quick but unbalanced choices on tired evenings.",
+     "de": "Eine Stunde Vorbereitung pro Woche sorgt dafür, dass du an müden Abenden seltener zu schnellen, aber unausgewogenen Lösungen greifst.",
+     "fr": "Une heure de préparation par semaine réduit les choix rapides mais déséquilibrés des soirs de fatigue.",
+     "ja": "週に1時間の準備で、疲れた夜に手早いけれど偏った食事を選ぶことが減ります。",
+     "ko": "일주일에 한 시간만 준비해도 피곤한 저녁에 빠르지만 불균형한 선택을 하는 일이 줄어요."
     },
     "body": {
-     "tr": "Susuzluk ve açlık sinyalleri beyinde kısmen örtüşen mekanizmalar kullanır, bu yüzden bazı insanlarda hafif susuzluk açlık gibi algılanabilir. Bilimsel kanıt \"su içmek tek başına kilo verdirir\" iddiasını desteklemez, ama öğünden yaklaşık 20-30 dakika önce bir bardak su içmek bazı kişilerde porsiyon büyüklüğünü hafifçe azaltmaya yardımcı olabilir. Bu küçük bir araçtır, kalori dengesinin yerini tutmaz.",
-     "en": "Thirst and hunger signals share some overlapping pathways in the brain, so mild dehydration can sometimes register as hunger. The evidence does not support \"drinking water alone causes weight loss,\" but having a glass of water roughly 20-30 minutes before a meal may modestly reduce portion size for some people. It is a small supporting tool, not a substitute for overall calorie balance.",
-     "de": "Durst- und Hungersignale nutzen im Gehirn teils dieselben Bahnen, daher kann sich leichter Flüssigkeitsmangel manchmal wie Hunger anfühlen. Dass „Wassertrinken allein schlank macht“, ist nicht belegt, aber ein Glas Wasser etwa 20-30 Minuten vor dem Essen kann bei manchen die Portionsgröße leicht verringern. Es ist ein kleines Hilfsmittel und kein Ersatz für die gesamte Kalorienbilanz.",
-     "fr": "Les signaux de soif et de faim partagent certaines voies dans le cerveau, si bien qu’une légère déshydratation peut parfois être ressentie comme de la faim. Rien ne prouve que « boire de l’eau suffit à faire maigrir », mais un verre d’eau environ 20-30 minutes avant un repas peut réduire légèrement la taille des portions chez certaines personnes. C’est un petit outil d’appoint, pas un substitut à l’équilibre calorique global.",
-     "ja": "のどの渇きと空腹のシグナルは脳内で一部同じ経路を使うため、軽い脱水が空腹として感じられることがあります。「水を飲むだけでやせる」という根拠はありませんが、食事の約20-30分前にコップ1杯の水を飲むと、人によっては食べる量が少し減ることがあります。あくまで小さな補助であり、全体のカロリーバランスの代わりにはなりません。",
-     "ko": "갈증과 배고픔 신호는 뇌에서 일부 같은 경로를 쓰기 때문에 가벼운 탈수가 배고픔처럼 느껴질 때가 있어요. \"물만 마셔도 살이 빠진다\"는 근거는 없지만, 식사 약 20-30분 전에 물 한 잔을 마시면 일부 사람은 먹는 양이 조금 줄 수 있어요. 작은 보조 수단일 뿐 전체 칼로리 균형을 대신하지는 못해요."
+     "tr": "Ne yiyeceğine aç ve yorgunken karar vermek zordur; o an en kolay olan çoğu zaman en dengeli seçenek olmaz. Haftada bir kez kısa bir hazırlık bu kararı önceden vermeni sağlar. Her şeyi pişirmen gerekmez: bir protein (tavuk, köfte, haşlanmış yumurta), bir tahıl ya da baklagil (bulgur, pirinç, nohut) ve yıkanıp doğranmış sebzeler yeter. Bunları hafta içinde farklı biçimlerde birleştirirsin. Pişmiş yemekleri kapalı kapta buzdolabında sakla ve 3-4 gün içinde tüket; fazlasını porsiyonlayıp dondur.",
+     "en": "Deciding what to eat when you are hungry and tired is hard, and the easiest option at that moment is rarely the most balanced one. A short prep session once a week lets you make that decision in advance. You do not need to cook everything: one protein (chicken, meatballs, boiled eggs), one grain or legume (bulgur, rice, chickpeas) and washed, chopped vegetables are enough. You combine them in different ways through the week. Keep cooked food in closed containers in the fridge and eat it within 3-4 days; portion and freeze the rest.",
+     "de": "Hungrig und müde zu entscheiden, was es zu essen gibt, ist schwer, und das Einfachste ist in dem Moment selten das Ausgewogenste. Mit einer kurzen Vorbereitung einmal pro Woche triffst du diese Entscheidung im Voraus. Du musst nicht alles kochen: eine Eiweißquelle (Hähnchen, Frikadellen, gekochte Eier), ein Getreide oder eine Hülsenfrucht (Bulgur, Reis, Kichererbsen) und gewaschenes, geschnittenes Gemüse reichen. Unter der Woche kombinierst du sie immer wieder anders. Bewahre Gekochtes in geschlossenen Behältern im Kühlschrank auf und iss es innerhalb von 3-4 Tagen; den Rest portionierst du und frierst ihn ein.",
+     "fr": "Décider quoi manger quand on a faim et qu'on est fatigué est difficile, et le plus simple sur le moment est rarement le plus équilibré. Une courte séance de préparation par semaine te permet de prendre cette décision à l'avance. Pas besoin de tout cuisiner : une protéine (poulet, boulettes, œufs durs), une céréale ou une légumineuse (boulgour, riz, pois chiches) et des légumes lavés et coupés suffisent. Tu les associes de différentes façons pendant la semaine. Garde les plats cuits au réfrigérateur dans des boîtes fermées et mange-les dans les 3 à 4 jours ; portionne et congèle le reste.",
+     "ja": "お腹が空いて疲れているときに何を食べるか決めるのは難しく、その場でいちばん楽な選択がいちばんバランスの良い選択であることはまれです。週に1回、短い準備の時間をとれば、その判断を前もって済ませられます。全部を作る必要はありません。たんぱく質を1つ（鶏肉、ミートボール、ゆで卵）、穀物か豆を1つ（ブルグル、米、ひよこ豆）、そして洗って切った野菜があれば十分です。平日はそれらをいろいろに組み合わせます。調理したものは密閉容器に入れて冷蔵し、3〜4日以内に食べきりましょう。残りは小分けにして冷凍します。",
+     "ko": "배고프고 피곤할 때 무엇을 먹을지 정하기는 어렵고, 그 순간 가장 쉬운 선택이 가장 균형 잡힌 선택인 경우는 드물어요. 일주일에 한 번 짧게 준비해 두면 그 결정을 미리 해 둘 수 있어요. 전부 요리할 필요는 없어요. 단백질 한 가지(닭고기, 미트볼, 삶은 달걀), 곡물이나 콩류 한 가지(불구르, 밥, 병아리콩), 그리고 씻어서 썰어 둔 채소면 충분해요. 주중에는 이것들을 여러 방식으로 조합하면 돼요. 조리한 음식은 밀폐 용기에 담아 냉장 보관하고 3~4일 안에 드세요. 남는 것은 나눠서 냉동해요."
     }
    },
-   "hero": "wide-goldenmilk.jpg",
+   "hero": "wide-chocbar.jpg",
    "picks": [
     {
-     "id": "yayla",
-     "image": "yayla.jpg",
+     "id": "yogurtbark",
+     "image": "yogurtbark.jpg",
      "title": {
-      "tr": "Yayla Çorbası",
-      "en": "Yogurt & Rice Soup",
-      "de": "Joghurt-Reis-Suppe",
-      "fr": "Soupe au yaourt et au riz",
-      "ja": "ヨーグルトと米のスープ",
-      "ko": "요거트 쌀 수프"
+      "tr": "Yoğurtlu Meyveli Bark",
+      "en": "Yogurt Berry Bark",
+      "de": "Joghurt-Beeren-Bark",
+      "fr": "Bark de yaourt aux fruits rouges",
+      "ja": "ヨーグルトベリーバーク",
+      "ko": "요거트 베리 바크"
      },
-     "minutes": 30,
-     "servings": 4,
-     "kcal": 150,
-     "protein": 6
+     "minutes": 15,
+     "servings": 6,
+     "kcal": 120,
+     "protein": 7
     },
     {
-     "id": "pumpkinsoup",
-     "image": "pumpkinsoup.jpg",
+     "id": "mugcake",
+     "image": "mugcake.jpg",
      "title": {
-      "tr": "Balkabağı Çorbası",
-      "en": "Pumpkin Soup",
-      "de": "Kürbissuppe",
-      "fr": "Soupe de potiron",
-      "ja": "かぼちゃスープ",
-      "ko": "호박 수프"
+      "tr": "Kupta Çikolatalı Kek",
+      "en": "Chocolate Mug Cake",
+      "de": "Schoko-Tassenkuchen",
+      "fr": "Mug cake au chocolat",
+      "ja": "チョコレートマグケーキ",
+      "ko": "초콜릿 머그 케이크"
      },
-     "minutes": 30,
-     "servings": 4,
-     "kcal": 130,
-     "protein": 4
+     "minutes": 5,
+     "servings": 1,
+     "kcal": 295,
+     "protein": 14
     }
    ],
    "recipe": {
-    "id": "tarhana",
-    "image": "wide-tarhana.jpg",
+    "id": "popcorn",
+    "image": "wide-popcorn.jpg",
     "title": {
-     "tr": "Tarhana Çorbası",
-     "en": "Tarhana Soup",
-     "de": "Tarhana-Suppe",
-     "fr": "Soupe de tarhana",
-     "ja": "タルハナスープ",
-     "ko": "타르하나 수프"
+     "tr": "Evde Fit Patlamış Mısır",
+     "en": "Light Stovetop Popcorn",
+     "de": "Leichtes Popcorn aus dem Topf",
+     "fr": "Pop-corn léger à la casserole",
+     "ja": "鍋で作る軽いポップコーン",
+     "ko": "가벼운 냄비 팝콘"
+    },
+    "minutes": 8,
+    "servings": 2,
+    "kcal": 135,
+    "protein": 4
+   }
+  },
+  {
+   "id": "daily-steps-2",
+   "article": {
+    "id": "daily-steps",
+    "minutes": 3,
+    "title": {
+     "tr": "Adımlar Neden Sayılır?",
+     "en": "Why Steps Count",
+     "de": "Warum Schritte zählen",
+     "fr": "Pourquoi les pas comptent",
+     "ja": "歩数が大切な理由",
+     "ko": "걸음 수가 중요한 이유"
+    },
+    "summary": {
+     "tr": "Gün içindeki sıradan hareket, toplam enerji harcamanda çoğu zaman antrenmandan daha büyük yer tutar.",
+     "en": "Ordinary movement through the day often makes up a bigger share of the energy you burn than your workouts do.",
+     "de": "Die ganz normale Bewegung im Alltag macht oft einen größeren Teil deines Energieverbrauchs aus als dein Training.",
+     "fr": "Les mouvements ordinaires de la journée représentent souvent une plus grande part de ta dépense d'énergie que tes séances de sport.",
+     "ja": "日常の何気ない動きは、消費エネルギー全体の中で、トレーニングよりも大きな割合を占めることがよくあります。",
+     "ko": "하루 동안의 평범한 움직임이 운동보다 전체 에너지 소비에서 더 큰 몫을 차지하는 경우가 많아요."
+    },
+    "body": {
+     "tr": "Yürümek, merdiven çıkmak, ev işi yapmak gibi egzersiz sayılmayan hareketler gün boyunca birikir ve toplamda bir saatlik antrenmandan daha fazla enerji harcatabilir. Kalori açığındayken insanlar farkında olmadan daha az hareket etmeye başlar; adım saymak bunu görünür kılar. Bugünkü ortalamanı öğren ve üzerine günde 1.000-2.000 adım ekleyerek başla. Telefonla konuşurken yürümek, bir durak önce inmek, yemekten sonra on dakikalık yürüyüş yeterlidir. Belirli bir sayıya takılma; önemli olan dünden biraz fazlası.",
+     "en": "Movement that does not count as exercise, such as walking, taking the stairs and housework, adds up through the day and can burn more energy in total than an hour's workout. In a calorie deficit people start moving less without noticing, and counting steps makes that visible. Find your current average and start by adding 1,000-2,000 steps a day. Walking while on the phone, getting off one stop early or a ten-minute walk after meals is enough. Do not fixate on a specific number; what matters is a little more than yesterday.",
+     "de": "Bewegung, die nicht als Sport gilt, etwa Gehen, Treppensteigen und Hausarbeit, summiert sich über den Tag und kann insgesamt mehr Energie verbrauchen als eine Stunde Training. Im Kaloriendefizit bewegen sich Menschen unbemerkt weniger; Schritte zu zählen macht das sichtbar. Finde deinen aktuellen Durchschnitt heraus und beginne damit, 1.000-2.000 Schritte am Tag draufzulegen. Beim Telefonieren gehen, eine Haltestelle früher aussteigen oder zehn Minuten Spaziergang nach dem Essen reichen. Versteife dich nicht auf eine bestimmte Zahl; wichtig ist ein bisschen mehr als gestern.",
+     "fr": "Les mouvements qui ne comptent pas comme du sport, comme marcher, monter les escaliers ou faire le ménage, s'additionnent au fil de la journée et peuvent dépenser au total plus d'énergie qu'une heure d'entraînement. En déficit calorique, on se met à moins bouger sans s'en rendre compte ; compter ses pas le rend visible. Repère ta moyenne actuelle et commence par ajouter 1 000 à 2 000 pas par jour. Marcher en téléphonant, descendre un arrêt plus tôt ou marcher dix minutes après les repas suffit. Ne te focalise pas sur un chiffre précis ; l'important, c'est un peu plus qu'hier.",
+     "ja": "歩く、階段を上る、家事をするといった運動とは見なされない動きは、1日を通して積み重なり、合計すると1時間のトレーニングより多くのエネルギーを消費することもあります。カロリーが不足していると、人は気づかないうちに動く量が減ります。歩数を数えるとそれが見えるようになります。今の平均を確認して、そこに1日1,000〜2,000歩を足すことから始めましょう。電話をしながら歩く、ひと駅手前で降りる、食後に10分歩く、それで十分です。特定の数字にこだわらないでください。大切なのは昨日より少し多いことです。",
+     "ko": "걷기, 계단 오르기, 집안일처럼 운동으로 치지 않는 움직임은 하루 동안 쌓여서, 모두 합치면 한 시간 운동보다 더 많은 에너지를 쓸 수 있어요. 칼로리가 부족할 때 사람들은 자기도 모르게 덜 움직이게 되는데, 걸음 수를 세면 그게 눈에 보여요. 지금 평균을 확인하고 거기에 하루 1,000~2,000걸음을 더하는 것부터 시작하세요. 통화하면서 걷기, 한 정거장 먼저 내리기, 식사 후 10분 산책이면 충분해요. 특정 숫자에 매달리지 마세요. 중요한 건 어제보다 조금 더예요."
+    }
+   },
+   "hero": "wide-brownie.jpg",
+   "picks": [
+    {
+     "id": "cheesecake",
+     "image": "cheesecake.jpg",
+     "title": {
+      "tr": "Fit Yoğurtlu Cheesecake",
+      "en": "Light Yogurt Cheesecake",
+      "de": "Leichter Joghurt-Cheesecake",
+      "fr": "Cheesecake léger au yaourt",
+      "ja": "ヨーグルトの軽いチーズケーキ",
+      "ko": "가벼운 요거트 치즈케이크"
+     },
+     "minutes": 20,
+     "servings": 6,
+     "kcal": 175,
+     "protein": 9
+    },
+    {
+     "id": "cookies",
+     "image": "cookies.jpg",
+     "title": {
+      "tr": "Yulaflı Muzlu Kurabiye",
+      "en": "Oat & Banana Cookies",
+      "de": "Hafer-Bananen-Kekse",
+      "fr": "Cookies avoine-banane",
+      "ja": "オートミールとバナナのクッキー",
+      "ko": "오트밀 바나나 쿠키"
+     },
+     "minutes": 25,
+     "servings": 6,
+     "kcal": 130,
+     "protein": 3
+    }
+   ],
+   "recipe": {
+    "id": "tiramisu",
+    "image": "wide-tiramisu.jpg",
+    "title": {
+     "tr": "Fit Tiramisu",
+     "en": "Light Tiramisu",
+     "de": "Leichtes Tiramisu",
+     "fr": "Tiramisu léger",
+     "ja": "軽いティラミス",
+     "ko": "가벼운 티라미수"
     },
     "minutes": 20,
     "servings": 4,
-    "kcal": 95,
-    "protein": 2
+    "kcal": 205,
+    "protein": 9
    }
   }
  ]
