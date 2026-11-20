@@ -4,7 +4,7 @@
 
 ## Sayfalar
 
-- [Ana sayfa ve kalori tablosu](https://rutkayazizaksu.github.io/mycal-web/): 485 Türk yemeği ve besinin doğrulanmış kalori ve makro değerleri
+- [Ana sayfa ve kalori tablosu](https://rutkayazizaksu.github.io/mycal-web/): 2341 Türk yemeği ve besinin doğrulanmış kalori ve makro değerleri
 - [Uygulama (App Store)](https://apps.apple.com/tr/app/mycal/id6806923395)
 - [Gizlilik ve KVKK](https://rutkayazizaksu.github.io/mycal-legal/privacy-policy.html)
 
